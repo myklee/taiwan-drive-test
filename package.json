@@ -1,0 +1,18 @@
+{
+  "name": "taiwan-driving-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "extract": "node extract-questions.js && python3 extract_images.py && python3 map_images_to_questions.py",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.4.624"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
