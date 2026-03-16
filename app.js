@@ -1,7 +1,6 @@
 let allQuestions = [];
 let filteredQuestions = [];
 let currentQuestionIndex = 0;
-let stats = { correct: 0, incorrect: 0 };
 let favorites = new Set();
 
 // Load favorites from localStorage
@@ -50,8 +49,6 @@ async function loadQuestions() {
 
 function updateStats() {
   document.getElementById("total-count").textContent = filteredQuestions.length;
-  document.getElementById("correct-count").textContent = stats.correct;
-  document.getElementById("incorrect-count").textContent = stats.incorrect;
 }
 
 function renderQuestion() {
@@ -143,14 +140,10 @@ function handleAnswer(selected, question) {
   });
 
   if (isCorrect) {
-    stats.correct++;
     feedback.innerHTML = '<div class="feedback correct">✓ Correct!</div>';
   } else {
-    stats.incorrect++;
     feedback.innerHTML = `<div class="feedback incorrect">✗ Incorrect. The correct answer is ${question.answer}.</div>`;
   }
-
-  updateStats();
 }
 
 // Filter handling
@@ -198,7 +191,6 @@ function renderIndex() {
       return `
         <div class="index-item ${isActive ? "active" : ""} ${isFavorited ? "favorite" : ""}" data-index="${idx}">
           <span class="index-item-number">${q.number}</span>
-          <span class="index-item-star ${isFavorited ? "favorited" : ""}" data-id="${q.id}">★</span>
         </div>
       `;
     })
@@ -206,18 +198,10 @@ function renderIndex() {
 
   // Add click listeners
   document.querySelectorAll(".index-item").forEach((item) => {
-    item.addEventListener("click", (e) => {
-      if (e.target.classList.contains("index-item-star")) {
-        // Toggle favorite
-        const questionId = e.target.dataset.id;
-        toggleFavorite(questionId);
-        e.stopPropagation(); // Prevent navigation when clicking star
-      } else {
-        // Navigate to question
-        currentQuestionIndex = parseInt(item.dataset.index);
-        renderQuestion();
-        renderIndex();
-      }
+    item.addEventListener("click", () => {
+      currentQuestionIndex = parseInt(item.dataset.index);
+      renderQuestion();
+      renderIndex();
     });
   });
 

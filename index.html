@@ -36,7 +36,6 @@
         padding: 20px;
         border-radius: 8px;
         margin-bottom: 20px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       }
       h1 {
         color: #333;
@@ -73,7 +72,6 @@
         padding: 30px;
         border-radius: 8px;
         margin-bottom: 20px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       }
       .question-header {
         display: flex;
@@ -189,28 +187,15 @@
         max-width: 100%;
         height: auto;
         border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
       }
       .index-panel {
         width: 320px;
         height: 100vh;
         background: white;
-        box-shadow: -4px 0 12px rgba(0, 0, 0, 0.1);
         overflow-y: auto;
         flex-shrink: 0;
       }
-      .index-header {
-        padding: 20px;
-        background: #007bff;
-        color: white;
-        position: sticky;
-        top: 0;
-        z-index: 1;
-      }
-      .index-header h2 {
-        margin: 0;
-        font-size: 18px;
-      }
+
       .index-content {
         padding: 15px;
         display: grid;
@@ -240,21 +225,8 @@
         background: #e3f2fd;
       }
       .index-item.favorite {
-        border-color: #ffc107;
         background: #fff8e1;
-      }
-      .index-item-number {
-        font-weight: 600;
-        color: #333;
-      }
-      .index-item-star {
-        font-size: 16px;
-        cursor: pointer;
-        color: #ddd;
-        transition: color 0.2s;
-      }
-      .index-item-star.favorited {
-        color: #ffc107;
+        border-color: #ffc107;
       }
       .favorite-btn {
         background: none;
@@ -271,6 +243,14 @@
       }
       .favorite-btn:hover {
         transform: scale(1.2);
+      }
+      .index-item.favorite {
+        border-color: #ffc107;
+        background: #fff8e1;
+      }
+      .index-item-number {
+        font-weight: 600;
+        color: #333;
       }
     </style>
   </head>
@@ -302,8 +282,6 @@
           </div>
           <div class="stats">
             <span>Total: <strong id="total-count">0</strong></span>
-            <span>Correct: <strong id="correct-count">0</strong></span>
-            <span>Incorrect: <strong id="incorrect-count">0</strong></span>
           </div>
         </div>
         <div id="question-container"></div>
@@ -311,9 +289,6 @@
     </div>
 
     <div class="index-panel" id="index-panel">
-      <div class="index-header">
-        <h2>Question Index</h2>
-      </div>
       <div class="index-content" id="index-content">
         <!-- Index items will be populated here -->
       </div>
