@@ -30,7 +30,7 @@ function toggleFavorite(questionId) {
 
 async function loadQuestions() {
   try {
-    const response = await fetch("/questions.json");
+    const response = await fetch("./questions.json");
     allQuestions = await response.json();
     filteredQuestions = [...allQuestions];
     loadFavorites();
