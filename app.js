@@ -209,6 +209,12 @@ function renderIndex() {
   document.querySelectorAll(".index-item").forEach((item) => {
     item.addEventListener("click", () => {
       currentQuestionIndex = parseInt(item.dataset.index);
+      // Close index panel on mobile
+      const panel = document.getElementById("index-panel");
+      const btn = document.getElementById("index-toggle");
+      panel.classList.remove("open");
+      btn.textContent = "☰ Question Index";
+      document.body.style.overflow = "";
       renderQuestion();
       renderIndex();
     });
