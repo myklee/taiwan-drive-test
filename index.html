@@ -25,7 +25,9 @@
       .main-content {
         flex: 1;
         overflow-y: auto;
+        height: 100vh;
         padding: 20px;
+        padding-bottom: 0;
       }
       .container {
         max-width: 800px;
@@ -208,12 +210,12 @@
       @media (max-width: 768px) {
         body {
           flex-direction: column;
-          height: auto;
+          height: 100vh;
           overflow: auto;
         }
         .main-content {
           overflow-y: visible;
-          padding: 12px;
+          height: 100vh;
         }
         .header {
           padding: 15px;
@@ -365,12 +367,12 @@
       </div>
     </div>
 
-    <button class="index-toggle" id="index-toggle">☰ Question Index</button>
     <div class="index-panel" id="index-panel">
       <div class="index-content" id="index-content">
         <!-- Index items will be populated here -->
       </div>
     </div>
+    <button class="index-toggle" id="index-toggle">☰ Question Index</button>
 
     <script type="module" src="/app.js"></script>
   </body>
