@@ -4603,7 +4603,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img1.png"
+    "image": "images/signs-multiple-choice-p1-img2.png"
   },
   {
     "id": "signs-multiple-choice-003",
@@ -4626,7 +4626,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img2.png"
+    "image": "images/signs-multiple-choice-p1-img3.png"
   },
   {
     "id": "signs-multiple-choice-004",
@@ -4649,7 +4649,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img2.png"
+    "image": "images/signs-multiple-choice-p1-img4.png"
   },
   {
     "id": "signs-multiple-choice-005",
@@ -4672,7 +4672,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p1-img3.png"
+    "image": "images/signs-multiple-choice-p1-img5.png"
   },
   {
     "id": "signs-multiple-choice-006",
@@ -4695,7 +4695,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img3.png"
+    "image": "images/signs-multiple-choice-p1-img6.png"
   },
   {
     "id": "signs-multiple-choice-007",
@@ -4718,7 +4718,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img4.png"
+    "image": "images/signs-multiple-choice-p1-img7.png"
   },
   {
     "id": "signs-multiple-choice-008",
@@ -4741,7 +4741,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p1-img4.png"
+    "image": "images/signs-multiple-choice-p1-img8.png"
   },
   {
     "id": "signs-multiple-choice-009",
@@ -4764,7 +4764,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p1-img5.png"
+    "image": "images/signs-multiple-choice-p1-img9.png"
   },
   {
     "id": "signs-multiple-choice-010",
@@ -4783,7 +4783,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p1-img5.png"
+    "image": "images/signs-multiple-choice-p1-img10.png"
   },
   {
     "id": "signs-multiple-choice-011",
@@ -4829,7 +4829,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p2-img1.png"
+    "image": "images/signs-multiple-choice-p2-img2.png"
   },
   {
     "id": "signs-multiple-choice-013",
@@ -4852,7 +4852,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p2-img2.png"
+    "image": "images/signs-multiple-choice-p2-img3.png"
   },
   {
     "id": "signs-multiple-choice-014",
@@ -4875,7 +4875,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p2-img2.png"
+    "image": "images/signs-multiple-choice-p2-img4.png"
   },
   {
     "id": "signs-multiple-choice-015",
@@ -4898,7 +4898,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p2-img3.png"
+    "image": "images/signs-multiple-choice-p2-img5.png"
   },
   {
     "id": "signs-multiple-choice-016",
@@ -4921,7 +4921,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p2-img3.png"
+    "image": "images/signs-multiple-choice-p2-img6.png"
   },
   {
     "id": "signs-multiple-choice-017",
@@ -4944,7 +4944,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p2-img4.png"
+    "image": "images/signs-multiple-choice-p2-img7.png"
   },
   {
     "id": "signs-multiple-choice-018",
@@ -4967,7 +4967,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p2-img4.png"
+    "image": "images/signs-multiple-choice-p2-img8.png"
   },
   {
     "id": "signs-multiple-choice-019",
@@ -4990,7 +4990,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p2-img5.png"
+    "image": "images/signs-multiple-choice-p2-img9.png"
   },
   {
     "id": "signs-multiple-choice-020",
@@ -5009,7 +5009,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p2-img5.png"
+    "image": "images/signs-multiple-choice-p2-img10.png"
   },
   {
     "id": "signs-multiple-choice-021",
@@ -5055,7 +5055,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img1.png"
+    "image": "images/signs-multiple-choice-p3-img2.png"
   },
   {
     "id": "signs-multiple-choice-023",
@@ -5078,7 +5078,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img2.png"
+    "image": "images/signs-multiple-choice-p3-img3.png"
   },
   {
     "id": "signs-multiple-choice-024",
@@ -5101,7 +5101,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img2.png"
+    "image": "images/signs-multiple-choice-p3-img4.png"
   },
   {
     "id": "signs-multiple-choice-025",
@@ -5124,7 +5124,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p3-img3.png"
+    "image": "images/signs-multiple-choice-p3-img5.png"
   },
   {
     "id": "signs-multiple-choice-026",
@@ -5147,7 +5147,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img3.png"
+    "image": "images/signs-multiple-choice-p3-img6.png"
   },
   {
     "id": "signs-multiple-choice-027",
@@ -5170,7 +5170,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p3-img4.png"
+    "image": "images/signs-multiple-choice-p3-img7.png"
   },
   {
     "id": "signs-multiple-choice-028",
@@ -5193,7 +5193,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img4.png"
+    "image": "images/signs-multiple-choice-p3-img8.png"
   },
   {
     "id": "signs-multiple-choice-029",
@@ -5216,7 +5216,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p3-img5.png"
+    "image": "images/signs-multiple-choice-p3-img9.png"
   },
   {
     "id": "signs-multiple-choice-030",
@@ -5235,7 +5235,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p3-img5.png"
+    "image": "images/signs-multiple-choice-p3-img10.png"
   },
   {
     "id": "signs-multiple-choice-031",
@@ -5281,7 +5281,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p4-img1.png"
+    "image": "images/signs-multiple-choice-p4-img2.png"
   },
   {
     "id": "signs-multiple-choice-033",
@@ -5304,7 +5304,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p4-img2.png"
+    "image": "images/signs-multiple-choice-p4-img3.png"
   },
   {
     "id": "signs-multiple-choice-034",
@@ -5327,7 +5327,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p4-img2.png"
+    "image": "images/signs-multiple-choice-p4-img4.png"
   },
   {
     "id": "signs-multiple-choice-035",
@@ -5350,7 +5350,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p4-img3.png"
+    "image": "images/signs-multiple-choice-p4-img5.png"
   },
   {
     "id": "signs-multiple-choice-036",
@@ -5373,7 +5373,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p4-img3.png"
+    "image": "images/signs-multiple-choice-p4-img6.png"
   },
   {
     "id": "signs-multiple-choice-037",
@@ -5396,7 +5396,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p4-img4.png"
+    "image": "images/signs-multiple-choice-p4-img7.png"
   },
   {
     "id": "signs-multiple-choice-038",
@@ -5419,7 +5419,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p4-img4.png"
+    "image": "images/signs-multiple-choice-p4-img8.png"
   },
   {
     "id": "signs-multiple-choice-039",
@@ -5442,7 +5442,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p4-img5.png"
+    "image": "images/signs-multiple-choice-p4-img9.png"
   },
   {
     "id": "signs-multiple-choice-040",
@@ -5461,7 +5461,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p4-img5.png"
+    "image": "images/signs-multiple-choice-p4-img10.png"
   },
   {
     "id": "signs-multiple-choice-041",
@@ -5507,7 +5507,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img1.png"
+    "image": "images/signs-multiple-choice-p5-img2.png"
   },
   {
     "id": "signs-multiple-choice-043",
@@ -5530,7 +5530,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p5-img2.png"
+    "image": "images/signs-multiple-choice-p5-img3.png"
   },
   {
     "id": "signs-multiple-choice-044",
@@ -5553,7 +5553,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img2.png"
+    "image": "images/signs-multiple-choice-p5-img4.png"
   },
   {
     "id": "signs-multiple-choice-045",
@@ -5576,7 +5576,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p5-img3.png"
+    "image": "images/signs-multiple-choice-p5-img5.png"
   },
   {
     "id": "signs-multiple-choice-046",
@@ -5599,7 +5599,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p5-img3.png"
+    "image": "images/signs-multiple-choice-p5-img6.png"
   },
   {
     "id": "signs-multiple-choice-047",
@@ -5622,7 +5622,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img4.png"
+    "image": "images/signs-multiple-choice-p5-img7.png"
   },
   {
     "id": "signs-multiple-choice-048",
@@ -5645,7 +5645,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img4.png"
+    "image": "images/signs-multiple-choice-p5-img8.png"
   },
   {
     "id": "signs-multiple-choice-049",
@@ -5668,7 +5668,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img5.png"
+    "image": "images/signs-multiple-choice-p5-img9.png"
   },
   {
     "id": "signs-multiple-choice-050",
@@ -5687,7 +5687,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p5-img5.png"
+    "image": "images/signs-multiple-choice-p5-img10.png"
   },
   {
     "id": "signs-multiple-choice-051",
@@ -5733,7 +5733,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p6-img1.png"
+    "image": "images/signs-multiple-choice-p6-img2.png"
   },
   {
     "id": "signs-multiple-choice-053",
@@ -5756,7 +5756,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p6-img2.png"
+    "image": "images/signs-multiple-choice-p6-img3.png"
   },
   {
     "id": "signs-multiple-choice-054",
@@ -5779,7 +5779,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p6-img2.png"
+    "image": "images/signs-multiple-choice-p6-img4.png"
   },
   {
     "id": "signs-multiple-choice-055",
@@ -5802,7 +5802,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p6-img3.png"
+    "image": "images/signs-multiple-choice-p6-img5.png"
   },
   {
     "id": "signs-multiple-choice-056",
@@ -5825,7 +5825,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p6-img3.png"
+    "image": "images/signs-multiple-choice-p6-img6.png"
   },
   {
     "id": "signs-multiple-choice-057",
@@ -5848,7 +5848,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p6-img4.png"
+    "image": "images/signs-multiple-choice-p6-img7.png"
   },
   {
     "id": "signs-multiple-choice-058",
@@ -5871,7 +5871,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p6-img4.png"
+    "image": "images/signs-multiple-choice-p6-img8.png"
   },
   {
     "id": "signs-multiple-choice-059",
@@ -5894,7 +5894,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p6-img5.png"
+    "image": "images/signs-multiple-choice-p6-img9.png"
   },
   {
     "id": "signs-multiple-choice-060",
@@ -5913,7 +5913,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p6-img5.png"
+    "image": "images/signs-multiple-choice-p6-img10.png"
   },
   {
     "id": "signs-multiple-choice-061",
@@ -5959,7 +5959,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p7-img1.png"
+    "image": "images/signs-multiple-choice-p7-img2.png"
   },
   {
     "id": "signs-multiple-choice-063",
@@ -5982,7 +5982,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p7-img2.png"
+    "image": "images/signs-multiple-choice-p7-img3.png"
   },
   {
     "id": "signs-multiple-choice-064",
@@ -6005,7 +6005,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p7-img2.png"
+    "image": "images/signs-multiple-choice-p7-img4.png"
   },
   {
     "id": "signs-multiple-choice-065",
@@ -6028,7 +6028,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p7-img3.png"
+    "image": "images/signs-multiple-choice-p7-img5.png"
   },
   {
     "id": "signs-multiple-choice-066",
@@ -6051,7 +6051,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p7-img3.png"
+    "image": "images/signs-multiple-choice-p7-img6.png"
   },
   {
     "id": "signs-multiple-choice-067",
@@ -6074,7 +6074,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p7-img4.png"
+    "image": "images/signs-multiple-choice-p7-img7.png"
   },
   {
     "id": "signs-multiple-choice-068",
@@ -6097,7 +6097,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p7-img4.png"
+    "image": "images/signs-multiple-choice-p7-img8.png"
   },
   {
     "id": "signs-multiple-choice-069",
@@ -6120,7 +6120,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p7-img5.png"
+    "image": "images/signs-multiple-choice-p7-img9.png"
   },
   {
     "id": "signs-multiple-choice-070",
@@ -6139,7 +6139,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p7-img5.png"
+    "image": "images/signs-multiple-choice-p7-img10.png"
   },
   {
     "id": "signs-multiple-choice-071",
@@ -6185,7 +6185,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p8-img1.png"
+    "image": "images/signs-multiple-choice-p8-img2.png"
   },
   {
     "id": "signs-multiple-choice-073",
@@ -6208,7 +6208,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p8-img2.png"
+    "image": "images/signs-multiple-choice-p8-img3.png"
   },
   {
     "id": "signs-multiple-choice-074",
@@ -6231,7 +6231,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p8-img2.png"
+    "image": "images/signs-multiple-choice-p8-img4.png"
   },
   {
     "id": "signs-multiple-choice-075",
@@ -6254,7 +6254,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p8-img3.png"
+    "image": "images/signs-multiple-choice-p8-img5.png"
   },
   {
     "id": "signs-multiple-choice-076",
@@ -6277,7 +6277,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p8-img3.png"
+    "image": "images/signs-multiple-choice-p8-img6.png"
   },
   {
     "id": "signs-multiple-choice-077",
@@ -6300,7 +6300,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p8-img4.png"
+    "image": "images/signs-multiple-choice-p8-img7.png"
   },
   {
     "id": "signs-multiple-choice-078",
@@ -6323,7 +6323,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p8-img4.png"
+    "image": "images/signs-multiple-choice-p8-img8.png"
   },
   {
     "id": "signs-multiple-choice-079",
@@ -6346,7 +6346,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p8-img5.png"
+    "image": "images/signs-multiple-choice-p8-img9.png"
   },
   {
     "id": "signs-multiple-choice-080",
@@ -6365,7 +6365,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p8-img5.png"
+    "image": "images/signs-multiple-choice-p8-img10.png"
   },
   {
     "id": "signs-multiple-choice-081",
@@ -6411,7 +6411,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p9-img1.png"
+    "image": "images/signs-multiple-choice-p9-img2.png"
   },
   {
     "id": "signs-multiple-choice-083",
@@ -6434,7 +6434,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p9-img2.png"
+    "image": "images/signs-multiple-choice-p9-img3.png"
   },
   {
     "id": "signs-multiple-choice-084",
@@ -6457,7 +6457,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p9-img2.png"
+    "image": "images/signs-multiple-choice-p9-img4.png"
   },
   {
     "id": "signs-multiple-choice-085",
@@ -6480,7 +6480,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p9-img3.png"
+    "image": "images/signs-multiple-choice-p9-img5.png"
   },
   {
     "id": "signs-multiple-choice-086",
@@ -6503,7 +6503,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p9-img3.png"
+    "image": "images/signs-multiple-choice-p9-img6.png"
   },
   {
     "id": "signs-multiple-choice-087",
@@ -6526,7 +6526,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p9-img4.png"
+    "image": "images/signs-multiple-choice-p9-img7.png"
   },
   {
     "id": "signs-multiple-choice-088",
@@ -6549,7 +6549,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p9-img4.png"
+    "image": "images/signs-multiple-choice-p9-img8.png"
   },
   {
     "id": "signs-multiple-choice-089",
@@ -6572,7 +6572,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p9-img5.png"
+    "image": "images/signs-multiple-choice-p9-img9.png"
   },
   {
     "id": "signs-multiple-choice-090",
@@ -6591,7 +6591,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p9-img5.png"
+    "image": "images/signs-multiple-choice-p9-img10.png"
   },
   {
     "id": "signs-multiple-choice-091",
@@ -6637,7 +6637,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p10-img1.png"
+    "image": "images/signs-multiple-choice-p10-img2.png"
   },
   {
     "id": "signs-multiple-choice-093",
@@ -6660,7 +6660,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p10-img2.png"
+    "image": "images/signs-multiple-choice-p10-img3.png"
   },
   {
     "id": "signs-multiple-choice-094",
@@ -6683,7 +6683,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p10-img2.png"
+    "image": "images/signs-multiple-choice-p10-img4.png"
   },
   {
     "id": "signs-multiple-choice-095",
@@ -6706,7 +6706,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p10-img3.png"
+    "image": "images/signs-multiple-choice-p10-img5.png"
   },
   {
     "id": "signs-multiple-choice-096",
@@ -6729,7 +6729,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p10-img3.png"
+    "image": "images/signs-multiple-choice-p10-img6.png"
   },
   {
     "id": "signs-multiple-choice-097",
@@ -6752,7 +6752,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p10-img4.png"
+    "image": "images/signs-multiple-choice-p10-img7.png"
   },
   {
     "id": "signs-multiple-choice-098",
@@ -6775,7 +6775,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p10-img4.png"
+    "image": "images/signs-multiple-choice-p10-img8.png"
   },
   {
     "id": "signs-multiple-choice-099",
@@ -6798,7 +6798,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p10-img5.png"
+    "image": "images/signs-multiple-choice-p10-img9.png"
   },
   {
     "id": "signs-multiple-choice-100",
@@ -6817,7 +6817,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p10-img5.png"
+    "image": "images/signs-multiple-choice-p10-img10.png"
   },
   {
     "id": "signs-multiple-choice-101",
@@ -6863,7 +6863,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p11-img1.png"
+    "image": "images/signs-multiple-choice-p11-img2.png"
   },
   {
     "id": "signs-multiple-choice-103",
@@ -6886,7 +6886,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p11-img2.png"
+    "image": "images/signs-multiple-choice-p11-img3.png"
   },
   {
     "id": "signs-multiple-choice-104",
@@ -6909,7 +6909,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p11-img2.png"
+    "image": "images/signs-multiple-choice-p11-img4.png"
   },
   {
     "id": "signs-multiple-choice-105",
@@ -6932,7 +6932,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p11-img3.png"
+    "image": "images/signs-multiple-choice-p11-img5.png"
   },
   {
     "id": "signs-multiple-choice-106",
@@ -6955,7 +6955,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p11-img3.png"
+    "image": "images/signs-multiple-choice-p11-img6.png"
   },
   {
     "id": "signs-multiple-choice-107",
@@ -6978,7 +6978,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p11-img4.png"
+    "image": "images/signs-multiple-choice-p11-img7.png"
   },
   {
     "id": "signs-multiple-choice-108",
@@ -7001,7 +7001,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p11-img4.png"
+    "image": "images/signs-multiple-choice-p11-img8.png"
   },
   {
     "id": "signs-multiple-choice-109",
@@ -7024,7 +7024,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p11-img5.png"
+    "image": "images/signs-multiple-choice-p11-img9.png"
   },
   {
     "id": "signs-multiple-choice-110",
@@ -7043,7 +7043,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p11-img5.png"
+    "image": "images/signs-multiple-choice-p11-img10.png"
   },
   {
     "id": "signs-multiple-choice-111",
@@ -7089,7 +7089,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p12-img1.png"
+    "image": "images/signs-multiple-choice-p12-img2.png"
   },
   {
     "id": "signs-multiple-choice-113",
@@ -7112,7 +7112,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p12-img2.png"
+    "image": "images/signs-multiple-choice-p12-img3.png"
   },
   {
     "id": "signs-multiple-choice-114",
@@ -7135,7 +7135,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p12-img2.png"
+    "image": "images/signs-multiple-choice-p12-img4.png"
   },
   {
     "id": "signs-multiple-choice-115",
@@ -7158,7 +7158,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p12-img3.png"
+    "image": "images/signs-multiple-choice-p12-img5.png"
   },
   {
     "id": "signs-multiple-choice-116",
@@ -7181,7 +7181,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p12-img3.png"
+    "image": "images/signs-multiple-choice-p12-img6.png"
   },
   {
     "id": "signs-multiple-choice-117",
@@ -7204,7 +7204,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p12-img4.png"
+    "image": "images/signs-multiple-choice-p12-img7.png"
   },
   {
     "id": "signs-multiple-choice-118",
@@ -7227,7 +7227,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p12-img4.png"
+    "image": "images/signs-multiple-choice-p12-img8.png"
   },
   {
     "id": "signs-multiple-choice-119",
@@ -7250,7 +7250,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p12-img5.png"
+    "image": "images/signs-multiple-choice-p12-img9.png"
   },
   {
     "id": "signs-multiple-choice-120",
@@ -7269,7 +7269,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p12-img5.png"
+    "image": "images/signs-multiple-choice-p12-img10.png"
   },
   {
     "id": "signs-multiple-choice-121",
@@ -7315,7 +7315,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p13-img1.png"
+    "image": "images/signs-multiple-choice-p13-img2.png"
   },
   {
     "id": "signs-multiple-choice-123",
@@ -7338,7 +7338,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p13-img2.png"
+    "image": "images/signs-multiple-choice-p13-img3.png"
   },
   {
     "id": "signs-multiple-choice-124",
@@ -7361,7 +7361,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p13-img2.png"
+    "image": "images/signs-multiple-choice-p13-img4.png"
   },
   {
     "id": "signs-multiple-choice-125",
@@ -7384,7 +7384,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p13-img3.png"
+    "image": "images/signs-multiple-choice-p13-img5.png"
   },
   {
     "id": "signs-multiple-choice-126",
@@ -7407,7 +7407,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p13-img3.png"
+    "image": "images/signs-multiple-choice-p13-img6.png"
   },
   {
     "id": "signs-multiple-choice-127",
@@ -7430,7 +7430,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p13-img4.png"
+    "image": "images/signs-multiple-choice-p13-img7.png"
   },
   {
     "id": "signs-multiple-choice-128",
@@ -7453,7 +7453,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p13-img4.png"
+    "image": "images/signs-multiple-choice-p13-img8.png"
   },
   {
     "id": "signs-multiple-choice-129",
@@ -7476,7 +7476,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p13-img5.png"
+    "image": "images/signs-multiple-choice-p13-img9.png"
   },
   {
     "id": "signs-multiple-choice-130",
@@ -7495,7 +7495,7 @@
       }
     ],
     "answer": "2",
-    "image": "images/signs-multiple-choice-p13-img5.png"
+    "image": "images/signs-multiple-choice-p13-img10.png"
   },
   {
     "id": "signs-multiple-choice-131",
@@ -7541,7 +7541,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p14-img1.jpeg"
+    "image": "images/signs-multiple-choice-p14-img2.png"
   },
   {
     "id": "signs-multiple-choice-133",
@@ -7564,7 +7564,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p14-img2.png"
+    "image": "images/signs-multiple-choice-p14-img3.png"
   },
   {
     "id": "signs-multiple-choice-134",
@@ -7587,7 +7587,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p14-img2.png"
+    "image": "images/signs-multiple-choice-p14-img4.png"
   },
   {
     "id": "signs-multiple-choice-135",
@@ -7610,7 +7610,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p14-img3.png"
+    "image": "images/signs-multiple-choice-p14-img5.png"
   },
   {
     "id": "signs-multiple-choice-136",
@@ -7633,7 +7633,7 @@
       }
     ],
     "answer": "1",
-    "image": "images/signs-multiple-choice-p14-img3.png"
+    "image": "images/signs-multiple-choice-p14-img6.png"
   },
   {
     "id": "signs-multiple-choice-137",
@@ -7656,7 +7656,7 @@
       }
     ],
     "answer": "3",
-    "image": "images/signs-multiple-choice-p14-img4.png"
+    "image": "images/signs-multiple-choice-p14-img7.jpeg"
   },
   {
     "id": "regulations-true-false-001",
