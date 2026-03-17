@@ -79,13 +79,20 @@ function renderQuestion() {
       <div class="question-text">${question.question}</div>
       <div class="options">
         ${question.options
-          .map(
-            (opt) => `
-          <div class="option" data-answer="${opt.label}">
-            <strong>${opt.label}.</strong> ${opt.text}
+          .map((opt) => {
+            const isTF = opt.label === "True" || opt.label === "False";
+            const display =
+              opt.label === "True"
+                ? "〇"
+                : opt.label === "False"
+                  ? "✕"
+                  : `<strong>${opt.label}.</strong> ${opt.text}`;
+            return `
+          <div class="option${isTF ? " true-false-opt" : ""}" data-answer="${opt.label}">
+            ${display}
           </div>
-        `,
-          )
+        `;
+          })
           .join("")}
       </div>
       <div id="feedback"></div>
