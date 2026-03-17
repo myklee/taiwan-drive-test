@@ -180,6 +180,7 @@ document.getElementById("index-toggle")?.addEventListener("click", () => {
   const btn = document.getElementById("index-toggle");
   const isOpen = panel.classList.toggle("open");
   btn.textContent = isOpen ? "✕ Close Index" : "☰ Question Index";
+  document.body.style.overflow = isOpen ? "hidden" : "";
 });
 
 // Render question index
