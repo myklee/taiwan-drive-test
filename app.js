@@ -174,6 +174,14 @@ document.querySelectorAll(".filter-btn").forEach((btn) => {
 
 loadQuestions();
 
+// Mobile index toggle
+document.getElementById("index-toggle")?.addEventListener("click", () => {
+  const panel = document.getElementById("index-panel");
+  const btn = document.getElementById("index-toggle");
+  const isOpen = panel.classList.toggle("open");
+  btn.textContent = isOpen ? "✕ Close Index" : "☰ Question Index";
+});
+
 // Render question index
 function renderIndex() {
   const indexContent = document.getElementById("index-content");
