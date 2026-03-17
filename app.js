@@ -162,6 +162,7 @@ document.querySelectorAll(".filter-btn").forEach((btn) => {
     btn.classList.add("active");
 
     const filter = btn.dataset.filter;
+    document.getElementById("filter-select").value = filter;
     if (filter === "all") {
       filteredQuestions = [...allQuestions];
     } else {
@@ -180,6 +181,22 @@ document.querySelectorAll(".filter-btn").forEach((btn) => {
 });
 
 loadQuestions();
+
+// Mobile filter select
+document.getElementById("filter-select")?.addEventListener("change", (e) => {
+  const filter = e.target.value;
+  document.querySelectorAll(".filter-btn").forEach((b) => {
+    b.classList.toggle("active", b.dataset.filter === filter);
+  });
+  filteredQuestions =
+    filter === "all"
+      ? [...allQuestions]
+      : allQuestions.filter((q) => `${q.type}-${q.format}` === filter);
+  currentQuestionIndex = 0;
+  updateStats();
+  renderQuestion();
+  renderIndex();
+});
 
 // Mobile index toggle
 document.getElementById("index-toggle")?.addEventListener("click", () => {

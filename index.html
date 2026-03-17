@@ -214,6 +214,9 @@
       .index-toggle {
         display: none;
       }
+      .filter-select {
+        display: none;
+      }
       @media (max-width: 768px) {
         body {
           flex-direction: column;
@@ -225,10 +228,32 @@
           height: 100vh;
         }
         .header {
-          padding: 15px;
+          padding: 10px 12px;
+          margin-bottom: 12px;
         }
         h1 {
-          font-size: 20px;
+          font-size: 16px;
+          margin-bottom: 4px;
+        }
+        .header > p {
+          display: none;
+        }
+        .stats {
+          margin-top: 8px;
+        }
+        .filters {
+          display: none;
+        }
+        .filter-select {
+          display: block;
+          width: 100%;
+          margin-top: 10px;
+          padding: 8px 10px;
+          border: 2px solid #ddd;
+          border-radius: 6px;
+          font-size: 14px;
+          background: white;
+          cursor: pointer;
         }
         .question-card {
           padding: 16px;
@@ -366,6 +391,17 @@
               Regulations Multiple Choice
             </button>
           </div>
+          <select class="filter-select" id="filter-select">
+            <option value="all">All Questions</option>
+            <option value="signs-true-false">Signs True/False</option>
+            <option value="signs-multiple-choice">Signs Multiple Choice</option>
+            <option value="regulations-true-false">
+              Regulations True/False
+            </option>
+            <option value="regulations-multiple-choice">
+              Regulations Multiple Choice
+            </option>
+          </select>
           <div class="stats">
             <span>Total: <strong id="total-count">0</strong></span>
           </div>
