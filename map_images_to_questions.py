@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # Load existing questions
-with open("questions.json", "r") as f:
+with open("public/questions.json", "r") as f:
     questions = json.load(f)
 
 # Load image map
@@ -29,13 +29,14 @@ for question in questions:
         image_key = f"signs-{pdf_format}-page{page_num}-img{img_num}"
         
         if image_key in image_map:
-            question["image"] = image_map[image_key]
+            # Use relative path (strip leading slash)
+            question["image"] = image_map[image_key].lstrip("/")
             print(f"Q{q_num}: Mapped to {image_map[image_key]}")
         else:
             print(f"Q{q_num}: No image found for {image_key}")
 
 # Save updated questions
-with open("questions.json", "w") as f:
+with open("public/questions.json", "w") as f:
     json.dump(questions, f, indent=2)
 
 # Count how many questions have images

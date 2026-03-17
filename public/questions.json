@@ -16,7 +16,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p1-img1.png"
   },
   {
     "id": "signs-true-false-002",
@@ -35,7 +35,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p1-img1.png"
   },
   {
     "id": "signs-true-false-003",
@@ -54,7 +54,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p1-img2.png"
   },
   {
     "id": "signs-true-false-004",
@@ -73,7 +73,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p1-img2.png"
   },
   {
     "id": "signs-true-false-005",
@@ -92,7 +92,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p1-img3.png"
   },
   {
     "id": "signs-true-false-006",
@@ -111,7 +111,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p1-img3.png"
   },
   {
     "id": "signs-true-false-007",
@@ -130,7 +130,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p1-img4.png"
   },
   {
     "id": "signs-true-false-008",
@@ -149,7 +149,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p1-img4.png"
   },
   {
     "id": "signs-true-false-009",
@@ -168,7 +168,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p1-img5.png"
   },
   {
     "id": "signs-true-false-010",
@@ -187,7 +187,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p1-img5.png"
   },
   {
     "id": "signs-true-false-011",
@@ -206,7 +206,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p2-img1.png"
   },
   {
     "id": "signs-true-false-012",
@@ -225,7 +225,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p2-img1.png"
   },
   {
     "id": "signs-true-false-013",
@@ -244,7 +244,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p2-img2.png"
   },
   {
     "id": "signs-true-false-014",
@@ -263,7 +263,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p2-img2.png"
   },
   {
     "id": "signs-true-false-015",
@@ -282,7 +282,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p2-img3.png"
   },
   {
     "id": "signs-true-false-016",
@@ -301,7 +301,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p2-img3.png"
   },
   {
     "id": "signs-true-false-017",
@@ -320,7 +320,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p2-img4.png"
   },
   {
     "id": "signs-true-false-018",
@@ -339,7 +339,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p2-img4.png"
   },
   {
     "id": "signs-true-false-019",
@@ -358,7 +358,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p2-img5.png"
   },
   {
     "id": "signs-true-false-020",
@@ -377,7 +377,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p2-img5.png"
   },
   {
     "id": "signs-true-false-021",
@@ -396,7 +396,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p3-img1.png"
   },
   {
     "id": "signs-true-false-022",
@@ -415,7 +415,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p3-img1.png"
   },
   {
     "id": "signs-true-false-023",
@@ -434,7 +434,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p3-img2.png"
   },
   {
     "id": "signs-true-false-024",
@@ -453,7 +453,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p3-img2.png"
   },
   {
     "id": "signs-true-false-025",
@@ -472,7 +472,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p3-img3.png"
   },
   {
     "id": "signs-true-false-026",
@@ -491,7 +491,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p3-img3.png"
   },
   {
     "id": "signs-true-false-027",
@@ -510,7 +510,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p3-img4.png"
   },
   {
     "id": "signs-true-false-028",
@@ -529,7 +529,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p3-img4.png"
   },
   {
     "id": "signs-true-false-029",
@@ -548,7 +548,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p3-img5.png"
   },
   {
     "id": "signs-true-false-030",
@@ -567,7 +567,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p3-img5.png"
   },
   {
     "id": "signs-true-false-031",
@@ -586,7 +586,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p4-img1.png"
   },
   {
     "id": "signs-true-false-032",
@@ -605,7 +605,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p4-img1.png"
   },
   {
     "id": "signs-true-false-033",
@@ -624,7 +624,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p4-img2.png"
   },
   {
     "id": "signs-true-false-034",
@@ -643,7 +643,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p4-img2.png"
   },
   {
     "id": "signs-true-false-035",
@@ -662,7 +662,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p4-img3.png"
   },
   {
     "id": "signs-true-false-036",
@@ -681,7 +681,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p4-img3.png"
   },
   {
     "id": "signs-true-false-037",
@@ -700,7 +700,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p4-img4.png"
   },
   {
     "id": "signs-true-false-038",
@@ -719,7 +719,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p4-img4.png"
   },
   {
     "id": "signs-true-false-039",
@@ -738,7 +738,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p4-img5.png"
   },
   {
     "id": "signs-true-false-040",
@@ -757,7 +757,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p4-img5.png"
   },
   {
     "id": "signs-true-false-041",
@@ -776,7 +776,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p5-img1.png"
   },
   {
     "id": "signs-true-false-042",
@@ -795,7 +795,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p5-img1.png"
   },
   {
     "id": "signs-true-false-043",
@@ -814,7 +814,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p5-img2.png"
   },
   {
     "id": "signs-true-false-044",
@@ -833,7 +833,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p5-img2.png"
   },
   {
     "id": "signs-true-false-045",
@@ -852,7 +852,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p5-img3.png"
   },
   {
     "id": "signs-true-false-046",
@@ -871,7 +871,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p5-img3.png"
   },
   {
     "id": "signs-true-false-047",
@@ -890,7 +890,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p5-img4.png"
   },
   {
     "id": "signs-true-false-048",
@@ -909,7 +909,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p5-img4.png"
   },
   {
     "id": "signs-true-false-049",
@@ -928,7 +928,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p5-img5.png"
   },
   {
     "id": "signs-true-false-050",
@@ -947,7 +947,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p5-img5.png"
   },
   {
     "id": "signs-true-false-051",
@@ -966,7 +966,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p6-img1.png"
   },
   {
     "id": "signs-true-false-052",
@@ -985,7 +985,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p6-img1.png"
   },
   {
     "id": "signs-true-false-053",
@@ -1004,7 +1004,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p6-img2.png"
   },
   {
     "id": "signs-true-false-054",
@@ -1023,7 +1023,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p6-img2.png"
   },
   {
     "id": "signs-true-false-055",
@@ -1042,7 +1042,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p6-img3.png"
   },
   {
     "id": "signs-true-false-056",
@@ -1061,7 +1061,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p6-img3.png"
   },
   {
     "id": "signs-true-false-057",
@@ -1080,7 +1080,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p6-img4.png"
   },
   {
     "id": "signs-true-false-058",
@@ -1099,7 +1099,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p6-img4.png"
   },
   {
     "id": "signs-true-false-059",
@@ -1118,7 +1118,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p6-img5.png"
   },
   {
     "id": "signs-true-false-060",
@@ -1137,7 +1137,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p6-img5.png"
   },
   {
     "id": "signs-true-false-061",
@@ -1156,7 +1156,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p7-img1.png"
   },
   {
     "id": "signs-true-false-062",
@@ -1175,7 +1175,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p7-img1.png"
   },
   {
     "id": "signs-true-false-063",
@@ -1194,7 +1194,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p7-img2.png"
   },
   {
     "id": "signs-true-false-064",
@@ -1213,7 +1213,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p7-img2.png"
   },
   {
     "id": "signs-true-false-065",
@@ -1232,7 +1232,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p7-img3.png"
   },
   {
     "id": "signs-true-false-066",
@@ -1251,7 +1251,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p7-img3.png"
   },
   {
     "id": "signs-true-false-067",
@@ -1270,7 +1270,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p7-img4.png"
   },
   {
     "id": "signs-true-false-068",
@@ -1289,7 +1289,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p7-img4.png"
   },
   {
     "id": "signs-true-false-069",
@@ -1308,7 +1308,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p7-img5.png"
   },
   {
     "id": "signs-true-false-070",
@@ -1327,7 +1327,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p7-img5.png"
   },
   {
     "id": "signs-true-false-071",
@@ -1346,7 +1346,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p8-img1.png"
   },
   {
     "id": "signs-true-false-072",
@@ -1365,7 +1365,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p8-img1.png"
   },
   {
     "id": "signs-true-false-073",
@@ -1384,7 +1384,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p8-img2.png"
   },
   {
     "id": "signs-true-false-074",
@@ -1403,7 +1403,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p8-img2.png"
   },
   {
     "id": "signs-true-false-075",
@@ -1422,7 +1422,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p8-img3.png"
   },
   {
     "id": "signs-true-false-076",
@@ -1441,7 +1441,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p8-img3.png"
   },
   {
     "id": "signs-true-false-077",
@@ -1460,7 +1460,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p8-img4.png"
   },
   {
     "id": "signs-true-false-078",
@@ -1479,7 +1479,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p8-img4.png"
   },
   {
     "id": "signs-true-false-079",
@@ -1498,7 +1498,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p8-img5.png"
   },
   {
     "id": "signs-true-false-080",
@@ -1517,7 +1517,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p8-img5.png"
   },
   {
     "id": "signs-true-false-081",
@@ -1536,7 +1536,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p9-img1.png"
   },
   {
     "id": "signs-true-false-082",
@@ -1555,7 +1555,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p9-img1.png"
   },
   {
     "id": "signs-true-false-083",
@@ -1574,7 +1574,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p9-img2.png"
   },
   {
     "id": "signs-true-false-084",
@@ -1593,7 +1593,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p9-img2.png"
   },
   {
     "id": "signs-true-false-085",
@@ -1612,7 +1612,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p9-img3.png"
   },
   {
     "id": "signs-true-false-086",
@@ -1631,7 +1631,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p9-img3.png"
   },
   {
     "id": "signs-true-false-087",
@@ -1650,7 +1650,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p9-img4.png"
   },
   {
     "id": "signs-true-false-088",
@@ -1669,7 +1669,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p9-img4.png"
   },
   {
     "id": "signs-true-false-089",
@@ -1688,7 +1688,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p9-img5.png"
   },
   {
     "id": "signs-true-false-090",
@@ -1707,7 +1707,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p9-img5.png"
   },
   {
     "id": "signs-true-false-091",
@@ -1726,7 +1726,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p10-img1.png"
   },
   {
     "id": "signs-true-false-092",
@@ -1745,7 +1745,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p10-img1.png"
   },
   {
     "id": "signs-true-false-093",
@@ -1764,7 +1764,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p10-img2.png"
   },
   {
     "id": "signs-true-false-094",
@@ -1783,7 +1783,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p10-img2.png"
   },
   {
     "id": "signs-true-false-095",
@@ -1802,7 +1802,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p10-img3.png"
   },
   {
     "id": "signs-true-false-096",
@@ -1821,7 +1821,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p10-img3.png"
   },
   {
     "id": "signs-true-false-097",
@@ -1840,7 +1840,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p10-img4.png"
   },
   {
     "id": "signs-true-false-098",
@@ -1859,7 +1859,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p10-img4.png"
   },
   {
     "id": "signs-true-false-099",
@@ -1878,7 +1878,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p10-img5.png"
   },
   {
     "id": "signs-true-false-100",
@@ -1897,7 +1897,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p10-img5.png"
   },
   {
     "id": "signs-true-false-101",
@@ -1916,7 +1916,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p11-img1.png"
   },
   {
     "id": "signs-true-false-102",
@@ -1935,7 +1935,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p11-img1.png"
   },
   {
     "id": "signs-true-false-103",
@@ -1954,7 +1954,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p11-img2.png"
   },
   {
     "id": "signs-true-false-104",
@@ -1973,7 +1973,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p11-img2.png"
   },
   {
     "id": "signs-true-false-105",
@@ -1992,7 +1992,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p11-img3.png"
   },
   {
     "id": "signs-true-false-106",
@@ -2011,7 +2011,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p11-img3.png"
   },
   {
     "id": "signs-true-false-107",
@@ -2030,7 +2030,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p11-img4.png"
   },
   {
     "id": "signs-true-false-108",
@@ -2049,7 +2049,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p11-img4.png"
   },
   {
     "id": "signs-true-false-109",
@@ -2068,7 +2068,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p11-img5.png"
   },
   {
     "id": "signs-true-false-110",
@@ -2087,7 +2087,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p11-img5.png"
   },
   {
     "id": "signs-true-false-111",
@@ -2106,7 +2106,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p12-img1.png"
   },
   {
     "id": "signs-true-false-112",
@@ -2125,7 +2125,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p12-img1.png"
   },
   {
     "id": "signs-true-false-113",
@@ -2144,7 +2144,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p12-img2.png"
   },
   {
     "id": "signs-true-false-114",
@@ -2163,7 +2163,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p12-img2.png"
   },
   {
     "id": "signs-true-false-115",
@@ -2182,7 +2182,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p12-img3.png"
   },
   {
     "id": "signs-true-false-116",
@@ -2201,7 +2201,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p12-img3.png"
   },
   {
     "id": "signs-true-false-117",
@@ -2220,7 +2220,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p12-img4.png"
   },
   {
     "id": "signs-true-false-118",
@@ -2239,7 +2239,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p12-img4.png"
   },
   {
     "id": "signs-true-false-119",
@@ -2258,7 +2258,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p12-img5.png"
   },
   {
     "id": "signs-true-false-120",
@@ -2277,7 +2277,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p12-img5.png"
   },
   {
     "id": "signs-true-false-121",
@@ -2296,7 +2296,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p13-img1.png"
   },
   {
     "id": "signs-true-false-122",
@@ -2315,7 +2315,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p13-img1.png"
   },
   {
     "id": "signs-true-false-123",
@@ -2334,7 +2334,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p13-img2.png"
   },
   {
     "id": "signs-true-false-124",
@@ -2353,7 +2353,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p13-img2.png"
   },
   {
     "id": "signs-true-false-125",
@@ -2372,7 +2372,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p13-img3.png"
   },
   {
     "id": "signs-true-false-126",
@@ -2391,7 +2391,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p13-img3.png"
   },
   {
     "id": "signs-true-false-127",
@@ -2410,7 +2410,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p13-img4.png"
   },
   {
     "id": "signs-true-false-128",
@@ -2429,7 +2429,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p13-img4.png"
   },
   {
     "id": "signs-true-false-129",
@@ -2448,7 +2448,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p13-img5.png"
   },
   {
     "id": "signs-true-false-130",
@@ -2467,7 +2467,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p13-img5.png"
   },
   {
     "id": "signs-true-false-131",
@@ -2486,7 +2486,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p14-img1.png"
   },
   {
     "id": "signs-true-false-132",
@@ -2505,7 +2505,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p14-img1.png"
   },
   {
     "id": "signs-true-false-133",
@@ -2524,7 +2524,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p14-img2.png"
   },
   {
     "id": "signs-true-false-134",
@@ -2543,7 +2543,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p14-img2.png"
   },
   {
     "id": "signs-true-false-135",
@@ -2562,7 +2562,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p14-img3.png"
   },
   {
     "id": "signs-true-false-136",
@@ -2581,7 +2581,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p14-img3.png"
   },
   {
     "id": "signs-true-false-137",
@@ -2600,7 +2600,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p14-img4.png"
   },
   {
     "id": "signs-true-false-138",
@@ -2619,7 +2619,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p14-img4.png"
   },
   {
     "id": "signs-true-false-139",
@@ -2638,7 +2638,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p14-img5.png"
   },
   {
     "id": "signs-true-false-140",
@@ -2657,7 +2657,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p14-img5.png"
   },
   {
     "id": "signs-true-false-141",
@@ -2676,7 +2676,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p15-img1.png"
   },
   {
     "id": "signs-true-false-142",
@@ -2695,7 +2695,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p15-img1.png"
   },
   {
     "id": "signs-true-false-143",
@@ -2714,7 +2714,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p15-img2.png"
   },
   {
     "id": "signs-true-false-144",
@@ -2733,7 +2733,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p15-img2.png"
   },
   {
     "id": "signs-true-false-145",
@@ -2752,7 +2752,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p15-img3.png"
   },
   {
     "id": "signs-true-false-146",
@@ -2771,7 +2771,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p15-img3.png"
   },
   {
     "id": "signs-true-false-147",
@@ -2790,7 +2790,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p15-img4.png"
   },
   {
     "id": "signs-true-false-148",
@@ -2809,7 +2809,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p15-img4.png"
   },
   {
     "id": "signs-true-false-149",
@@ -2828,7 +2828,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p15-img5.png"
   },
   {
     "id": "signs-true-false-150",
@@ -2847,7 +2847,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p15-img5.png"
   },
   {
     "id": "signs-true-false-151",
@@ -2866,7 +2866,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p16-img1.png"
   },
   {
     "id": "signs-true-false-152",
@@ -2885,7 +2885,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p16-img1.png"
   },
   {
     "id": "signs-true-false-153",
@@ -2904,7 +2904,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p16-img2.png"
   },
   {
     "id": "signs-true-false-154",
@@ -2923,7 +2923,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p16-img2.png"
   },
   {
     "id": "signs-true-false-155",
@@ -2942,7 +2942,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p16-img3.png"
   },
   {
     "id": "signs-true-false-156",
@@ -2961,7 +2961,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p16-img3.png"
   },
   {
     "id": "signs-true-false-157",
@@ -2980,7 +2980,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p16-img4.png"
   },
   {
     "id": "signs-true-false-158",
@@ -2999,7 +2999,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p16-img4.png"
   },
   {
     "id": "signs-true-false-159",
@@ -3018,7 +3018,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p16-img5.png"
   },
   {
     "id": "signs-true-false-160",
@@ -3037,7 +3037,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p16-img5.png"
   },
   {
     "id": "signs-true-false-161",
@@ -3056,7 +3056,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p17-img1.png"
   },
   {
     "id": "signs-true-false-162",
@@ -3075,7 +3075,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p17-img1.png"
   },
   {
     "id": "signs-true-false-163",
@@ -3094,7 +3094,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p17-img2.png"
   },
   {
     "id": "signs-true-false-164",
@@ -3113,7 +3113,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p17-img2.png"
   },
   {
     "id": "signs-true-false-165",
@@ -3132,7 +3132,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p17-img3.png"
   },
   {
     "id": "signs-true-false-166",
@@ -3151,7 +3151,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p17-img3.png"
   },
   {
     "id": "signs-true-false-167",
@@ -3170,7 +3170,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p17-img4.png"
   },
   {
     "id": "signs-true-false-168",
@@ -3189,7 +3189,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p17-img4.png"
   },
   {
     "id": "signs-true-false-169",
@@ -3208,7 +3208,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p17-img5.png"
   },
   {
     "id": "signs-true-false-170",
@@ -3227,7 +3227,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p17-img5.png"
   },
   {
     "id": "signs-true-false-171",
@@ -3246,7 +3246,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p18-img1.png"
   },
   {
     "id": "signs-true-false-172",
@@ -3265,7 +3265,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p18-img1.png"
   },
   {
     "id": "signs-true-false-173",
@@ -3284,7 +3284,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p18-img2.png"
   },
   {
     "id": "signs-true-false-174",
@@ -3303,7 +3303,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p18-img2.png"
   },
   {
     "id": "signs-true-false-175",
@@ -3322,7 +3322,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p18-img3.png"
   },
   {
     "id": "signs-true-false-176",
@@ -3341,7 +3341,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p18-img3.png"
   },
   {
     "id": "signs-true-false-177",
@@ -3360,7 +3360,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p18-img4.png"
   },
   {
     "id": "signs-true-false-178",
@@ -3379,7 +3379,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p18-img4.png"
   },
   {
     "id": "signs-true-false-179",
@@ -3398,7 +3398,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p18-img5.png"
   },
   {
     "id": "signs-true-false-180",
@@ -3417,7 +3417,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p18-img5.png"
   },
   {
     "id": "signs-true-false-181",
@@ -3436,7 +3436,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p19-img1.png"
   },
   {
     "id": "signs-true-false-182",
@@ -3455,7 +3455,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p19-img1.png"
   },
   {
     "id": "signs-true-false-183",
@@ -3474,7 +3474,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p19-img2.png"
   },
   {
     "id": "signs-true-false-184",
@@ -3493,7 +3493,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p19-img2.png"
   },
   {
     "id": "signs-true-false-185",
@@ -3512,7 +3512,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p19-img3.png"
   },
   {
     "id": "signs-true-false-186",
@@ -3531,7 +3531,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p19-img3.png"
   },
   {
     "id": "signs-true-false-187",
@@ -3550,7 +3550,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p19-img4.png"
   },
   {
     "id": "signs-true-false-188",
@@ -3569,7 +3569,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p19-img4.png"
   },
   {
     "id": "signs-true-false-189",
@@ -3588,7 +3588,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p19-img5.png"
   },
   {
     "id": "signs-true-false-190",
@@ -3607,7 +3607,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p19-img5.png"
   },
   {
     "id": "signs-true-false-191",
@@ -3626,7 +3626,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p20-img1.png"
   },
   {
     "id": "signs-true-false-192",
@@ -3645,7 +3645,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p20-img1.png"
   },
   {
     "id": "signs-true-false-193",
@@ -3664,7 +3664,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p20-img2.png"
   },
   {
     "id": "signs-true-false-194",
@@ -3683,7 +3683,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p20-img2.png"
   },
   {
     "id": "signs-true-false-195",
@@ -3702,7 +3702,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p20-img3.png"
   },
   {
     "id": "signs-true-false-196",
@@ -3721,7 +3721,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p20-img3.png"
   },
   {
     "id": "signs-true-false-197",
@@ -3740,7 +3740,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p20-img4.png"
   },
   {
     "id": "signs-true-false-198",
@@ -3759,7 +3759,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p20-img4.png"
   },
   {
     "id": "signs-true-false-199",
@@ -3778,7 +3778,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p20-img5.png"
   },
   {
     "id": "signs-true-false-200",
@@ -3797,7 +3797,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p20-img5.png"
   },
   {
     "id": "signs-true-false-201",
@@ -3816,7 +3816,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img1.png"
   },
   {
     "id": "signs-true-false-202",
@@ -3835,7 +3835,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p21-img1.png"
   },
   {
     "id": "signs-true-false-203",
@@ -3854,7 +3854,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img2.png"
   },
   {
     "id": "signs-true-false-204",
@@ -3873,7 +3873,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img2.png"
   },
   {
     "id": "signs-true-false-205",
@@ -3892,7 +3892,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img3.png"
   },
   {
     "id": "signs-true-false-206",
@@ -3911,7 +3911,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img3.png"
   },
   {
     "id": "signs-true-false-207",
@@ -3930,7 +3930,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img4.png"
   },
   {
     "id": "signs-true-false-208",
@@ -3949,7 +3949,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img4.png"
   },
   {
     "id": "signs-true-false-209",
@@ -3968,7 +3968,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img5.png"
   },
   {
     "id": "signs-true-false-210",
@@ -3987,7 +3987,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p21-img5.png"
   },
   {
     "id": "signs-true-false-211",
@@ -4006,7 +4006,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p22-img1.png"
   },
   {
     "id": "signs-true-false-212",
@@ -4025,7 +4025,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p22-img1.png"
   },
   {
     "id": "signs-true-false-213",
@@ -4044,7 +4044,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p22-img2.png"
   },
   {
     "id": "signs-true-false-214",
@@ -4063,7 +4063,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p22-img2.png"
   },
   {
     "id": "signs-true-false-215",
@@ -4082,7 +4082,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p22-img3.png"
   },
   {
     "id": "signs-true-false-216",
@@ -4101,7 +4101,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p22-img3.png"
   },
   {
     "id": "signs-true-false-217",
@@ -4120,7 +4120,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p22-img4.png"
   },
   {
     "id": "signs-true-false-218",
@@ -4139,7 +4139,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p22-img4.png"
   },
   {
     "id": "signs-true-false-219",
@@ -4158,7 +4158,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p22-img5.png"
   },
   {
     "id": "signs-true-false-220",
@@ -4177,7 +4177,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p22-img5.png"
   },
   {
     "id": "signs-true-false-221",
@@ -4196,7 +4196,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p23-img1.png"
   },
   {
     "id": "signs-true-false-222",
@@ -4215,7 +4215,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p23-img1.png"
   },
   {
     "id": "signs-true-false-223",
@@ -4234,7 +4234,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p23-img2.png"
   },
   {
     "id": "signs-true-false-224",
@@ -4253,7 +4253,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p23-img2.png"
   },
   {
     "id": "signs-true-false-225",
@@ -4272,7 +4272,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p23-img3.png"
   },
   {
     "id": "signs-true-false-226",
@@ -4291,7 +4291,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p23-img3.png"
   },
   {
     "id": "signs-true-false-227",
@@ -4310,7 +4310,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p23-img4.png"
   },
   {
     "id": "signs-true-false-228",
@@ -4329,7 +4329,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p23-img4.png"
   },
   {
     "id": "signs-true-false-229",
@@ -4348,7 +4348,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p23-img5.png"
   },
   {
     "id": "signs-true-false-230",
@@ -4367,7 +4367,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p23-img5.png"
   },
   {
     "id": "signs-true-false-231",
@@ -4386,7 +4386,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img1.jpeg"
   },
   {
     "id": "signs-true-false-232",
@@ -4405,7 +4405,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p24-img1.jpeg"
   },
   {
     "id": "signs-true-false-233",
@@ -4424,7 +4424,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img2.png"
   },
   {
     "id": "signs-true-false-234",
@@ -4443,7 +4443,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p24-img2.png"
   },
   {
     "id": "signs-true-false-235",
@@ -4462,7 +4462,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img3.png"
   },
   {
     "id": "signs-true-false-236",
@@ -4481,7 +4481,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "images/signs-true-false-p24-img3.png"
   },
   {
     "id": "signs-true-false-237",
@@ -4500,7 +4500,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img4.png"
   },
   {
     "id": "signs-true-false-238",
@@ -4519,7 +4519,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img4.png"
   },
   {
     "id": "signs-true-false-239",
@@ -4538,7 +4538,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img5.png"
   },
   {
     "id": "signs-true-false-240",
@@ -4557,7 +4557,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "images/signs-true-false-p24-img5.png"
   },
   {
     "id": "signs-multiple-choice-001",
@@ -4580,7 +4580,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img1.png"
   },
   {
     "id": "signs-multiple-choice-002",
@@ -4603,7 +4603,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img1.png"
   },
   {
     "id": "signs-multiple-choice-003",
@@ -4626,7 +4626,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img2.png"
   },
   {
     "id": "signs-multiple-choice-004",
@@ -4649,7 +4649,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img2.png"
   },
   {
     "id": "signs-multiple-choice-005",
@@ -4672,7 +4672,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img3.png"
   },
   {
     "id": "signs-multiple-choice-006",
@@ -4695,7 +4695,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img3.png"
   },
   {
     "id": "signs-multiple-choice-007",
@@ -4718,7 +4718,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img4.png"
   },
   {
     "id": "signs-multiple-choice-008",
@@ -4741,7 +4741,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img4.png"
   },
   {
     "id": "signs-multiple-choice-009",
@@ -4764,7 +4764,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img5.png"
   },
   {
     "id": "signs-multiple-choice-010",
@@ -4783,7 +4783,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p1-img5.png"
   },
   {
     "id": "signs-multiple-choice-011",
@@ -4806,7 +4806,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img1.png"
   },
   {
     "id": "signs-multiple-choice-012",
@@ -4829,7 +4829,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img1.png"
   },
   {
     "id": "signs-multiple-choice-013",
@@ -4852,7 +4852,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img2.png"
   },
   {
     "id": "signs-multiple-choice-014",
@@ -4875,7 +4875,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img2.png"
   },
   {
     "id": "signs-multiple-choice-015",
@@ -4898,7 +4898,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img3.png"
   },
   {
     "id": "signs-multiple-choice-016",
@@ -4921,7 +4921,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img3.png"
   },
   {
     "id": "signs-multiple-choice-017",
@@ -4944,7 +4944,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img4.png"
   },
   {
     "id": "signs-multiple-choice-018",
@@ -4967,7 +4967,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img4.png"
   },
   {
     "id": "signs-multiple-choice-019",
@@ -4990,7 +4990,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img5.png"
   },
   {
     "id": "signs-multiple-choice-020",
@@ -5009,7 +5009,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p2-img5.png"
   },
   {
     "id": "signs-multiple-choice-021",
@@ -5032,7 +5032,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img1.png"
   },
   {
     "id": "signs-multiple-choice-022",
@@ -5055,7 +5055,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img1.png"
   },
   {
     "id": "signs-multiple-choice-023",
@@ -5078,7 +5078,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img2.png"
   },
   {
     "id": "signs-multiple-choice-024",
@@ -5101,7 +5101,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img2.png"
   },
   {
     "id": "signs-multiple-choice-025",
@@ -5124,7 +5124,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img3.png"
   },
   {
     "id": "signs-multiple-choice-026",
@@ -5147,7 +5147,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img3.png"
   },
   {
     "id": "signs-multiple-choice-027",
@@ -5170,7 +5170,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img4.png"
   },
   {
     "id": "signs-multiple-choice-028",
@@ -5193,7 +5193,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img4.png"
   },
   {
     "id": "signs-multiple-choice-029",
@@ -5216,7 +5216,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img5.png"
   },
   {
     "id": "signs-multiple-choice-030",
@@ -5235,7 +5235,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p3-img5.png"
   },
   {
     "id": "signs-multiple-choice-031",
@@ -5258,7 +5258,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img1.png"
   },
   {
     "id": "signs-multiple-choice-032",
@@ -5281,7 +5281,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img1.png"
   },
   {
     "id": "signs-multiple-choice-033",
@@ -5304,7 +5304,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img2.png"
   },
   {
     "id": "signs-multiple-choice-034",
@@ -5327,7 +5327,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img2.png"
   },
   {
     "id": "signs-multiple-choice-035",
@@ -5350,7 +5350,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img3.png"
   },
   {
     "id": "signs-multiple-choice-036",
@@ -5373,7 +5373,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img3.png"
   },
   {
     "id": "signs-multiple-choice-037",
@@ -5396,7 +5396,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img4.png"
   },
   {
     "id": "signs-multiple-choice-038",
@@ -5419,7 +5419,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img4.png"
   },
   {
     "id": "signs-multiple-choice-039",
@@ -5442,7 +5442,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img5.png"
   },
   {
     "id": "signs-multiple-choice-040",
@@ -5461,7 +5461,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p4-img5.png"
   },
   {
     "id": "signs-multiple-choice-041",
@@ -5484,7 +5484,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img1.png"
   },
   {
     "id": "signs-multiple-choice-042",
@@ -5507,7 +5507,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img1.png"
   },
   {
     "id": "signs-multiple-choice-043",
@@ -5530,7 +5530,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img2.png"
   },
   {
     "id": "signs-multiple-choice-044",
@@ -5553,7 +5553,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img2.png"
   },
   {
     "id": "signs-multiple-choice-045",
@@ -5576,7 +5576,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img3.png"
   },
   {
     "id": "signs-multiple-choice-046",
@@ -5599,7 +5599,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img3.png"
   },
   {
     "id": "signs-multiple-choice-047",
@@ -5622,7 +5622,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img4.png"
   },
   {
     "id": "signs-multiple-choice-048",
@@ -5645,7 +5645,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img4.png"
   },
   {
     "id": "signs-multiple-choice-049",
@@ -5668,7 +5668,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img5.png"
   },
   {
     "id": "signs-multiple-choice-050",
@@ -5687,7 +5687,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p5-img5.png"
   },
   {
     "id": "signs-multiple-choice-051",
@@ -5710,7 +5710,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img1.png"
   },
   {
     "id": "signs-multiple-choice-052",
@@ -5733,7 +5733,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img1.png"
   },
   {
     "id": "signs-multiple-choice-053",
@@ -5756,7 +5756,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img2.png"
   },
   {
     "id": "signs-multiple-choice-054",
@@ -5779,7 +5779,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img2.png"
   },
   {
     "id": "signs-multiple-choice-055",
@@ -5802,7 +5802,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img3.png"
   },
   {
     "id": "signs-multiple-choice-056",
@@ -5825,7 +5825,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img3.png"
   },
   {
     "id": "signs-multiple-choice-057",
@@ -5848,7 +5848,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img4.png"
   },
   {
     "id": "signs-multiple-choice-058",
@@ -5871,7 +5871,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img4.png"
   },
   {
     "id": "signs-multiple-choice-059",
@@ -5894,7 +5894,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img5.png"
   },
   {
     "id": "signs-multiple-choice-060",
@@ -5913,7 +5913,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p6-img5.png"
   },
   {
     "id": "signs-multiple-choice-061",
@@ -5936,7 +5936,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img1.png"
   },
   {
     "id": "signs-multiple-choice-062",
@@ -5959,7 +5959,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img1.png"
   },
   {
     "id": "signs-multiple-choice-063",
@@ -5982,7 +5982,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img2.png"
   },
   {
     "id": "signs-multiple-choice-064",
@@ -6005,7 +6005,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img2.png"
   },
   {
     "id": "signs-multiple-choice-065",
@@ -6028,7 +6028,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img3.png"
   },
   {
     "id": "signs-multiple-choice-066",
@@ -6051,7 +6051,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img3.png"
   },
   {
     "id": "signs-multiple-choice-067",
@@ -6074,7 +6074,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img4.png"
   },
   {
     "id": "signs-multiple-choice-068",
@@ -6097,7 +6097,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img4.png"
   },
   {
     "id": "signs-multiple-choice-069",
@@ -6120,7 +6120,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img5.png"
   },
   {
     "id": "signs-multiple-choice-070",
@@ -6139,7 +6139,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p7-img5.png"
   },
   {
     "id": "signs-multiple-choice-071",
@@ -6162,7 +6162,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img1.png"
   },
   {
     "id": "signs-multiple-choice-072",
@@ -6185,7 +6185,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img1.png"
   },
   {
     "id": "signs-multiple-choice-073",
@@ -6208,7 +6208,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img2.png"
   },
   {
     "id": "signs-multiple-choice-074",
@@ -6231,7 +6231,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img2.png"
   },
   {
     "id": "signs-multiple-choice-075",
@@ -6254,7 +6254,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img3.png"
   },
   {
     "id": "signs-multiple-choice-076",
@@ -6277,7 +6277,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img3.png"
   },
   {
     "id": "signs-multiple-choice-077",
@@ -6300,7 +6300,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img4.png"
   },
   {
     "id": "signs-multiple-choice-078",
@@ -6323,7 +6323,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img4.png"
   },
   {
     "id": "signs-multiple-choice-079",
@@ -6346,7 +6346,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img5.png"
   },
   {
     "id": "signs-multiple-choice-080",
@@ -6365,7 +6365,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p8-img5.png"
   },
   {
     "id": "signs-multiple-choice-081",
@@ -6388,7 +6388,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img1.png"
   },
   {
     "id": "signs-multiple-choice-082",
@@ -6411,7 +6411,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img1.png"
   },
   {
     "id": "signs-multiple-choice-083",
@@ -6434,7 +6434,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img2.png"
   },
   {
     "id": "signs-multiple-choice-084",
@@ -6457,7 +6457,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img2.png"
   },
   {
     "id": "signs-multiple-choice-085",
@@ -6480,7 +6480,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img3.png"
   },
   {
     "id": "signs-multiple-choice-086",
@@ -6503,7 +6503,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img3.png"
   },
   {
     "id": "signs-multiple-choice-087",
@@ -6526,7 +6526,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img4.png"
   },
   {
     "id": "signs-multiple-choice-088",
@@ -6549,7 +6549,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img4.png"
   },
   {
     "id": "signs-multiple-choice-089",
@@ -6572,7 +6572,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img5.png"
   },
   {
     "id": "signs-multiple-choice-090",
@@ -6591,7 +6591,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p9-img5.png"
   },
   {
     "id": "signs-multiple-choice-091",
@@ -6614,7 +6614,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img1.png"
   },
   {
     "id": "signs-multiple-choice-092",
@@ -6637,7 +6637,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img1.png"
   },
   {
     "id": "signs-multiple-choice-093",
@@ -6660,7 +6660,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img2.png"
   },
   {
     "id": "signs-multiple-choice-094",
@@ -6683,7 +6683,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img2.png"
   },
   {
     "id": "signs-multiple-choice-095",
@@ -6706,7 +6706,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img3.png"
   },
   {
     "id": "signs-multiple-choice-096",
@@ -6729,7 +6729,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img3.png"
   },
   {
     "id": "signs-multiple-choice-097",
@@ -6752,7 +6752,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img4.png"
   },
   {
     "id": "signs-multiple-choice-098",
@@ -6775,7 +6775,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img4.png"
   },
   {
     "id": "signs-multiple-choice-099",
@@ -6798,7 +6798,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img5.png"
   },
   {
     "id": "signs-multiple-choice-100",
@@ -6817,7 +6817,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p10-img5.png"
   },
   {
     "id": "signs-multiple-choice-101",
@@ -6840,7 +6840,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img1.png"
   },
   {
     "id": "signs-multiple-choice-102",
@@ -6863,7 +6863,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img1.png"
   },
   {
     "id": "signs-multiple-choice-103",
@@ -6886,7 +6886,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img2.png"
   },
   {
     "id": "signs-multiple-choice-104",
@@ -6909,7 +6909,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img2.png"
   },
   {
     "id": "signs-multiple-choice-105",
@@ -6932,7 +6932,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img3.png"
   },
   {
     "id": "signs-multiple-choice-106",
@@ -6955,7 +6955,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img3.png"
   },
   {
     "id": "signs-multiple-choice-107",
@@ -6978,7 +6978,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img4.png"
   },
   {
     "id": "signs-multiple-choice-108",
@@ -7001,7 +7001,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img4.png"
   },
   {
     "id": "signs-multiple-choice-109",
@@ -7024,7 +7024,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img5.png"
   },
   {
     "id": "signs-multiple-choice-110",
@@ -7043,7 +7043,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p11-img5.png"
   },
   {
     "id": "signs-multiple-choice-111",
@@ -7066,7 +7066,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img1.png"
   },
   {
     "id": "signs-multiple-choice-112",
@@ -7089,7 +7089,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img1.png"
   },
   {
     "id": "signs-multiple-choice-113",
@@ -7112,7 +7112,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img2.png"
   },
   {
     "id": "signs-multiple-choice-114",
@@ -7135,7 +7135,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img2.png"
   },
   {
     "id": "signs-multiple-choice-115",
@@ -7158,7 +7158,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img3.png"
   },
   {
     "id": "signs-multiple-choice-116",
@@ -7181,7 +7181,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img3.png"
   },
   {
     "id": "signs-multiple-choice-117",
@@ -7204,7 +7204,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img4.png"
   },
   {
     "id": "signs-multiple-choice-118",
@@ -7227,7 +7227,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img4.png"
   },
   {
     "id": "signs-multiple-choice-119",
@@ -7250,7 +7250,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img5.png"
   },
   {
     "id": "signs-multiple-choice-120",
@@ -7269,7 +7269,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p12-img5.png"
   },
   {
     "id": "signs-multiple-choice-121",
@@ -7292,7 +7292,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img1.png"
   },
   {
     "id": "signs-multiple-choice-122",
@@ -7315,7 +7315,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img1.png"
   },
   {
     "id": "signs-multiple-choice-123",
@@ -7338,7 +7338,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img2.png"
   },
   {
     "id": "signs-multiple-choice-124",
@@ -7361,7 +7361,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img2.png"
   },
   {
     "id": "signs-multiple-choice-125",
@@ -7384,7 +7384,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img3.png"
   },
   {
     "id": "signs-multiple-choice-126",
@@ -7407,7 +7407,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img3.png"
   },
   {
     "id": "signs-multiple-choice-127",
@@ -7430,7 +7430,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img4.png"
   },
   {
     "id": "signs-multiple-choice-128",
@@ -7453,7 +7453,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img4.png"
   },
   {
     "id": "signs-multiple-choice-129",
@@ -7476,7 +7476,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img5.png"
   },
   {
     "id": "signs-multiple-choice-130",
@@ -7495,7 +7495,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "images/signs-multiple-choice-p13-img5.png"
   },
   {
     "id": "signs-multiple-choice-131",
@@ -7518,7 +7518,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img1.jpeg"
   },
   {
     "id": "signs-multiple-choice-132",
@@ -7541,7 +7541,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img1.jpeg"
   },
   {
     "id": "signs-multiple-choice-133",
@@ -7564,7 +7564,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img2.png"
   },
   {
     "id": "signs-multiple-choice-134",
@@ -7587,7 +7587,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img2.png"
   },
   {
     "id": "signs-multiple-choice-135",
@@ -7610,14 +7610,14 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img3.png"
   },
   {
     "id": "signs-multiple-choice-136",
     "number": 136,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "The bike rider’s hand gesture shows an upcoming",
+    "question": "The bike rider\u2019s hand gesture shows an upcoming",
     "options": [
       {
         "label": "1",
@@ -7633,14 +7633,14 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img3.png"
   },
   {
     "id": "signs-multiple-choice-137",
     "number": 137,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "The bike rider’s hand gesture shows an upcoming",
+    "question": "The bike rider\u2019s hand gesture shows an upcoming",
     "options": [
       {
         "label": "1",
@@ -7656,7 +7656,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "images/signs-multiple-choice-p14-img4.png"
   },
   {
     "id": "regulations-true-false-001",
@@ -7910,7 +7910,7 @@
     "number": 14,
     "type": "regulations",
     "format": "true-false",
-    "question": "My car breaks down in the fast lane, blocking traffic, and may cause safety problems. As I am running late, I think it OK if I can fix it up quickly and drive away. 【English version】",
+    "question": "My car breaks down in the fast lane, blocking traffic, and may cause safety problems. As I am running late, I think it OK if I can fix it up quickly and drive away. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -8176,7 +8176,7 @@
     "number": 28,
     "type": "regulations",
     "format": "true-false",
-    "question": "If you see a blind person or a person using a white-colored cane to assist them with walking on the street or crossing the street, you should help them or yield to them. 【English version】",
+    "question": "If you see a blind person or a person using a white-colored cane to assist them with walking on the street or crossing the street, you should help them or yield to them. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -8480,7 +8480,7 @@
     "number": 44,
     "type": "regulations",
     "format": "true-false",
-    "question": "Reaction distance plus braking distance equals the distance required to stop a moving vehicle. 【English version】 5",
+    "question": "Reaction distance plus braking distance equals the distance required to stop a moving vehicle. \u3010English version\u3011 5",
     "options": [
       {
         "label": "True",
@@ -8670,7 +8670,7 @@
     "number": 55,
     "type": "regulations",
     "format": "true-false",
-    "question": "Long tunnel is an extremely enclosed underground space. If a fire occurs, temperature in the tunnel may rise as high as 1,000°C and cause a disaster if drivers do not follow regulations or evacuation procedures in the tunnel.",
+    "question": "Long tunnel is an extremely enclosed underground space. If a fire occurs, temperature in the tunnel may rise as high as 1,000\u00b0C and cause a disaster if drivers do not follow regulations or evacuation procedures in the tunnel.",
     "options": [
       {
         "label": "True",
@@ -8708,7 +8708,7 @@
     "number": 57,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers may not throw any object out of their vehicle when they are driving in a long tunnel. 【English version】 6",
+    "question": "Drivers may not throw any object out of their vehicle when they are driving in a long tunnel. \u3010English version\u3011 6",
     "options": [
       {
         "label": "True",
@@ -8974,7 +8974,7 @@
     "number": 71,
     "type": "regulations",
     "format": "true-false",
-    "question": "No one is allowed to ride outside a vehicle. 【English version】 7",
+    "question": "No one is allowed to ride outside a vehicle. \u3010English version\u3011 7",
     "options": [
       {
         "label": "True",
@@ -9240,7 +9240,7 @@
     "number": 85,
     "type": "regulations",
     "format": "true-false",
-    "question": "Goods loaded in or on vehicles have to be securely loaded and fastened down tightly. 【English version】 8",
+    "question": "Goods loaded in or on vehicles have to be securely loaded and fastened down tightly. \u3010English version\u3011 8",
     "options": [
       {
         "label": "True",
@@ -9468,7 +9468,7 @@
     "number": 97,
     "type": "regulations",
     "format": "true-false",
-    "question": "Buses must not obstruct traffic while loading or unloading passengers. 【English version】 9",
+    "question": "Buses must not obstruct traffic while loading or unloading passengers. \u3010English version\u3011 9",
     "options": [
       {
         "label": "True",
@@ -9696,7 +9696,7 @@
     "number": 109,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers who turn in another driver who has caused an accident, assist the injured at the scene of an accident, and maintain an outstanding driving record are eligible for an award bestowed by the government. 【English version】",
+    "question": "Drivers who turn in another driver who has caused an accident, assist the injured at the scene of an accident, and maintain an outstanding driving record are eligible for an award bestowed by the government. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -10000,7 +10000,7 @@
     "number": 125,
     "type": "regulations",
     "format": "true-false",
-    "question": "If an injury or death occurs because a pedestrian or driver in the slow lane is not following the traffic rules, the driver in the fast lane will be subject to reduced criminal liability. 【English version】",
+    "question": "If an injury or death occurs because a pedestrian or driver in the slow lane is not following the traffic rules, the driver in the fast lane will be subject to reduced criminal liability. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -10266,7 +10266,7 @@
     "number": 139,
     "type": "regulations",
     "format": "true-false",
-    "question": "When driving through an area with road signs indicating a winding road, tunnel, steep slope, narrow road, school, hospital, muddy road, flooding, or road under construction, drivers must slow down and be prepared to stop at any time. 【English version】",
+    "question": "When driving through an area with road signs indicating a winding road, tunnel, steep slope, narrow road, school, hospital, muddy road, flooding, or road under construction, drivers must slow down and be prepared to stop at any time. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -10532,7 +10532,7 @@
     "number": 153,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers that use hand-held cell phones, computers, or other similar devices to call, talk, digitally communicate, or do other actions that might hinder driving safety while operating a moving vehicle on the road will be fined  1,000 NTD. 【English version】",
+    "question": "Drivers that use hand-held cell phones, computers, or other similar devices to call, talk, digitally communicate, or do other actions that might hinder driving safety while operating a moving vehicle on the road will be fined  1,000 NTD. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -10779,7 +10779,7 @@
     "number": 166,
     "type": "regulations",
     "format": "true-false",
-    "question": "Fire engines, ambulances, security vehicles, and other emergency vehicles are not subject to speed limit restrictions when they are on official duty. 【English version】 14",
+    "question": "Fire engines, ambulances, security vehicles, and other emergency vehicles are not subject to speed limit restrictions when they are on official duty. \u3010English version\u3011 14",
     "options": [
       {
         "label": "True",
@@ -11007,7 +11007,7 @@
     "number": 178,
     "type": "regulations",
     "format": "true-false",
-    "question": "At intersections with designated turning lanes, vehicles going straight may not drive in designated turning lanes. 【English version】 15",
+    "question": "At intersections with designated turning lanes, vehicles going straight may not drive in designated turning lanes. \u3010English version\u3011 15",
     "options": [
       {
         "label": "True",
@@ -11254,7 +11254,7 @@
     "number": 191,
     "type": "regulations",
     "format": "true-false",
-    "question": "Vehicles may drive through slowly when pedestrians are crossing in crosswalks. 【English version】 16",
+    "question": "Vehicles may drive through slowly when pedestrians are crossing in crosswalks. \u3010English version\u3011 16",
     "options": [
       {
         "label": "True",
@@ -11539,7 +11539,7 @@
     "number": 206,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers are required to use their low-beam headlights when driving in urban areas at night if the street lighting is bright enough. 【English version】 17",
+    "question": "Drivers are required to use their low-beam headlights when driving in urban areas at night if the street lighting is bright enough. \u3010English version\u3011 17",
     "options": [
       {
         "label": "True",
@@ -11805,7 +11805,7 @@
     "number": 220,
     "type": "regulations",
     "format": "true-false",
-    "question": "After parking a vehicle and before opening the door, it is critical to check for any passing pedestrians or vehicles and let them pass by first. 【English version】 18",
+    "question": "After parking a vehicle and before opening the door, it is critical to check for any passing pedestrians or vehicles and let them pass by first. \u3010English version\u3011 18",
     "options": [
       {
         "label": "True",
@@ -12071,7 +12071,7 @@
     "number": 234,
     "type": "regulations",
     "format": "true-false",
-    "question": "Bicyclists, pedestrians and drivers of motorized tri-wheeled cycles will be fined if they do not attend traffic safety classes when they are required to do so. 【English version】 19",
+    "question": "Bicyclists, pedestrians and drivers of motorized tri-wheeled cycles will be fined if they do not attend traffic safety classes when they are required to do so. \u3010English version\u3011 19",
     "options": [
       {
         "label": "True",
@@ -12299,7 +12299,7 @@
     "number": 246,
     "type": "regulations",
     "format": "true-false",
-    "question": "If a person possessing only a car driver's license drives a large vehicle, like a truck, both the large vehicle owner and the driver will be fined NTD 40,000 ~ 80,000 and a traffic violation will be recorded with that large vehicle. 【English version】",
+    "question": "If a person possessing only a car driver's license drives a large vehicle, like a truck, both the large vehicle owner and the driver will be fined NTD 40,000 ~ 80,000 and a traffic violation will be recorded with that large vehicle. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -12546,7 +12546,7 @@
     "number": 259,
     "type": "regulations",
     "format": "true-false",
-    "question": "Parking for any length of time, backing up or driving in reverse, and passing are all strictly prohibited in tunnels. 【English version】 21",
+    "question": "Parking for any length of time, backing up or driving in reverse, and passing are all strictly prohibited in tunnels. \u3010English version\u3011 21",
     "options": [
       {
         "label": "True",
@@ -12831,7 +12831,7 @@
     "number": 274,
     "type": "regulations",
     "format": "true-false",
-    "question": "On freeways and expressways, drivers may pass vehicles in an acceleration lane, deceleration lane, and on a single-lane ramp. 【English version】 22",
+    "question": "On freeways and expressways, drivers may pass vehicles in an acceleration lane, deceleration lane, and on a single-lane ramp. \u3010English version\u3011 22",
     "options": [
       {
         "label": "True",
@@ -13116,7 +13116,7 @@
     "number": 289,
     "type": "regulations",
     "format": "true-false",
-    "question": "Because motorcycles over 550cc have outstanding road performance, skillful drivers may drive on any sections of the freeways and expressways at any time. 【English version】 23",
+    "question": "Because motorcycles over 550cc have outstanding road performance, skillful drivers may drive on any sections of the freeways and expressways at any time. \u3010English version\u3011 23",
     "options": [
       {
         "label": "True",
@@ -13382,7 +13382,7 @@
     "number": 303,
     "type": "regulations",
     "format": "true-false",
-    "question": "A driver's visual capability remains the same no matter what speed they are traveling at. 【English version】 24",
+    "question": "A driver's visual capability remains the same no matter what speed they are traveling at. \u3010English version\u3011 24",
     "options": [
       {
         "label": "True",
@@ -13572,7 +13572,7 @@
     "number": 313,
     "type": "regulations",
     "format": "true-false",
-    "question": "If a vehicle suddenly breaks down on a freeway or expressway, drivers should first be aware of nearby vehicles, and operate the turn signal to pull off the road; they can then slowly reduce speed and pull over to the road shoulder. They must then place a vehicle breakdown sign 50~100 meters behind the vehicle, and change the turn signal to hazard flashers. 【English version】",
+    "question": "If a vehicle suddenly breaks down on a freeway or expressway, drivers should first be aware of nearby vehicles, and operate the turn signal to pull off the road; they can then slowly reduce speed and pull over to the road shoulder. They must then place a vehicle breakdown sign 50~100 meters behind the vehicle, and change the turn signal to hazard flashers. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -13800,7 +13800,7 @@
     "number": 325,
     "type": "regulations",
     "format": "true-false",
-    "question": "Trucks traveling on freeways or expressways that exceed the maximum weight limit by more than 20% may be fined repeatedly and continuously if the driver disregards the warning, fails to reduce the weight and continues to transport the same load. 【English version】",
+    "question": "Trucks traveling on freeways or expressways that exceed the maximum weight limit by more than 20% may be fined repeatedly and continuously if the driver disregards the warning, fails to reduce the weight and continues to transport the same load. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -14047,7 +14047,7 @@
     "number": 338,
     "type": "regulations",
     "format": "true-false",
-    "question": "Speeding is one of the leading causes of road accidents. 【English version】 27",
+    "question": "Speeding is one of the leading causes of road accidents. \u3010English version\u3011 27",
     "options": [
       {
         "label": "True",
@@ -14294,7 +14294,7 @@
     "number": 351,
     "type": "regulations",
     "format": "true-false",
-    "question": "In the event of an accident, the drivers involved may go ahead immediately clear the road of any vehicles or debris, so other drivers can use the road as quickly as possible. They need not wait for instructions from the proper authorities first. 【English version】",
+    "question": "In the event of an accident, the drivers involved may go ahead immediately clear the road of any vehicles or debris, so other drivers can use the road as quickly as possible. They need not wait for instructions from the proper authorities first. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -14541,7 +14541,7 @@
     "number": 364,
     "type": "regulations",
     "format": "true-false",
-    "question": "Getting rid of unnecessary load will make your vehicle more fuel efficient. 【English version】 29",
+    "question": "Getting rid of unnecessary load will make your vehicle more fuel efficient. \u3010English version\u3011 29",
     "options": [
       {
         "label": "True",
@@ -14655,7 +14655,7 @@
     "number": 370,
     "type": "regulations",
     "format": "true-false",
-    "question": "If an infant in a passenger car is not seated in an approved child safety seat, the drivers will be fined NTD 1,500～3,000.",
+    "question": "If an infant in a passenger car is not seated in an approved child safety seat, the drivers will be fined NTD 1,500\uff5e3,000.",
     "options": [
       {
         "label": "True",
@@ -14769,7 +14769,7 @@
     "number": 376,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers who make a right turn while the traffic light is red will be fined NT$600 ～1,800.",
+    "question": "Drivers who make a right turn while the traffic light is red will be fined NT$600 \uff5e1,800.",
     "options": [
       {
         "label": "True",
@@ -14788,7 +14788,7 @@
     "number": 377,
     "type": "regulations",
     "format": "true-false",
-    "question": "A professional driver, aged 68 or over, of a light vehicle, who has not had his/her driver's license suspended within the previous year, and has passed a medical examination in accordance with the regulations, as well as the cognitive function test for car drivers, or having a certificate that shows that he/she is not suffering from dementia, may renew his/her professional driver's license valid for one 【English version】",
+    "question": "A professional driver, aged 68 or over, of a light vehicle, who has not had his/her driver's license suspended within the previous year, and has passed a medical examination in accordance with the regulations, as well as the cognitive function test for car drivers, or having a certificate that shows that he/she is not suffering from dementia, may renew his/her professional driver's license valid for one \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -14997,7 +14997,7 @@
     "number": 388,
     "type": "regulations",
     "format": "true-false",
-    "question": "By always maintaining a margin of safety, drivers can take an additional protective measure. 【English version】 31",
+    "question": "By always maintaining a margin of safety, drivers can take an additional protective measure. \u3010English version\u3011 31",
     "options": [
       {
         "label": "True",
@@ -15263,7 +15263,7 @@
     "number": 402,
     "type": "regulations",
     "format": "true-false",
-    "question": "IIf the back end of a vehicle is skidding to the right, the driver should also steer to the right in order to get control of and straighten out the car. 【English version】 32",
+    "question": "IIf the back end of a vehicle is skidding to the right, the driver should also steer to the right in order to get control of and straighten out the car. \u3010English version\u3011 32",
     "options": [
       {
         "label": "True",
@@ -15510,7 +15510,7 @@
     "number": 415,
     "type": "regulations",
     "format": "true-false",
-    "question": "When refueling, drivers are required to turn off their engine and may not smoke, make calls or answer calls with their cell phone for safety reasons. 【English version】 33",
+    "question": "When refueling, drivers are required to turn off their engine and may not smoke, make calls or answer calls with their cell phone for safety reasons. \u3010English version\u3011 33",
     "options": [
       {
         "label": "True",
@@ -15795,7 +15795,7 @@
     "number": 430,
     "type": "regulations",
     "format": "true-false",
-    "question": "The faster a person drives, the more fuel they can save. 【English version】 34",
+    "question": "The faster a person drives, the more fuel they can save. \u3010English version\u3011 34",
     "options": [
       {
         "label": "True",
@@ -16042,7 +16042,7 @@
     "number": 443,
     "type": "regulations",
     "format": "true-false",
-    "question": "Prior to pulling out of a parking space, parking, changing lanes, or turning, drivers are required to use their turn signal lights and drive cautiously to alert other vehicles and pedestrians. 【English version】",
+    "question": "Prior to pulling out of a parking space, parking, changing lanes, or turning, drivers are required to use their turn signal lights and drive cautiously to alert other vehicles and pedestrians. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -16289,7 +16289,7 @@
     "number": 456,
     "type": "regulations",
     "format": "true-false",
-    "question": "Before attempting to pass another vehicle, the driver should shift into a higher gear in order to improve their ability to accelerate quickly while passing. 【English version】 36",
+    "question": "Before attempting to pass another vehicle, the driver should shift into a higher gear in order to improve their ability to accelerate quickly while passing. \u3010English version\u3011 36",
     "options": [
       {
         "label": "True",
@@ -16517,7 +16517,7 @@
     "number": 468,
     "type": "regulations",
     "format": "true-false",
-    "question": "If drivers encounter a fire when driving through a long tunnel, they must stop their vehicle on the side of the road immediately, leave the doors unlocked, leave the keys in the ignition, and seek a safe evacuation route. 【English version】",
+    "question": "If drivers encounter a fire when driving through a long tunnel, they must stop their vehicle on the side of the road immediately, leave the doors unlocked, leave the keys in the ignition, and seek a safe evacuation route. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -16764,7 +16764,7 @@
     "number": 481,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers must be parked on a flat ground before they check the oil level in the engine. 【English version】 38",
+    "question": "Drivers must be parked on a flat ground before they check the oil level in the engine. \u3010English version\u3011 38",
     "options": [
       {
         "label": "True",
@@ -17030,7 +17030,7 @@
     "number": 495,
     "type": "regulations",
     "format": "true-false",
-    "question": "If the power steering system is leaking fluid, the steering wheel will not turn at all. 【English version】 39",
+    "question": "If the power steering system is leaking fluid, the steering wheel will not turn at all. \u3010English version\u3011 39",
     "options": [
       {
         "label": "True",
@@ -17334,7 +17334,7 @@
     "number": 511,
     "type": "regulations",
     "format": "true-false",
-    "question": "Drivers should check the water level in the radiator and check for any water leaks only when the engine is running. 【English version】 40",
+    "question": "Drivers should check the water level in the radiator and check for any water leaks only when the engine is running. \u3010English version\u3011 40",
     "options": [
       {
         "label": "True",
@@ -17619,7 +17619,7 @@
     "number": 526,
     "type": "regulations",
     "format": "true-false",
-    "question": "An ABS braking system allows drivers to brake and steer their vehicle normally when they have to stop suddenly due to an emergency. 【English version】 41",
+    "question": "An ABS braking system allows drivers to brake and steer their vehicle normally when they have to stop suddenly due to an emergency. \u3010English version\u3011 41",
     "options": [
       {
         "label": "True",
@@ -17923,7 +17923,7 @@
     "number": 542,
     "type": "regulations",
     "format": "true-false",
-    "question": "In order to start the ignition, an automatic drive vehicle must be shifted into drive (D). 【English version】 42",
+    "question": "In order to start the ignition, an automatic drive vehicle must be shifted into drive (D). \u3010English version\u3011 42",
     "options": [
       {
         "label": "True",
@@ -18189,7 +18189,7 @@
     "number": 556,
     "type": "regulations",
     "format": "true-false",
-    "question": "The engine will discharge blue and white exhaust smoke when oil is being burned. 【English version】 43",
+    "question": "The engine will discharge blue and white exhaust smoke when oil is being burned. \u3010English version\u3011 43",
     "options": [
       {
         "label": "True",
@@ -18512,7 +18512,7 @@
     "number": 573,
     "type": "regulations",
     "format": "true-false",
-    "question": "Dangerous flammable objects, such as lighters, should never be left in an unattended vehicle during hot or sunny weather. 【English version】 44",
+    "question": "Dangerous flammable objects, such as lighters, should never be left in an unattended vehicle during hot or sunny weather. \u3010English version\u3011 44",
     "options": [
       {
         "label": "True",
@@ -18778,7 +18778,7 @@
     "number": 587,
     "type": "regulations",
     "format": "true-false",
-    "question": "Areas that have “no parking” signs or road markings, but no other signs or marking rules, are allowed to be parked in after 8 pm until the next day before 7 am.",
+    "question": "Areas that have \u201cno parking\u201d signs or road markings, but no other signs or marking rules, are allowed to be parked in after 8 pm until the next day before 7 am.",
     "options": [
       {
         "label": "True",
@@ -18797,7 +18797,7 @@
     "number": 588,
     "type": "regulations",
     "format": "true-false",
-    "question": "Double parking a vehicle is allowed. 【English version】 45",
+    "question": "Double parking a vehicle is allowed. \u3010English version\u3011 45",
     "options": [
       {
         "label": "True",
@@ -19063,7 +19063,7 @@
     "number": 602,
     "type": "regulations",
     "format": "true-false",
-    "question": "Heavy motorcycles over 250cc but less than 550cc are considered the same as small cars, and may travel on freeways and expressways. 【English version】 46",
+    "question": "Heavy motorcycles over 250cc but less than 550cc are considered the same as small cars, and may travel on freeways and expressways. \u3010English version\u3011 46",
     "options": [
       {
         "label": "True",
@@ -19234,7 +19234,7 @@
     "number": 611,
     "type": "regulations",
     "format": "true-false",
-    "question": "The trailers attached to cars are only allowed to carry camping equipment, leisure items, and disease prevention and relief equipment. The trailer doors must be operable and kept closed at all times during transport. All items and objects must be loaded and tied down securely. The trailer may not carry any passengers and its side-windows may not be open. 【English version】",
+    "question": "The trailers attached to cars are only allowed to carry camping equipment, leisure items, and disease prevention and relief equipment. The trailer doors must be operable and kept closed at all times during transport. All items and objects must be loaded and tied down securely. The trailer may not carry any passengers and its side-windows may not be open. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -19424,7 +19424,7 @@
     "number": 621,
     "type": "regulations",
     "format": "true-false",
-    "question": "If a vehicle breaks down on a railroad crossing, the driver should take counter measures in the following sequence: press the emergency button→ push the vehicle out of the crossing →quickly move out of the way as the train approaches.",
+    "question": "If a vehicle breaks down on a railroad crossing, the driver should take counter measures in the following sequence: press the emergency button\u2192 push the vehicle out of the crossing \u2192quickly move out of the way as the train approaches.",
     "options": [
       {
         "label": "True",
@@ -19443,7 +19443,7 @@
     "number": 622,
     "type": "regulations",
     "format": "true-false",
-    "question": "Electrical railroad lines have height clearance gates in front of and behind the crossing which alert vehicles exceeding the maximum height are not allowed to pass. 【English version】",
+    "question": "Electrical railroad lines have height clearance gates in front of and behind the crossing which alert vehicles exceeding the maximum height are not allowed to pass. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -19652,7 +19652,7 @@
     "number": 633,
     "type": "regulations",
     "format": "true-false",
-    "question": "It is legal to look at the monitors used for driving assistance; therefore, it is also legal to drive while operating the driving assistance equipment. 【English version】 49",
+    "question": "It is legal to look at the monitors used for driving assistance; therefore, it is also legal to drive while operating the driving assistance equipment. \u3010English version\u3011 49",
     "options": [
       {
         "label": "True",
@@ -19823,7 +19823,7 @@
     "number": 644,
     "type": "regulations",
     "format": "true-false",
-    "question": "When a driver causes no injury or death in an accident and the vehicle remains operable, the driver should take pictures of or tape-record the vehicle location and traces of the scene. 【English version】",
+    "question": "When a driver causes no injury or death in an accident and the vehicle remains operable, the driver should take pictures of or tape-record the vehicle location and traces of the scene. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -19861,7 +19861,7 @@
     "number": 646,
     "type": "regulations",
     "format": "true-false",
-    "question": "Automobile drivers who remove their mufflers and cause loud noise are subject to fines, immediate driving prohibition, as well as a 6-month vehicle registration suspension. Drivers who commit a repeat offense in the period of a year are subject to a 6-month suspension of their driver’s license.",
+    "question": "Automobile drivers who remove their mufflers and cause loud noise are subject to fines, immediate driving prohibition, as well as a 6-month vehicle registration suspension. Drivers who commit a repeat offense in the period of a year are subject to a 6-month suspension of their driver\u2019s license.",
     "options": [
       {
         "label": "True",
@@ -19880,7 +19880,7 @@
     "number": 647,
     "type": "regulations",
     "format": "true-false",
-    "question": "The driver should always pay attention to the surroundings and drive in accordance with the legal regulations. When one encounters bicycle riders during travel, besides maintaining a safe distance, the driver should also pay particular attention to the riders’ hand gestures that may indicate an imminent change of direction.",
+    "question": "The driver should always pay attention to the surroundings and drive in accordance with the legal regulations. When one encounters bicycle riders during travel, besides maintaining a safe distance, the driver should also pay particular attention to the riders\u2019 hand gestures that may indicate an imminent change of direction.",
     "options": [
       {
         "label": "True",
@@ -19994,7 +19994,7 @@
     "number": 653,
     "type": "regulations",
     "format": "true-false",
-    "question": "If a car breaks down or has an accident on a freeway, if no one is injured or killed and the vehicle can still be driven, to prevent rear-end collisions, you shall move your vehicle to a safe place to wait for rescue. Do not stay in the lane. Face the oncoming traffic, and pay attention to the vehicles behind. 【English version】",
+    "question": "If a car breaks down or has an accident on a freeway, if no one is injured or killed and the vehicle can still be driven, to prevent rear-end collisions, you shall move your vehicle to a safe place to wait for rescue. Do not stay in the lane. Face the oncoming traffic, and pay attention to the vehicles behind. \u3010English version\u3011",
     "options": [
       {
         "label": "True",
@@ -24931,11 +24931,11 @@
     "options": [
       {
         "label": "1",
-        "text": "NT$1,000～2,000;"
+        "text": "NT$1,000\uff5e2,000;"
       },
       {
         "label": "2",
-        "text": "NT$1,500～3,000;"
+        "text": "NT$1,500\uff5e3,000;"
       },
       {
         "label": "3",
@@ -25038,7 +25038,7 @@
     "number": 222,
     "type": "regulations",
     "format": "multiple-choice",
-    "question": "The fine for illegally parallel parking is：",
+    "question": "The fine for illegally parallel parking is\uff1a",
     "options": [
       {
         "label": "1",
@@ -26015,7 +26015,7 @@
     "options": [
       {
         "label": "1",
-        "text": "managing one’s time, and starting travel at the appropriate time, so the driver does not have to rush and go over the speed limit;"
+        "text": "managing one\u2019s time, and starting travel at the appropriate time, so the driver does not have to rush and go over the speed limit;"
       },
       {
         "label": "2",
@@ -29761,15 +29761,15 @@
     "options": [
       {
         "label": "1",
-        "text": "revocation of driver’s license."
+        "text": "revocation of driver\u2019s license."
       },
       {
         "label": "2",
-        "text": "suspension of driver’s license for 1-month."
+        "text": "suspension of driver\u2019s license for 1-month."
       },
       {
         "label": "3",
-        "text": "suspension of driver’s license for 6-months."
+        "text": "suspension of driver\u2019s license for 6-months."
       }
     ],
     "answer": "3",
@@ -29784,7 +29784,7 @@
     "options": [
       {
         "label": "1",
-        "text": "Pay attention to passing light rail and make one’s judgment"
+        "text": "Pay attention to passing light rail and make one\u2019s judgment"
       },
       {
         "label": "2",
@@ -29807,11 +29807,11 @@
     "options": [
       {
         "label": "1",
-        "text": "Since it is prohibited to linger on the light rail track’s yellow line area, pass through it soon as possible."
+        "text": "Since it is prohibited to linger on the light rail track\u2019s yellow line area, pass through it soon as possible."
       },
       {
         "label": "2",
-        "text": "When any signal or sound occurs near the light rail track area, there’s no need to listen nor stop the car, accelerate, and pass through it as soon as possible."
+        "text": "When any signal or sound occurs near the light rail track area, there\u2019s no need to listen nor stop the car, accelerate, and pass through it as soon as possible."
       }
     ],
     "answer": "2",
@@ -29834,7 +29834,7 @@
       },
       {
         "label": "3",
-        "text": "decelerate and pay attention to the rider’s whereabouts"
+        "text": "decelerate and pay attention to the rider\u2019s whereabouts"
       }
     ],
     "answer": "3",
