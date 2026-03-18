@@ -31,18 +31,26 @@ async function extractQuestionsFromPDF(filePath) {
 }
 
 function extractEmbeddedOptions(questionText) {
-  const regex = /\((\d)\)\s*([^(]+?)(?=\s*\(\d\)|$)/g;
+  // Split on (1), (2), (3) markers - handles option text containing parentheses
+  const parts = questionText.split(/(?=\(\d\))/);
   const options = [];
-  let match;
+  let cleanQuestion = parts[0].trim();
 
-  while ((match = regex.exec(questionText)) !== null) {
-    options.push({
-      label: match[1],
-      text: match[2].trim(),
-    });
+  for (let i = 1; i < parts.length; i++) {
+    const match = parts[i].match(/^\((\d)\)\s*([\s\S]+)/);
+    if (match) {
+      // Strip page header artifacts from option text
+      const text = match[2]
+        .replace(
+          /Car regulations\s*\(Multiple Choice Questions Bank\)\s*【English version】\s*\d+/g,
+          "",
+        )
+        .replace(/Road Signs.*?【English version】\s*\d+/g, "")
+        .trim();
+      options.push({ label: match[1], text });
+    }
   }
 
-  const cleanQuestion = questionText.split(/\(\d\)/)[0].trim();
   return { cleanQuestion, options };
 }
 
@@ -102,12 +110,6 @@ async function parseQuestions(text, type, format) {
         j++;
 
         if (format === "true-false" && questionText && j - startIdx > 5) break;
-        if (
-          format === "multiple-choice" &&
-          (options.length === 4 ||
-            (questionText.length > 100 && j - startIdx > 10))
-        )
-          break;
       }
 
       // For true-false questions, if no question text found, check if text appears after answer

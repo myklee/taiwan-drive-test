@@ -4564,12 +4564,8 @@
     "number": 1,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Right turn",
     "options": [
-      {
-        "label": "1",
-        "text": "Right turn"
-      },
       {
         "label": "2",
         "text": "Left turn"
@@ -4587,12 +4583,8 @@
     "number": 2,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Left turn",
     "options": [
-      {
-        "label": "1",
-        "text": "Left turn"
-      },
       {
         "label": "2",
         "text": "Right turn"
@@ -4610,12 +4602,8 @@
     "number": 3,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Winding road, right turn ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Winding road, right turn ahead"
-      },
       {
         "label": "2",
         "text": "Left turn"
@@ -4633,12 +4621,8 @@
     "number": 4,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Winding road, left turn ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Winding road, left turn ahead"
-      },
       {
         "label": "2",
         "text": "Right turn"
@@ -4656,12 +4640,8 @@
     "number": 5,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Two-way",
     "options": [
-      {
-        "label": "1",
-        "text": "Two-way"
-      },
       {
         "label": "2",
         "text": "Narrow road"
@@ -4679,12 +4659,8 @@
     "number": 6,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) T intersection ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "T intersection ahead"
-      },
       {
         "label": "2",
         "text": "Two-way"
@@ -4702,12 +4678,8 @@
     "number": 7,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Right lane narrows",
     "options": [
-      {
-        "label": "1",
-        "text": "Right lane narrows"
-      },
       {
         "label": "2",
         "text": "Narrow road"
@@ -4725,12 +4697,8 @@
     "number": 8,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Road narrows",
     "options": [
-      {
-        "label": "1",
-        "text": "Road narrows"
-      },
       {
         "label": "2",
         "text": "Narrow bridge"
@@ -4748,12 +4716,8 @@
     "number": 9,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Crossroads",
     "options": [
-      {
-        "label": "1",
-        "text": "Crossroads"
-      },
       {
         "label": "2",
         "text": "Narrow bridge"
@@ -4771,15 +4735,15 @@
     "number": 10,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) One way road",
     "options": [
-      {
-        "label": "1",
-        "text": "One way road"
-      },
       {
         "label": "2",
         "text": "Two-way road"
+      },
+      {
+        "label": "3",
+        "text": "Narrow road  Question number Question"
       }
     ],
     "answer": "2",
@@ -4790,12 +4754,8 @@
     "number": 11,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Road veers left",
     "options": [
-      {
-        "label": "1",
-        "text": "Road veers left"
-      },
       {
         "label": "2",
         "text": "Circular intersection"
@@ -4813,12 +4773,8 @@
     "number": 12,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Bumpy road",
     "options": [
-      {
-        "label": "1",
-        "text": "Bumpy road"
-      },
       {
         "label": "2",
         "text": "Bump ahead"
@@ -4836,12 +4792,8 @@
     "number": 13,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Crossroads",
     "options": [
-      {
-        "label": "1",
-        "text": "Crossroads"
-      },
       {
         "label": "2",
         "text": "Narrow bridge"
@@ -4859,12 +4811,8 @@
     "number": 14,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Bumpy road",
     "options": [
-      {
-        "label": "1",
-        "text": "Bumpy road"
-      },
       {
         "label": "2",
         "text": "Steep hill"
@@ -4882,12 +4830,8 @@
     "number": 15,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Steep downgrade",
     "options": [
-      {
-        "label": "1",
-        "text": "Steep downgrade"
-      },
       {
         "label": "2",
         "text": "Steep hill"
@@ -4905,12 +4849,8 @@
     "number": 16,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Steep drop-off on right",
     "options": [
-      {
-        "label": "1",
-        "text": "Steep drop-off on right"
-      },
       {
         "label": "2",
         "text": "Falling rocks"
@@ -4928,12 +4868,8 @@
     "number": 17,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Railroad crossing without gate",
     "options": [
-      {
-        "label": "1",
-        "text": "Railroad crossing without gate"
-      },
       {
         "label": "2",
         "text": "Railroad crossing with gate"
@@ -4951,12 +4887,8 @@
     "number": 18,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Watch out for traffic signals",
     "options": [
-      {
-        "label": "1",
-        "text": "Watch out for traffic signals"
-      },
       {
         "label": "2",
         "text": "Danger ahead"
@@ -4974,12 +4906,8 @@
     "number": 19,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles prohibited"
-      },
       {
         "label": "2",
         "text": "Railroad crossing without gate"
@@ -4997,15 +4925,15 @@
     "number": 20,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Bumpy road",
     "options": [
-      {
-        "label": "1",
-        "text": "Bumpy road"
-      },
       {
         "label": "2",
         "text": "Slippery road"
+      },
+      {
+        "label": "3",
+        "text": "Passing prohibited  Question number Question"
       }
     ],
     "answer": "2",
@@ -5016,12 +4944,8 @@
     "number": 21,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Narrow road",
     "options": [
-      {
-        "label": "1",
-        "text": "Narrow road"
-      },
       {
         "label": "2",
         "text": "Tunnel"
@@ -5039,12 +4963,8 @@
     "number": 22,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Cars prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Cars prohibited"
-      },
       {
         "label": "2",
         "text": "Watch out for trolley"
@@ -5062,12 +4982,8 @@
     "number": 23,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Watch out for pedestrians",
     "options": [
-      {
-        "label": "1",
-        "text": "Watch out for pedestrians"
-      },
       {
         "label": "2",
         "text": "Watch out for children"
@@ -5085,12 +5001,8 @@
     "number": 24,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Watch out for children",
     "options": [
-      {
-        "label": "1",
-        "text": "Watch out for children"
-      },
       {
         "label": "2",
         "text": "Watch out for pedestrians"
@@ -5108,12 +5020,8 @@
     "number": 25,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Make full stop then proceed",
     "options": [
-      {
-        "label": "1",
-        "text": "Make full stop then proceed"
-      },
       {
         "label": "2",
         "text": "Yield"
@@ -5131,12 +5039,8 @@
     "number": 26,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Steep Downgrade",
     "options": [
-      {
-        "label": "1",
-        "text": "Steep Downgrade"
-      },
       {
         "label": "2",
         "text": "Wharf embankment"
@@ -5154,12 +5058,8 @@
     "number": 27,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Poor road conditions",
     "options": [
-      {
-        "label": "1",
-        "text": "Poor road conditions"
-      },
       {
         "label": "2",
         "text": "Watch for falling rocks on left"
@@ -5177,12 +5077,8 @@
     "number": 28,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Narrow bridge",
     "options": [
-      {
-        "label": "1",
-        "text": "Narrow bridge"
-      },
       {
         "label": "2",
         "text": "Danger ahead"
@@ -5200,12 +5096,8 @@
     "number": 29,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Keep right",
     "options": [
-      {
-        "label": "1",
-        "text": "Keep right"
-      },
       {
         "label": "2",
         "text": "One-way road"
@@ -5223,15 +5115,15 @@
     "number": 30,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Parking prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Parking prohibited"
-      },
       {
         "label": "2",
         "text": "Stop for inspection"
+      },
+      {
+        "label": "3",
+        "text": "Cars prohibited  Question number Question"
       }
     ],
     "answer": "2",
@@ -5242,12 +5134,8 @@
     "number": 31,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Pedestrians prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Pedestrians prohibited"
-      },
       {
         "label": "2",
         "text": "Make full stop then proceed"
@@ -5265,12 +5153,8 @@
     "number": 32,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Pedestrians prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Pedestrians prohibited"
-      },
       {
         "label": "2",
         "text": "Vehicles prohibited"
@@ -5288,12 +5172,8 @@
     "number": 33,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles prohibited"
-      },
       {
         "label": "2",
         "text": "Trailer trucks prohibited"
@@ -5311,12 +5191,8 @@
     "number": 34,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) All motorcycles except large heavy duty motorcycles prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "All motorcycles except large heavy duty motorcycles prohibited"
-      },
       {
         "label": "2",
         "text": "Automobiles with four or more wheels prohibited"
@@ -5334,12 +5210,8 @@
     "number": 35,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles prohibited"
-      },
       {
         "label": "2",
         "text": "Motor vehicles with four or more wheels and motorcycles prohibited"
@@ -5357,12 +5229,8 @@
     "number": 36,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) No U-turn",
     "options": [
-      {
-        "label": "1",
-        "text": "No U-turn"
-      },
       {
         "label": "2",
         "text": "No left turn"
@@ -5380,12 +5248,8 @@
     "number": 37,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Passing prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Passing prohibited"
-      },
       {
         "label": "2",
         "text": "Single lane road"
@@ -5403,12 +5267,8 @@
     "number": 38,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) No left turn",
     "options": [
-      {
-        "label": "1",
-        "text": "No left turn"
-      },
       {
         "label": "2",
         "text": "No U-turn"
@@ -5426,12 +5286,8 @@
     "number": 39,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Two-way road",
     "options": [
-      {
-        "label": "1",
-        "text": "Two-way road"
-      },
       {
         "label": "2",
         "text": "Single lane road, pass with care"
@@ -5449,15 +5305,15 @@
     "number": 40,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicle width limit",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicle width limit"
-      },
       {
         "label": "2",
         "text": "One-way road"
+      },
+      {
+        "label": "3",
+        "text": "Vehicle height limit  Question number Question"
       }
     ],
     "answer": "1",
@@ -5468,12 +5324,8 @@
     "number": 41,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicle gross weight limit",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicle gross weight limit"
-      },
       {
         "label": "2",
         "text": "Vehicle loading weight limit"
@@ -5491,12 +5343,8 @@
     "number": 42,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Pedestrians prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Pedestrians prohibited"
-      },
       {
         "label": "2",
         "text": "Watch out for pedestrians"
@@ -5514,12 +5362,8 @@
     "number": 43,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Minimum speed limit",
     "options": [
-      {
-        "label": "1",
-        "text": "Minimum speed limit"
-      },
       {
         "label": "2",
         "text": "Maximum speed limit"
@@ -5537,12 +5381,8 @@
     "number": 44,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Large trucks and trailer trucks prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Large trucks and trailer trucks prohibited"
-      },
       {
         "label": "2",
         "text": "Large trucks prohibited"
@@ -5560,12 +5400,8 @@
     "number": 45,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Road veers left ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Road veers left ahead"
-      },
       {
         "label": "2",
         "text": "Left turn on green light only"
@@ -5583,12 +5419,8 @@
     "number": 46,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Single track electric railroad crossing.",
     "options": [
-      {
-        "label": "1",
-        "text": "Single track electric railroad crossing."
-      },
       {
         "label": "2",
         "text": "Multi-track two- way electric railroad crossing."
@@ -5606,12 +5438,8 @@
     "number": 47,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicle length limit",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicle length limit"
-      },
       {
         "label": "2",
         "text": "Vehicle width limit"
@@ -5629,12 +5457,8 @@
     "number": 48,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Motor vehicles only",
     "options": [
-      {
-        "label": "1",
-        "text": "Motor vehicles only"
-      },
       {
         "label": "2",
         "text": "Cars prohibited"
@@ -5652,12 +5476,8 @@
     "number": 49,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Circular intersection, follow directions",
     "options": [
-      {
-        "label": "1",
-        "text": "Circular intersection, follow directions"
-      },
       {
         "label": "2",
         "text": "Road forks ahead"
@@ -5675,15 +5495,15 @@
     "number": 50,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Pedestrians only",
     "options": [
-      {
-        "label": "1",
-        "text": "Pedestrians only"
-      },
       {
         "label": "2",
         "text": "Watch out for pedestrians"
+      },
+      {
+        "label": "3",
+        "text": "Watch out for children  Question number Question"
       }
     ],
     "answer": "1",
@@ -5694,12 +5514,8 @@
     "number": 51,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Provincial road",
     "options": [
-      {
-        "label": "1",
-        "text": "Provincial road"
-      },
       {
         "label": "2",
         "text": "County road"
@@ -5717,12 +5533,8 @@
     "number": 52,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Follow traffic flow",
     "options": [
-      {
-        "label": "1",
-        "text": "Follow traffic flow"
-      },
       {
         "label": "2",
         "text": "First-aid station"
@@ -5740,12 +5552,8 @@
     "number": 53,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Crossroads",
     "options": [
-      {
-        "label": "1",
-        "text": "Crossroads"
-      },
       {
         "label": "2",
         "text": "Dead end"
@@ -5763,12 +5571,8 @@
     "number": 54,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Provincial road",
     "options": [
-      {
-        "label": "1",
-        "text": "Provincial road"
-      },
       {
         "label": "2",
         "text": "County road"
@@ -5786,12 +5590,8 @@
     "number": 55,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Flashing yellow light",
     "options": [
-      {
-        "label": "1",
-        "text": "Flashing yellow light"
-      },
       {
         "label": "2",
         "text": "Traffic control signal"
@@ -5809,12 +5609,8 @@
     "number": 56,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Flashing pedestrian crosswalk signal",
     "options": [
-      {
-        "label": "1",
-        "text": "Flashing pedestrian crosswalk signal"
-      },
       {
         "label": "2",
         "text": "Special flashing yellow light"
@@ -5832,12 +5628,8 @@
     "number": 57,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Signal for pedestrians",
     "options": [
-      {
-        "label": "1",
-        "text": "Signal for pedestrians"
-      },
       {
         "label": "2",
         "text": "Flashing yellow light"
@@ -5855,12 +5647,8 @@
     "number": 58,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Flashing yellow light",
     "options": [
-      {
-        "label": "1",
-        "text": "Flashing yellow light"
-      },
       {
         "label": "2",
         "text": "Flashing red light"
@@ -5878,12 +5666,8 @@
     "number": 59,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Right lane closed",
     "options": [
-      {
-        "label": "1",
-        "text": "Right lane closed"
-      },
       {
         "label": "2",
         "text": "Left lane closed"
@@ -5901,15 +5685,15 @@
     "number": 60,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Right lane closed",
     "options": [
-      {
-        "label": "1",
-        "text": "Right lane closed"
-      },
       {
         "label": "2",
         "text": "Left lane closed"
+      },
+      {
+        "label": "3",
+        "text": "Detour  Question number Question"
       }
     ],
     "answer": "1",
@@ -5920,12 +5704,8 @@
     "number": 61,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Road closed",
     "options": [
-      {
-        "label": "1",
-        "text": "Road closed"
-      },
       {
         "label": "2",
         "text": "Detour"
@@ -5943,12 +5723,8 @@
     "number": 62,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Left lane closed",
     "options": [
-      {
-        "label": "1",
-        "text": "Left lane closed"
-      },
       {
         "label": "2",
         "text": "Right lane closed"
@@ -5966,12 +5742,8 @@
     "number": 63,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Follow the detour signs",
     "options": [
-      {
-        "label": "1",
-        "text": "Follow the detour signs"
-      },
       {
         "label": "2",
         "text": "One-way road"
@@ -5989,12 +5761,8 @@
     "number": 64,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Road construction ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Road construction ahead"
-      },
       {
         "label": "2",
         "text": "Road closed"
@@ -6012,12 +5780,8 @@
     "number": 65,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) First-aid station",
     "options": [
-      {
-        "label": "1",
-        "text": "First-aid station"
-      },
       {
         "label": "2",
         "text": "Gas station"
@@ -6035,12 +5799,8 @@
     "number": 66,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Go straight and then turn right",
     "options": [
-      {
-        "label": "1",
-        "text": "Go straight and then turn right"
-      },
       {
         "label": "2",
         "text": "Go straight and then turn left"
@@ -6058,12 +5818,8 @@
     "number": 67,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Pedestrian overpass",
     "options": [
-      {
-        "label": "1",
-        "text": "Pedestrian overpass"
-      },
       {
         "label": "2",
         "text": "Pedestrian underpass"
@@ -6104,12 +5860,8 @@
     "number": 69,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) First-aid station",
     "options": [
-      {
-        "label": "1",
-        "text": "First-aid station"
-      },
       {
         "label": "2",
         "text": "Auto repair"
@@ -6127,15 +5879,15 @@
     "number": 70,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Restaurant",
     "options": [
-      {
-        "label": "1",
-        "text": "Restaurant"
-      },
       {
         "label": "2",
         "text": "Gas station"
+      },
+      {
+        "label": "3",
+        "text": "Auto repair  Question number Question"
       }
     ],
     "answer": "1",
@@ -6146,12 +5898,8 @@
     "number": 71,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Left turn",
     "options": [
-      {
-        "label": "1",
-        "text": "Left turn"
-      },
       {
         "label": "2",
         "text": "Right turn"
@@ -6169,12 +5917,8 @@
     "number": 72,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Entry Prohibited sign",
     "options": [
-      {
-        "label": "1",
-        "text": "Entry Prohibited sign"
-      },
       {
         "label": "2",
         "text": "Vehicle break-down sign"
@@ -6215,12 +5959,8 @@
     "number": 74,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Stop line",
     "options": [
-      {
-        "label": "1",
-        "text": "Stop line"
-      },
       {
         "label": "2",
         "text": "Barrier ahead"
@@ -6261,12 +6001,8 @@
     "number": 76,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Barrier ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Barrier ahead"
-      },
       {
         "label": "2",
         "text": "Railroad crossing ahead"
@@ -6307,12 +6043,8 @@
     "number": 78,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Railroad crossing ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Railroad crossing ahead"
-      },
       {
         "label": "2",
         "text": "Barrier ahead"
@@ -6330,12 +6062,8 @@
     "number": 79,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) No parking line",
     "options": [
-      {
-        "label": "1",
-        "text": "No parking line"
-      },
       {
         "label": "2",
         "text": "Direction-separation line"
@@ -6362,6 +6090,10 @@
       {
         "label": "2",
         "text": "Passing prohibited in both directions"
+      },
+      {
+        "label": "3",
+        "text": "Lane marker line  Question number Question"
       }
     ],
     "answer": "2",
@@ -6579,15 +6311,15 @@
     "number": 90,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Barrier in the middle of road",
     "options": [
-      {
-        "label": "1",
-        "text": "Barrier in the middle of road"
-      },
       {
         "label": "2",
         "text": "Barrier ahead"
+      },
+      {
+        "label": "3",
+        "text": "Road width changes  Question number Question"
       }
     ],
     "answer": "2",
@@ -6644,12 +6376,8 @@
     "number": 93,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Disabled person parking only",
     "options": [
-      {
-        "label": "1",
-        "text": "Disabled person parking only"
-      },
       {
         "label": "2",
         "text": "Stop line"
@@ -6667,12 +6395,8 @@
     "number": 94,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) All vehicles must stop",
     "options": [
-      {
-        "label": "1",
-        "text": "All vehicles must stop"
-      },
       {
         "label": "2",
         "text": "Vehicles in front and behind must stop, vehicles approaching from the left and right may proceed"
@@ -6690,12 +6414,8 @@
     "number": 95,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles on the right must turn left",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles on the right must turn left"
-      },
       {
         "label": "2",
         "text": "Vehicles on the right must pass quickly"
@@ -6713,12 +6433,8 @@
     "number": 96,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles on right must stop",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles on right must stop"
-      },
       {
         "label": "2",
         "text": "Vehicles on the right must turn left"
@@ -6736,12 +6452,8 @@
     "number": 97,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles on the right must stop",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles on the right must stop"
-      },
       {
         "label": "2",
         "text": "Vehicles on the left may proceed"
@@ -6759,12 +6471,8 @@
     "number": 98,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles on left must pass through quickly",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles on left must pass through quickly"
-      },
       {
         "label": "2",
         "text": "Vehicles on the left must turn left"
@@ -6782,12 +6490,8 @@
     "number": 99,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles in front must stop",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles in front must stop"
-      },
       {
         "label": "2",
         "text": "Vehicles in front and behind must stop, vehicles approaching from the left and right may proceed"
@@ -6805,15 +6509,15 @@
     "number": 100,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles in front must stop",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles in front must stop"
-      },
       {
         "label": "2",
         "text": "Vehicles in front and behind must stop, vehicles approaching from the left and right can proceed"
+      },
+      {
+        "label": "3",
+        "text": "All vehicles must stop  Question number Question"
       }
     ],
     "answer": "1",
@@ -6916,12 +6620,8 @@
     "number": 105,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Turn on head lights",
     "options": [
-      {
-        "label": "1",
-        "text": "Turn on head lights"
-      },
       {
         "label": "2",
         "text": "Watch out for traffic signals"
@@ -6939,12 +6639,8 @@
     "number": 106,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicles with 4 wheels or more and motorcycles over 550 cc displacement only",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicles with 4 wheels or more and motorcycles over 550 cc displacement only"
-      },
       {
         "label": "2",
         "text": "For bicycles and motorcycles only"
@@ -6985,12 +6681,8 @@
     "number": 108,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Motorcycles over 550 cc displacement prohibited",
     "options": [
-      {
-        "label": "1",
-        "text": "Motorcycles over 550 cc displacement prohibited"
-      },
       {
         "label": "2",
         "text": "For motorcycles over 550 cc displacement only"
@@ -7008,12 +6700,8 @@
     "number": 109,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Vehicle length limit",
     "options": [
-      {
-        "label": "1",
-        "text": "Vehicle length limit"
-      },
       {
         "label": "2",
         "text": "Maximum speed limit"
@@ -7040,6 +6728,10 @@
       {
         "label": "2",
         "text": "Provincial road"
+      },
+      {
+        "label": "3",
+        "text": "National road  Question number Question"
       }
     ],
     "answer": "3",
@@ -7266,6 +6958,10 @@
       {
         "label": "2",
         "text": "Mileage marker"
+      },
+      {
+        "label": "3",
+        "text": "County road sign  Question number Question"
       }
     ],
     "answer": "2",
@@ -7299,12 +6995,8 @@
     "number": 122,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Watch out for bicycles",
     "options": [
-      {
-        "label": "1",
-        "text": "Watch out for bicycles"
-      },
       {
         "label": "2",
         "text": "Watch out for pedestrians"
@@ -7322,12 +7014,8 @@
     "number": 123,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Railroad crossing ahead",
     "options": [
-      {
-        "label": "1",
-        "text": "Railroad crossing ahead"
-      },
       {
         "label": "2",
         "text": "Maintain a safe driving distance on freeways and expressways"
@@ -7345,12 +7033,8 @@
     "number": 124,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Name of a freeway or expressway interchange",
     "options": [
-      {
-        "label": "1",
-        "text": "Name of a freeway or expressway interchange"
-      },
       {
         "label": "2",
         "text": "Distance to a specific destination"
@@ -7368,12 +7052,8 @@
     "number": 125,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Agricultural road",
     "options": [
-      {
-        "label": "1",
-        "text": "Agricultural road"
-      },
       {
         "label": "2",
         "text": "Numbered routes for county roads"
@@ -7391,12 +7071,8 @@
     "number": 126,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Numbered provincial roads for the expressways",
     "options": [
-      {
-        "label": "1",
-        "text": "Numbered provincial roads for the expressways"
-      },
       {
         "label": "2",
         "text": "Numbered Provincial roads for the freeways"
@@ -7414,12 +7090,8 @@
     "number": 127,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Parking lot",
     "options": [
-      {
-        "label": "1",
-        "text": "Parking lot"
-      },
       {
         "label": "2",
         "text": "Park"
@@ -7437,12 +7109,8 @@
     "number": 128,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) MRT station",
     "options": [
-      {
-        "label": "1",
-        "text": "MRT station"
-      },
       {
         "label": "2",
         "text": "Railroad station"
@@ -7460,12 +7128,8 @@
     "number": 129,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Wharf",
     "options": [
-      {
-        "label": "1",
-        "text": "Wharf"
-      },
       {
         "label": "2",
         "text": "Ferry pier"
@@ -7483,15 +7147,15 @@
     "number": 130,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) MRT station",
     "options": [
-      {
-        "label": "1",
-        "text": "MRT station"
-      },
       {
         "label": "2",
         "text": "Railroad station"
+      },
+      {
+        "label": "3",
+        "text": "High speed rail station  Question number Question"
       }
     ],
     "answer": "2",
@@ -7502,12 +7166,8 @@
     "number": 131,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) MRT station",
     "options": [
-      {
-        "label": "1",
-        "text": "MRT station"
-      },
       {
         "label": "2",
         "text": "Railroad station"
@@ -7525,12 +7185,8 @@
     "number": 132,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Bus stations or transit stations",
     "options": [
-      {
-        "label": "1",
-        "text": "Bus stations or transit stations"
-      },
       {
         "label": "2",
         "text": "MRT stations"
@@ -7548,12 +7204,8 @@
     "number": 133,
     "type": "signs",
     "format": "multiple-choice",
-    "question": "",
+    "question": "(1) Bicycles only",
     "options": [
-      {
-        "label": "1",
-        "text": "Bicycles only"
-      },
       {
         "label": "2",
         "text": "Electric bicycles only"
@@ -20267,6 +19919,10 @@
       {
         "label": "2",
         "text": "it's their responsibility and duty, as well as being safer for themselves and others"
+      },
+      {
+        "label": "3",
+        "text": "they are under surveillance."
       }
     ],
     "answer": "2",
@@ -20493,6 +20149,10 @@
       {
         "label": "2",
         "text": "safety, not time"
+      },
+      {
+        "label": "3",
+        "text": "transportation infrastructure."
       }
     ],
     "answer": "2",
@@ -20621,6 +20281,10 @@
     "question": "When elderly, weak, disabled, or children are boarding your vehicle, you should:",
     "options": [
       {
+        "label": "1",
+        "text": "Politely refuse to give the passenger(s) a ride."
+      },
+      {
         "label": "2",
         "text": "Wait for everyone to board and sit properly before driving."
       },
@@ -20669,6 +20333,10 @@
       {
         "label": "2",
         "text": "take medication to regain your mental alertness and continue to drive as usual"
+      },
+      {
+        "label": "3",
+        "text": "pull over at the nearest roadside rest stop and rest a while in order to regain your mental alertness."
       }
     ],
     "answer": "3",
@@ -20918,6 +20586,10 @@
       {
         "label": "2",
         "text": "continue to use your low beam headlights while slowing down"
+      },
+      {
+        "label": "3",
+        "text": "It doesn't matter."
       }
     ],
     "answer": "2",
@@ -21167,6 +20839,10 @@
       {
         "label": "2",
         "text": "will have their car registration cancelled"
+      },
+      {
+        "label": "3",
+        "text": "will be fined."
       }
     ],
     "answer": "1",
@@ -21416,6 +21092,10 @@
       {
         "label": "2",
         "text": "a large truck"
+      },
+      {
+        "label": "3",
+        "text": "a bus"
       }
     ],
     "answer": "1",
@@ -21711,6 +21391,10 @@
       {
         "label": "2",
         "text": "either regular drivers or professional drivers"
+      },
+      {
+        "label": "3",
+        "text": "professional drivers."
       }
     ],
     "answer": "3",
@@ -21960,6 +21644,10 @@
       {
         "label": "2",
         "text": "Apply for registration changes with the competent motor vehicle authority."
+      },
+      {
+        "label": "3",
+        "text": "Correct it personally."
       }
     ],
     "answer": "2",
@@ -22232,6 +21920,10 @@
       {
         "label": "2",
         "text": "may carry passengers"
+      },
+      {
+        "label": "3",
+        "text": "there is no restriction."
       }
     ],
     "answer": "1",
@@ -22481,6 +22173,10 @@
       {
         "label": "2",
         "text": "turn on your low-beam headlights"
+      },
+      {
+        "label": "3",
+        "text": "turn off your lights and yield."
       }
     ],
     "answer": "2",
@@ -22707,6 +22403,10 @@
       {
         "label": "2",
         "text": "the outside lane"
+      },
+      {
+        "label": "3",
+        "text": "the slow lane."
       }
     ],
     "answer": "2",
@@ -22956,6 +22656,10 @@
       {
         "label": "2",
         "text": "may not honk their horn unless there is an emergency"
+      },
+      {
+        "label": "3",
+        "text": "lightly tap their horn once."
       }
     ],
     "answer": "2",
@@ -23182,6 +22886,10 @@
       {
         "label": "2",
         "text": "drivers should give their horn two short taps before passing another vehicle"
+      },
+      {
+        "label": "3",
+        "text": "drivers may not tap their horn or pass other vehicles."
       }
     ],
     "answer": "3",
@@ -23408,6 +23116,10 @@
       {
         "label": "2",
         "text": "use their turn signal"
+      },
+      {
+        "label": "3",
+        "text": "either use their turn signal or use their arm to signal other drivers."
       }
     ],
     "answer": "3",
@@ -23611,6 +23323,10 @@
       {
         "label": "2",
         "text": "their driver's license will be cancelled"
+      },
+      {
+        "label": "3",
+        "text": "they will be fined."
       }
     ],
     "answer": "3",
@@ -23837,6 +23553,10 @@
       {
         "label": "2",
         "text": "be fined"
+      },
+      {
+        "label": "3",
+        "text": "be fined and prohibited from driving."
       }
     ],
     "answer": "3",
@@ -24040,6 +23760,10 @@
       {
         "label": "2",
         "text": "motorcycles"
+      },
+      {
+        "label": "3",
+        "text": "buses, large trucks, trailer tractors, and trailers hitched to cars."
       }
     ],
     "answer": "3",
@@ -24220,6 +23944,10 @@
       {
         "label": "2",
         "text": "the driver's license will be suspended;"
+      },
+      {
+        "label": "3",
+        "text": "the license plate will be suspended."
       }
     ],
     "answer": "1",
@@ -24423,6 +24151,10 @@
       {
         "label": "2",
         "text": "Their driver's license will be suspended for 1 month."
+      },
+      {
+        "label": "3",
+        "text": "They will be fined NTD 1,800~5,400 and officially cited for a traffic violation."
       }
     ],
     "answer": "3",
@@ -24626,6 +24358,10 @@
       {
         "label": "2",
         "text": "2 months"
+      },
+      {
+        "label": "3",
+        "text": "3 months after a public announcement concerning the abandoned vehicle, the vehicle will be junked if no one claims it within this period."
       }
     ],
     "answer": "1",
@@ -24829,6 +24565,10 @@
       {
         "label": "2",
         "text": "2 points"
+      },
+      {
+        "label": "3",
+        "text": "3 points."
       }
     ],
     "answer": "3",
@@ -24917,6 +24657,10 @@
       {
         "label": "2",
         "text": "6 months;"
+      },
+      {
+        "label": "3",
+        "text": "1 to 2 year(s)."
       }
     ],
     "answer": "3",
@@ -25028,6 +24772,10 @@
       {
         "label": "2",
         "text": "fined for every five minutes they speed, or for every intersection they speed through;"
+      },
+      {
+        "label": "3",
+        "text": "fined for every 6 km they speed, or for every six minutes they speed, or for every intersection they speed through. Penalties for speeding in a tunnel will not apply to the above."
       }
     ],
     "answer": "3",
@@ -25277,6 +25025,10 @@
       {
         "label": "2",
         "text": "25 meters"
+      },
+      {
+        "label": "3",
+        "text": "35 meters from the vehicle in front of them."
       }
     ],
     "answer": "3",
@@ -25480,6 +25232,10 @@
       {
         "label": "2",
         "text": "may not pass other vehicles"
+      },
+      {
+        "label": "3",
+        "text": "may stop their vehicles temporarily"
       }
     ],
     "answer": "2",
@@ -25706,6 +25462,10 @@
       {
         "label": "2",
         "text": "may not drive in the lane"
+      },
+      {
+        "label": "3",
+        "text": "may drive in the lane at the declared maximum speed limit."
       }
     ],
     "answer": "3",
@@ -25955,6 +25715,10 @@
       {
         "label": "2",
         "text": "leave the site of the accident if they don't think they are at fault."
+      },
+      {
+        "label": "3",
+        "text": "argue with the other driver in order to avoid any responsibility for the accident."
       }
     ],
     "answer": "1",
@@ -26158,6 +25922,10 @@
       {
         "label": "2",
         "text": "disregard it and continue to drive as usual."
+      },
+      {
+        "label": "3",
+        "text": "turn off their headlights to reduce any reflection and improve visibility of the surrounding terrain."
       }
     ],
     "answer": "1",
@@ -26361,6 +26129,10 @@
       {
         "label": "2",
         "text": "As soon as the turn signal is on, move directly into the outside lane."
+      },
+      {
+        "label": "3",
+        "text": "You can move directly into the outside lane or the inside lane."
       }
     ],
     "answer": "1",
@@ -26610,6 +26382,10 @@
       {
         "label": "2",
         "text": "The vehicle owner will be fined and their driver's license will be revoked."
+      },
+      {
+        "label": "3",
+        "text": "The driver will be fined."
       }
     ],
     "answer": "2",
@@ -26859,6 +26635,10 @@
       {
         "label": "2",
         "text": "wider"
+      },
+      {
+        "label": "3",
+        "text": "the same."
       }
     ],
     "answer": "2",
@@ -27085,6 +26865,10 @@
       {
         "label": "2",
         "text": "drivers may answer their cell phone, but may not make calls;"
+      },
+      {
+        "label": "3",
+        "text": "drivers are strictly prohibited from either making calls or answering their cell phone."
       }
     ],
     "answer": "3",
@@ -27288,6 +27072,10 @@
       {
         "label": "2",
         "text": "the lesser the centrifugal force;"
+      },
+      {
+        "label": "3",
+        "text": "the centrifugal force produced by the vehicle remains unchanged."
       }
     ],
     "answer": "1",
@@ -27514,6 +27302,10 @@
       {
         "label": "2",
         "text": "By law, children must be seated in the front;"
+      },
+      {
+        "label": "3",
+        "text": "The driver must use the turn signal before starting the car."
       }
     ],
     "answer": "2",
@@ -27786,6 +27578,10 @@
       {
         "label": "2",
         "text": "A lighter."
+      },
+      {
+        "label": "3",
+        "text": "A light powered by the vehicle."
       }
     ],
     "answer": "2",
@@ -28058,6 +27854,10 @@
       {
         "label": "2",
         "text": "Power steering allows drivers to make wider turns."
+      },
+      {
+        "label": "3",
+        "text": "Power steering helps drivers turn their vehicle more easily."
       }
     ],
     "answer": "3",
@@ -28307,6 +28107,10 @@
       {
         "label": "2",
         "text": "reverse."
+      },
+      {
+        "label": "3",
+        "text": "park."
       }
     ],
     "answer": "3",
@@ -28579,6 +28383,10 @@
       {
         "label": "2",
         "text": "the clutch is slipping."
+      },
+      {
+        "label": "3",
+        "text": "the brake is being used excessively."
       }
     ],
     "answer": "3",
@@ -28828,6 +28636,10 @@
       {
         "label": "2",
         "text": "drivers may not park long-term, but can park temporarily."
+      },
+      {
+        "label": "3",
+        "text": "Neither temporary parking nor long-term parking are allowed."
       }
     ],
     "answer": "3",
@@ -29077,6 +28889,10 @@
       {
         "label": "2",
         "text": "must be accompanied by an adult passenger when seated in the front seat and have their safety belt fastened at all times."
+      },
+      {
+        "label": "3",
+        "text": "Both statements are true."
       }
     ],
     "answer": "1",
@@ -29257,6 +29073,10 @@
       {
         "label": "2",
         "text": "be less than 1.5 mm/mark ."
+      },
+      {
+        "label": "3",
+        "text": "be less than 1 mm/mark. stipulated in CNS 1431 (automobile tires) or CNS 4959 (truck or passenger car tire renovation)."
       }
     ],
     "answer": "1",
@@ -29299,6 +29119,10 @@
       {
         "label": "2",
         "text": "serious breathing problems, bleeding and any broken bones have to be treated before a victim is moved."
+      },
+      {
+        "label": "3",
+        "text": "Both statements are true."
       }
     ],
     "answer": "3",
@@ -29502,6 +29326,10 @@
       {
         "label": "2",
         "text": "Rockfall catchment fences or disfigured and twisted road railings;"
+      },
+      {
+        "label": "3",
+        "text": "All of the above."
       }
     ],
     "answer": "3",
@@ -29659,6 +29487,10 @@
       {
         "label": "2",
         "text": "NT$1,000 and NT$3,000;"
+      },
+      {
+        "label": "3",
+        "text": "NT$1,200 and NT$3,600."
       }
     ],
     "answer": "1",
@@ -29724,6 +29556,10 @@
       {
         "label": "2",
         "text": "NT$1,200 and NT$3,600;"
+      },
+      {
+        "label": "3",
+        "text": "NT$1,800 and NT$5,400; if the driver escapes from the scene, the driver's license will be suspended for 1 to 3 month(s)."
       }
     ],
     "answer": "1",
@@ -29812,6 +29648,10 @@
       {
         "label": "2",
         "text": "When any signal or sound occurs near the light rail track area, there\u2019s no need to listen nor stop the car, accelerate, and pass through it as soon as possible."
+      },
+      {
+        "label": "3",
+        "text": "Follow any traffic signals that occurred when traveling through the light rail track intersections."
       }
     ],
     "answer": "2",
@@ -29848,6 +29688,10 @@
     "question": "After a traffic accident occurs on a freeway:",
     "options": [
       {
+        "label": "1",
+        "text": "If there are injuries or fatalities, the scene should be preserved, and emergency services (110/1968/ 1968 app) should be contacted for assistance."
+      },
+      {
         "label": "2",
         "text": "If the accident doesn't involve me, I should leave promptly."
       },
@@ -29869,6 +29713,10 @@
       {
         "label": "1",
         "text": "waiting for the police to come and deal with it."
+      },
+      {
+        "label": "2",
+        "text": "marking the location of the vehicles first, and call 110, 1968, or use the 1968 App to report to the police or the local freeway administration for assistance, then move the vehicle(s) to the side of the road quickly."
       },
       {
         "label": "3",
