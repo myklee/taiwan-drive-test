@@ -326,37 +326,30 @@ async function switchLanguage(langCode) {
 function renderLangSelector() {
   const container = document.getElementById("lang-selector");
   if (!container) return;
-  container.innerHTML = LANGUAGES.map(
-    (lang) => `
-    <button class="lang-btn ${lang.code === activeLanguage ? "active" : ""}"
-            data-lang="${lang.code}">
-      ${lang.name}
-    </button>
-  `,
-  ).join("");
 
-  container.querySelectorAll(".lang-btn").forEach((btn) => {
-    btn.addEventListener("click", () => switchLanguage(btn.dataset.lang));
+  container.innerHTML = `
+    <select id="lang-select" class="header-select">
+      ${LANGUAGES.map((lang) => `<option value="${lang.code}" ${lang.code === activeLanguage ? "selected" : ""}>${lang.name}</option>`).join("")}
+    </select>
+    <select id="pdf-select" class="header-select">
+      <option value="">PDF downloads</option>
+      ${(LANGUAGES.find((l) => l.code === activeLanguage)?.pdfs ?? []).map((p) => `<option value="${p.file}">${p.file}</option>`).join("")}
+    </select>
+  `;
+
+  document.getElementById("lang-select").addEventListener("change", (e) => {
+    switchLanguage(e.target.value);
   });
 
-  // Render PDF download links for active language
-  const activeLang = LANGUAGES.find((l) => l.code === activeLanguage);
-  let pdfBar = document.getElementById("pdf-links");
-  if (!pdfBar) {
-    pdfBar = document.createElement("div");
-    pdfBar.id = "pdf-links";
-    pdfBar.className = "pdf-links";
-    container.parentNode.insertBefore(pdfBar, container.nextSibling);
-  }
-  pdfBar.innerHTML = activeLang?.pdfs
-    ? `<span class="pdf-links-label">PDF downloads:</span>` +
-      activeLang.pdfs
-        .map(
-          (p) =>
-            `<a class="pdf-link" href="/res/${encodeURIComponent(p.file)}" download="${p.file}">${p.file}</a>`,
-        )
-        .join("")
-    : "";
+  document.getElementById("pdf-select").addEventListener("change", (e) => {
+    const file = e.target.value;
+    if (!file) return;
+    const a = document.createElement("a");
+    a.href = `/res/${encodeURIComponent(file)}`;
+    a.download = file;
+    a.click();
+    e.target.value = "";
+  });
 }
 
 function renderFilters() {
