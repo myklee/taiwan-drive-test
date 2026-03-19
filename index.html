@@ -363,6 +363,56 @@
         font-weight: 600;
         color: #333;
       }
+      .lang-selector {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-bottom: 12px;
+      }
+      .lang-btn {
+        padding: 6px 14px;
+        border: 2px solid #ddd;
+        background: white;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 13px;
+        transition: all 0.2s;
+      }
+      .lang-btn.active {
+        background: #28a745;
+        color: white;
+        border-color: #28a745;
+      }
+      .loading-state {
+        text-align: center;
+        padding: 60px 20px;
+        color: #666;
+      }
+      .pdf-links {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-top: 8px;
+        font-size: 12px;
+      }
+      .pdf-links-label {
+        color: #888;
+      }
+      .pdf-link {
+        padding: 3px 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        color: #555;
+        text-decoration: none;
+        background: #fafafa;
+        transition: all 0.15s;
+      }
+      .pdf-link:hover {
+        border-color: #007bff;
+        color: #007bff;
+        background: #f0f7ff;
+      }
     </style>
   </head>
   <body>
@@ -371,37 +421,9 @@
         <div class="header">
           <h1>🚗 Taiwan Driving Test Practice</h1>
           <p>Practice with real test questions</p>
-          <div class="filters">
-            <button class="filter-btn active" data-filter="all">
-              All Questions
-            </button>
-            <button class="filter-btn" data-filter="signs-true-false">
-              Signs True/False
-            </button>
-            <button class="filter-btn" data-filter="signs-multiple-choice">
-              Signs Multiple Choice
-            </button>
-            <button class="filter-btn" data-filter="regulations-true-false">
-              Regulations True/False
-            </button>
-            <button
-              class="filter-btn"
-              data-filter="regulations-multiple-choice"
-            >
-              Regulations Multiple Choice
-            </button>
-          </div>
-          <select class="filter-select" id="filter-select">
-            <option value="all">All Questions</option>
-            <option value="signs-true-false">Signs True/False</option>
-            <option value="signs-multiple-choice">Signs Multiple Choice</option>
-            <option value="regulations-true-false">
-              Regulations True/False
-            </option>
-            <option value="regulations-multiple-choice">
-              Regulations Multiple Choice
-            </option>
-          </select>
+          <div id="lang-selector" class="lang-selector"></div>
+          <div id="filters" class="filters"></div>
+          <select class="filter-select" id="filter-select"></select>
           <div class="stats">
             <span>Total: <strong id="total-count">0</strong></span>
           </div>

@@ -1,19 +1,166 @@
+const LANGUAGES = [
+  {
+    code: "en",
+    name: "English",
+    filters: {
+      all: "All Questions",
+      "signs-true-false": "Signs True/False",
+      "signs-multiple-choice": "Signs Multiple Choice",
+      "regulations-true-false": "Regulations True/False",
+      "regulations-multiple-choice": "Regulations Multiple Choice",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-英文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-英文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-英文1130711.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-英文1130815.pdf" },
+    ],
+  },
+  {
+    code: "zh",
+    name: "中文",
+    filters: {
+      all: "所有題目",
+      "signs-true-false": "標誌是非題",
+      "signs-multiple-choice": "標誌選擇題",
+      "regulations-true-false": "法規是非題",
+      "regulations-multiple-choice": "法規選擇題",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-中文+1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-中文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-中文1131114.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-中文1131114.pdf" },
+    ],
+  },
+  {
+    code: "ja",
+    name: "日文",
+    filters: {
+      all: "すべての問題",
+      "signs-true-false": "標識 正誤問題",
+      "signs-multiple-choice": "標識 選択問題",
+      "regulations-true-false": "法規 正誤問題",
+      "regulations-multiple-choice": "法規 選択問題",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-日文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-日文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-日文1130319.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-日文1130815.pdf" },
+    ],
+  },
+  {
+    code: "vi",
+    name: "越南文",
+    filters: {
+      all: "Tất cả câu hỏi",
+      "signs-true-false": "Biển báo Đúng/Sai",
+      "signs-multiple-choice": "Biển báo Trắc nghiệm",
+      "regulations-true-false": "Luật giao thông Đúng/Sai",
+      "regulations-multiple-choice": "Luật giao thông Trắc nghiệm",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-越南文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-越南文-1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-越南文+1131106.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-越南文1130718.pdf" },
+    ],
+  },
+  {
+    code: "id",
+    name: "印尼文",
+    filters: {
+      all: "Semua Soal",
+      "signs-true-false": "Rambu Benar/Salah",
+      "signs-multiple-choice": "Rambu Pilihan Ganda",
+      "regulations-true-false": "Peraturan Benar/Salah",
+      "regulations-multiple-choice": "Peraturan Pilihan Ganda",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-印尼文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-印尼文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-印尼文-1130731.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-印尼文-1131017.pdf" },
+    ],
+  },
+  {
+    code: "th",
+    name: "泰文",
+    filters: {
+      all: "ทุกข้อ",
+      "signs-true-false": "ป้ายจราจร ถูก/ผิด",
+      "signs-multiple-choice": "ป้ายจราจร ปรนัย",
+      "regulations-true-false": "กฎจราจร ถูก/ผิด",
+      "regulations-multiple-choice": "กฎจราจร ปรนัย",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-泰文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-泰文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-泰文1130320.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-泰文1130815.pdf" },
+    ],
+  },
+  {
+    code: "my",
+    name: "緬甸文",
+    filters: {
+      all: "မေးခွန်းအားလုံး",
+      "signs-true-false": "လမ်းသင်္ကေတ မှန်/မှား",
+      "signs-multiple-choice": "လမ်းသင်္ကေတ အမျိုးအစားရွေးချယ်",
+      "regulations-true-false": "စည်းမျဉ်း မှန်/မှား",
+      "regulations-multiple-choice": "စည်းမျဉ်း အမျိုးအစားရွေးချယ်",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-緬甸文-1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-緬甸文-1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-緬文1120824.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-緬文1130815.pdf" },
+    ],
+  },
+  {
+    code: "km",
+    name: "柬文",
+    filters: {
+      all: "សំណួរទាំងអស់",
+      "signs-true-false": "សញ្ញា ត្រូវ/មិនត្រូវ",
+      "signs-multiple-choice": "សញ្ញា ជ្រើសរើស",
+      "regulations-true-false": "បទប្បញ្ញត្តិ ត្រូវ/មិនត្រូវ",
+      "regulations-multiple-choice": "បទប្បញ្ញត្តិ ជ្រើសរើស",
+    },
+    pdfs: [
+      { label: "Signs T/F", file: "汽車標誌是非題-柬文1131106.pdf" },
+      { label: "Signs MC", file: "汽車標誌選擇題-柬文1131106.pdf" },
+      { label: "Regs T/F", file: "汽車法規是非題-柬文1130320.pdf" },
+      { label: "Regs MC", file: "汽車法規選擇題-柬文1130815.pdf" },
+    ],
+  },
+];
+
 let allQuestions = [];
 let filteredQuestions = [];
 let currentQuestionIndex = 0;
 let favorites = new Set();
+let activeLanguage = "en";
+let currentFetchController = null;
+
+function favKey() {
+  return `favorites_${activeLanguage}`;
+}
 
 // Load favorites from localStorage
 function loadFavorites() {
-  const saved = localStorage.getItem("favorites");
+  const saved = localStorage.getItem(favKey());
   if (saved) {
     favorites = new Set(JSON.parse(saved));
+  } else {
+    favorites = new Set();
   }
 }
 
 // Save favorites to localStorage
 function saveFavorites() {
-  localStorage.setItem("favorites", JSON.stringify([...favorites]));
+  localStorage.setItem(favKey(), JSON.stringify([...favorites]));
 }
 
 // Toggle favorite
@@ -28,20 +175,34 @@ function toggleFavorite(questionId) {
   renderIndex();
 }
 
-async function loadQuestions() {
+async function loadQuestions(lang = "en") {
+  // Abort any in-flight fetch
+  if (currentFetchController) currentFetchController.abort();
+  currentFetchController = new AbortController();
+  const { signal } = currentFetchController;
+
+  // Show loading state
+  document.getElementById("question-container").innerHTML =
+    '<div class="loading-state"><p>Loading questions...</p></div>';
+
   try {
-    const response = await fetch("./questions.json");
+    const response = await fetch(`./questions/${lang}.json`, { signal });
+    if (!response.ok) throw new Error("Not found");
     allQuestions = await response.json();
     filteredQuestions = [...allQuestions];
+    currentQuestionIndex = 0;
+    // Reset filter UI to "all"
+    renderFilters();
     loadFavorites();
     updateStats();
     renderQuestion();
     renderIndex();
   } catch (error) {
+    if (error.name === "AbortError") return;
     document.getElementById("question-container").innerHTML = `
       <div class="empty-state">
-        <h2>No questions found</h2>
-        <p>Run <code>npm run extract</code> to extract questions from PDFs</p>
+        <h2>Questions unavailable</h2>
+        <p>Questions for this language are not yet available.</p>
       </div>
     `;
   }
@@ -153,41 +314,89 @@ function handleAnswer(selected, question) {
   }
 }
 
-// Filter handling
-document.querySelectorAll(".filter-btn").forEach((btn) => {
-  btn.addEventListener("click", () => {
-    document
-      .querySelectorAll(".filter-btn")
-      .forEach((b) => b.classList.remove("active"));
-    btn.classList.add("active");
+async function switchLanguage(langCode) {
+  if (langCode === activeLanguage) return;
+  activeLanguage = langCode;
+  localStorage.setItem("active_language", langCode);
+  renderLangSelector();
+  renderFilters();
+  await loadQuestions(activeLanguage);
+}
 
-    const filter = btn.dataset.filter;
-    document.getElementById("filter-select").value = filter;
-    if (filter === "all") {
-      filteredQuestions = [...allQuestions];
-    } else {
-      // Filter by exact type-format combination
-      filteredQuestions = allQuestions.filter((q) => {
-        const questionKey = `${q.type}-${q.format}`;
-        return questionKey === filter;
-      });
-    }
+function renderLangSelector() {
+  const container = document.getElementById("lang-selector");
+  if (!container) return;
+  container.innerHTML = LANGUAGES.map(
+    (lang) => `
+    <button class="lang-btn ${lang.code === activeLanguage ? "active" : ""}"
+            data-lang="${lang.code}">
+      ${lang.name}
+    </button>
+  `,
+  ).join("");
 
-    currentQuestionIndex = 0;
-    updateStats();
-    renderQuestion();
-    renderIndex();
+  container.querySelectorAll(".lang-btn").forEach((btn) => {
+    btn.addEventListener("click", () => switchLanguage(btn.dataset.lang));
   });
-});
 
-loadQuestions();
+  // Render PDF download links for active language
+  const activeLang = LANGUAGES.find((l) => l.code === activeLanguage);
+  let pdfBar = document.getElementById("pdf-links");
+  if (!pdfBar) {
+    pdfBar = document.createElement("div");
+    pdfBar.id = "pdf-links";
+    pdfBar.className = "pdf-links";
+    container.parentNode.insertBefore(pdfBar, container.nextSibling);
+  }
+  pdfBar.innerHTML = activeLang?.pdfs
+    ? `<span class="pdf-links-label">PDF downloads:</span>` +
+      activeLang.pdfs
+        .map(
+          (p) =>
+            `<a class="pdf-link" href="/res/${encodeURIComponent(p.file)}" download="${p.file}">${p.file}</a>`,
+        )
+        .join("")
+    : "";
+}
 
-// Mobile filter select
-document.getElementById("filter-select")?.addEventListener("change", (e) => {
-  const filter = e.target.value;
+function renderFilters() {
+  const lang = LANGUAGES.find((l) => l.code === activeLanguage);
+  const labels = lang?.filters ?? LANGUAGES[0].filters;
+  const filterKeys = Object.keys(labels);
+  const activeFilter = (() => {
+    const activeBtn = document.querySelector(".filter-btn.active");
+    return activeBtn?.dataset.filter ?? "all";
+  })();
+
+  const filtersDiv = document.getElementById("filters");
+  const filterSelect = document.getElementById("filter-select");
+  if (!filtersDiv || !filterSelect) return;
+
+  filtersDiv.innerHTML = filterKeys
+    .map(
+      (key) =>
+        `<button class="filter-btn ${key === activeFilter ? "active" : ""}" data-filter="${key}">${labels[key]}</button>`,
+    )
+    .join("");
+
+  filterSelect.innerHTML = filterKeys
+    .map((key) => `<option value="${key}">${labels[key]}</option>`)
+    .join("");
+  filterSelect.value = activeFilter;
+
+  filtersDiv.querySelectorAll(".filter-btn").forEach((btn) => {
+    btn.addEventListener("click", () => applyFilter(btn.dataset.filter));
+  });
+  filterSelect.addEventListener("change", (e) => applyFilter(e.target.value));
+}
+
+function applyFilter(filter) {
   document.querySelectorAll(".filter-btn").forEach((b) => {
     b.classList.toggle("active", b.dataset.filter === filter);
   });
+  const filterSelect = document.getElementById("filter-select");
+  if (filterSelect) filterSelect.value = filter;
+
   filteredQuestions =
     filter === "all"
       ? [...allQuestions]
@@ -196,7 +405,17 @@ document.getElementById("filter-select")?.addEventListener("change", (e) => {
   updateStats();
   renderQuestion();
   renderIndex();
-});
+}
+
+// Initialize: restore persisted language or fall back to English
+{
+  const persisted = localStorage.getItem("active_language");
+  const validCodes = LANGUAGES.map((l) => l.code);
+  activeLanguage = validCodes.includes(persisted) ? persisted : "en";
+  renderLangSelector();
+  renderFilters();
+  loadQuestions(activeLanguage);
+}
 
 // Mobile index toggle
 document.getElementById("index-toggle")?.addEventListener("click", () => {

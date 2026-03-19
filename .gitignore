@@ -21,3 +21,12 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+# Build output
+dist/
+
+# Source PDFs (large binary files)
+res/
+
+# Legacy root-level questions file
+questions.json

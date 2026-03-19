@@ -4,6 +4,10 @@
   "type": "module",
   "scripts": {
     "extract": "node extract-questions.js && python3 extract_images.py && python3 map_images_to_questions.py",
+    "extract:en": "node extract-questions.js",
+    "extract:zh": "node extract-zh.js",
+    "extract:all": "npm run extract:en && npm run extract:zh && node extract-all.js",
+    "test": "vitest --run",
     "dev": "vite",
     "build": "vite build"
   },
@@ -13,6 +17,10 @@
     "pdfjs-dist": "^5.4.624"
   },
   "devDependencies": {
-    "vite": "^5.0.0"
+    "fast-check": "^4.6.0",
+    "happy-dom": "^20.8.4",
+    "jsdom": "^27.0.1",
+    "vite": "^5.0.0",
+    "vitest": "^4.1.0"
   }
 }

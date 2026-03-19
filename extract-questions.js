@@ -191,9 +191,12 @@ async function main() {
     }
   }
 
-  fs.writeFileSync("questions.json", JSON.stringify(allQuestions, null, 2));
+  fs.writeFileSync(
+    "public/questions/en.json",
+    JSON.stringify(allQuestions, null, 2),
+  );
   console.log(`\nTotal questions extracted: ${allQuestions.length}`);
-  console.log("Saved to questions.json");
+  console.log("Saved to public/questions/en.json");
 }
 
 main();
