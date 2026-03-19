@@ -277,9 +277,12 @@
           border-left: none;
           border-top: 1px solid #eee;
           transition: max-height 0.3s ease;
-          position: sticky;
-          bottom: 0;
+          position: fixed;
+          bottom: 45px;
+          left: 0;
+          right: 0;
           z-index: 10;
+          background: white;
         }
         .index-panel.open {
           max-height: 40vh;
@@ -308,9 +311,14 @@
           font-weight: 500;
           color: #333;
           cursor: pointer;
-          position: sticky;
+          position: fixed;
           bottom: 0;
+          left: 0;
+          right: 0;
           z-index: 11;
+        }
+        .main-content {
+          padding-bottom: 60px;
         }
       }
       .index-item {
