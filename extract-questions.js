@@ -195,6 +195,22 @@ async function main() {
     }
   }
 
+  // Apply image mapping for signs questions
+  const imageMapPath = "image_map.json";
+  if (fs.existsSync(imageMapPath)) {
+    const imageMap = JSON.parse(fs.readFileSync(imageMapPath, "utf8"));
+    for (const q of allQuestions) {
+      if (q.type === "signs") {
+        const pageNum = Math.floor((q.number - 1) / 10) + 1;
+        const imgNum = Math.floor(((q.number - 1) % 10) / 2) + 1;
+        const key = `signs-${q.format}-page${pageNum}-img${imgNum}`;
+        if (imageMap[key]) {
+          q.image = imageMap[key];
+        }
+      }
+    }
+  }
+
   fs.writeFileSync(
     "public/questions/en.json",
     JSON.stringify(allQuestions, null, 2),

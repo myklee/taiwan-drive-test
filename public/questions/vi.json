@@ -16,7 +16,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p1-img1.png"
   },
   {
     "id": "signs-true-false-002",
@@ -35,7 +35,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p1-img1.png"
   },
   {
     "id": "signs-true-false-003",
@@ -54,7 +54,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p1-img2.png"
   },
   {
     "id": "signs-true-false-004",
@@ -73,7 +73,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p1-img2.png"
   },
   {
     "id": "signs-true-false-005",
@@ -92,7 +92,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p1-img3.png"
   },
   {
     "id": "signs-true-false-006",
@@ -111,7 +111,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p1-img3.png"
   },
   {
     "id": "signs-true-false-007",
@@ -130,7 +130,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p1-img4.png"
   },
   {
     "id": "signs-true-false-008",
@@ -149,7 +149,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p1-img4.png"
   },
   {
     "id": "signs-true-false-009",
@@ -168,7 +168,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p1-img5.png"
   },
   {
     "id": "signs-true-false-010",
@@ -187,7 +187,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p1-img5.png"
   },
   {
     "id": "signs-true-false-011",
@@ -206,7 +206,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p2-img1.png"
   },
   {
     "id": "signs-true-false-012",
@@ -225,7 +225,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p2-img1.png"
   },
   {
     "id": "signs-true-false-013",
@@ -244,7 +244,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p2-img2.png"
   },
   {
     "id": "signs-true-false-014",
@@ -263,7 +263,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p2-img2.png"
   },
   {
     "id": "signs-true-false-015",
@@ -282,7 +282,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p2-img3.png"
   },
   {
     "id": "signs-true-false-016",
@@ -301,7 +301,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p2-img3.png"
   },
   {
     "id": "signs-true-false-017",
@@ -320,7 +320,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p2-img4.png"
   },
   {
     "id": "signs-true-false-018",
@@ -339,7 +339,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p2-img4.png"
   },
   {
     "id": "signs-true-false-019",
@@ -358,7 +358,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p2-img5.png"
   },
   {
     "id": "signs-true-false-020",
@@ -377,7 +377,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p2-img5.png"
   },
   {
     "id": "signs-true-false-021",
@@ -396,7 +396,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p3-img1.png"
   },
   {
     "id": "signs-true-false-022",
@@ -415,7 +415,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p3-img1.png"
   },
   {
     "id": "signs-true-false-023",
@@ -434,7 +434,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p3-img2.png"
   },
   {
     "id": "signs-true-false-024",
@@ -453,7 +453,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p3-img2.png"
   },
   {
     "id": "signs-true-false-025",
@@ -472,7 +472,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p3-img3.png"
   },
   {
     "id": "signs-true-false-026",
@@ -491,7 +491,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p3-img3.png"
   },
   {
     "id": "signs-true-false-027",
@@ -510,7 +510,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p3-img4.png"
   },
   {
     "id": "signs-true-false-028",
@@ -529,7 +529,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p3-img4.png"
   },
   {
     "id": "signs-true-false-029",
@@ -548,7 +548,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p3-img5.png"
   },
   {
     "id": "signs-true-false-030",
@@ -567,7 +567,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p3-img5.png"
   },
   {
     "id": "signs-true-false-031",
@@ -586,7 +586,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p4-img1.png"
   },
   {
     "id": "signs-true-false-032",
@@ -605,7 +605,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p4-img1.png"
   },
   {
     "id": "signs-true-false-033",
@@ -624,7 +624,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p4-img2.png"
   },
   {
     "id": "signs-true-false-034",
@@ -643,7 +643,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p4-img2.png"
   },
   {
     "id": "signs-true-false-035",
@@ -662,7 +662,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p4-img3.png"
   },
   {
     "id": "signs-true-false-036",
@@ -681,7 +681,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p4-img3.png"
   },
   {
     "id": "signs-true-false-037",
@@ -700,7 +700,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p4-img4.png"
   },
   {
     "id": "signs-true-false-038",
@@ -719,7 +719,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p4-img4.png"
   },
   {
     "id": "signs-true-false-039",
@@ -738,7 +738,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p4-img5.png"
   },
   {
     "id": "signs-true-false-040",
@@ -757,7 +757,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p4-img5.png"
   },
   {
     "id": "signs-true-false-041",
@@ -776,7 +776,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p5-img1.png"
   },
   {
     "id": "signs-true-false-042",
@@ -795,7 +795,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p5-img1.png"
   },
   {
     "id": "signs-true-false-043",
@@ -814,7 +814,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p5-img2.png"
   },
   {
     "id": "signs-true-false-044",
@@ -833,7 +833,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p5-img2.png"
   },
   {
     "id": "signs-true-false-045",
@@ -852,7 +852,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p5-img3.png"
   },
   {
     "id": "signs-true-false-046",
@@ -871,7 +871,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p5-img3.png"
   },
   {
     "id": "signs-true-false-047",
@@ -890,7 +890,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p5-img4.png"
   },
   {
     "id": "signs-true-false-048",
@@ -909,7 +909,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p5-img4.png"
   },
   {
     "id": "signs-true-false-049",
@@ -928,7 +928,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p5-img5.png"
   },
   {
     "id": "signs-true-false-050",
@@ -947,7 +947,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p5-img5.png"
   },
   {
     "id": "signs-true-false-051",
@@ -966,7 +966,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p6-img1.png"
   },
   {
     "id": "signs-true-false-052",
@@ -985,7 +985,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p6-img1.png"
   },
   {
     "id": "signs-true-false-053",
@@ -1004,7 +1004,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p6-img2.png"
   },
   {
     "id": "signs-true-false-054",
@@ -1023,7 +1023,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p6-img2.png"
   },
   {
     "id": "signs-true-false-055",
@@ -1042,7 +1042,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p6-img3.png"
   },
   {
     "id": "signs-true-false-056",
@@ -1061,7 +1061,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p6-img3.png"
   },
   {
     "id": "signs-true-false-057",
@@ -1080,7 +1080,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p6-img4.png"
   },
   {
     "id": "signs-true-false-058",
@@ -1099,7 +1099,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p6-img4.png"
   },
   {
     "id": "signs-true-false-059",
@@ -1118,7 +1118,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p6-img5.png"
   },
   {
     "id": "signs-true-false-060",
@@ -1137,7 +1137,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p6-img5.png"
   },
   {
     "id": "signs-true-false-061",
@@ -1156,7 +1156,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p7-img1.png"
   },
   {
     "id": "signs-true-false-062",
@@ -1175,7 +1175,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p7-img1.png"
   },
   {
     "id": "signs-true-false-063",
@@ -1194,7 +1194,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p7-img2.png"
   },
   {
     "id": "signs-true-false-064",
@@ -1213,7 +1213,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p7-img2.png"
   },
   {
     "id": "signs-true-false-065",
@@ -1232,7 +1232,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p7-img3.png"
   },
   {
     "id": "signs-true-false-066",
@@ -1251,7 +1251,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p7-img3.png"
   },
   {
     "id": "signs-true-false-067",
@@ -1270,7 +1270,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p7-img4.png"
   },
   {
     "id": "signs-true-false-068",
@@ -1289,7 +1289,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p7-img4.png"
   },
   {
     "id": "signs-true-false-069",
@@ -1308,7 +1308,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p7-img5.png"
   },
   {
     "id": "signs-true-false-070",
@@ -1327,7 +1327,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p7-img5.png"
   },
   {
     "id": "signs-true-false-071",
@@ -1346,7 +1346,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p8-img1.png"
   },
   {
     "id": "signs-true-false-072",
@@ -1365,7 +1365,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p8-img1.png"
   },
   {
     "id": "signs-true-false-073",
@@ -1384,7 +1384,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p8-img2.png"
   },
   {
     "id": "signs-true-false-074",
@@ -1403,7 +1403,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p8-img2.png"
   },
   {
     "id": "signs-true-false-075",
@@ -1422,7 +1422,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p8-img3.png"
   },
   {
     "id": "signs-true-false-076",
@@ -1441,7 +1441,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p8-img3.png"
   },
   {
     "id": "signs-true-false-077",
@@ -1460,7 +1460,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p8-img4.png"
   },
   {
     "id": "signs-true-false-078",
@@ -1479,7 +1479,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p8-img4.png"
   },
   {
     "id": "signs-true-false-079",
@@ -1498,7 +1498,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p8-img5.png"
   },
   {
     "id": "signs-true-false-080",
@@ -1517,7 +1517,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p8-img5.png"
   },
   {
     "id": "signs-true-false-081",
@@ -1536,7 +1536,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p9-img1.png"
   },
   {
     "id": "signs-true-false-082",
@@ -1555,7 +1555,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p9-img1.png"
   },
   {
     "id": "signs-true-false-083",
@@ -1574,7 +1574,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p9-img2.png"
   },
   {
     "id": "signs-true-false-084",
@@ -1593,7 +1593,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p9-img2.png"
   },
   {
     "id": "signs-true-false-085",
@@ -1612,7 +1612,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p9-img3.png"
   },
   {
     "id": "signs-true-false-086",
@@ -1631,7 +1631,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p9-img3.png"
   },
   {
     "id": "signs-true-false-087",
@@ -1650,7 +1650,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p9-img4.png"
   },
   {
     "id": "signs-true-false-088",
@@ -1669,7 +1669,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p9-img4.png"
   },
   {
     "id": "signs-true-false-089",
@@ -1688,7 +1688,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p9-img5.png"
   },
   {
     "id": "signs-true-false-090",
@@ -1707,7 +1707,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p9-img5.png"
   },
   {
     "id": "signs-true-false-091",
@@ -1726,7 +1726,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p10-img1.png"
   },
   {
     "id": "signs-true-false-092",
@@ -1745,7 +1745,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p10-img1.png"
   },
   {
     "id": "signs-true-false-093",
@@ -1764,7 +1764,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p10-img2.png"
   },
   {
     "id": "signs-true-false-094",
@@ -1783,7 +1783,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p10-img2.png"
   },
   {
     "id": "signs-true-false-095",
@@ -1802,7 +1802,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p10-img3.png"
   },
   {
     "id": "signs-true-false-096",
@@ -1821,7 +1821,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p10-img3.png"
   },
   {
     "id": "signs-true-false-097",
@@ -1840,7 +1840,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p10-img4.png"
   },
   {
     "id": "signs-true-false-098",
@@ -1859,7 +1859,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p10-img4.png"
   },
   {
     "id": "signs-true-false-099",
@@ -1878,7 +1878,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p10-img5.png"
   },
   {
     "id": "signs-true-false-100",
@@ -1897,7 +1897,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p10-img5.png"
   },
   {
     "id": "signs-true-false-101",
@@ -1916,7 +1916,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p11-img1.png"
   },
   {
     "id": "signs-true-false-102",
@@ -1935,7 +1935,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p11-img1.png"
   },
   {
     "id": "signs-true-false-103",
@@ -1954,7 +1954,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p11-img2.png"
   },
   {
     "id": "signs-true-false-104",
@@ -1973,7 +1973,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p11-img2.png"
   },
   {
     "id": "signs-true-false-105",
@@ -1992,7 +1992,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p11-img3.png"
   },
   {
     "id": "signs-true-false-106",
@@ -2011,7 +2011,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p11-img3.png"
   },
   {
     "id": "signs-true-false-107",
@@ -2030,7 +2030,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p11-img4.png"
   },
   {
     "id": "signs-true-false-108",
@@ -2049,7 +2049,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p11-img4.png"
   },
   {
     "id": "signs-true-false-109",
@@ -2068,7 +2068,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p11-img5.png"
   },
   {
     "id": "signs-true-false-110",
@@ -2087,7 +2087,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p11-img5.png"
   },
   {
     "id": "signs-true-false-111",
@@ -2106,7 +2106,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p12-img1.png"
   },
   {
     "id": "signs-true-false-112",
@@ -2125,7 +2125,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p12-img1.png"
   },
   {
     "id": "signs-true-false-113",
@@ -2144,7 +2144,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p12-img2.png"
   },
   {
     "id": "signs-true-false-114",
@@ -2163,7 +2163,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p12-img2.png"
   },
   {
     "id": "signs-true-false-115",
@@ -2182,7 +2182,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p12-img3.png"
   },
   {
     "id": "signs-true-false-116",
@@ -2201,7 +2201,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p12-img3.png"
   },
   {
     "id": "signs-true-false-117",
@@ -2220,7 +2220,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p12-img4.png"
   },
   {
     "id": "signs-true-false-118",
@@ -2239,7 +2239,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p12-img4.png"
   },
   {
     "id": "signs-true-false-119",
@@ -2258,7 +2258,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p12-img5.png"
   },
   {
     "id": "signs-true-false-120",
@@ -2277,7 +2277,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p12-img5.png"
   },
   {
     "id": "signs-true-false-121",
@@ -2296,7 +2296,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p13-img1.png"
   },
   {
     "id": "signs-true-false-122",
@@ -2315,7 +2315,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p13-img1.png"
   },
   {
     "id": "signs-true-false-123",
@@ -2334,7 +2334,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p13-img2.png"
   },
   {
     "id": "signs-true-false-124",
@@ -2353,7 +2353,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p13-img2.png"
   },
   {
     "id": "signs-true-false-125",
@@ -2372,7 +2372,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p13-img3.png"
   },
   {
     "id": "signs-true-false-126",
@@ -2391,7 +2391,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p13-img3.png"
   },
   {
     "id": "signs-true-false-127",
@@ -2410,7 +2410,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p13-img4.png"
   },
   {
     "id": "signs-true-false-128",
@@ -2429,7 +2429,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p13-img4.png"
   },
   {
     "id": "signs-true-false-129",
@@ -2448,7 +2448,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p13-img5.png"
   },
   {
     "id": "signs-true-false-130",
@@ -2467,7 +2467,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p13-img5.png"
   },
   {
     "id": "signs-true-false-131",
@@ -2486,7 +2486,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p14-img1.png"
   },
   {
     "id": "signs-true-false-132",
@@ -2505,7 +2505,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p14-img1.png"
   },
   {
     "id": "signs-true-false-133",
@@ -2524,7 +2524,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p14-img2.png"
   },
   {
     "id": "signs-true-false-134",
@@ -2543,7 +2543,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p14-img2.png"
   },
   {
     "id": "signs-true-false-135",
@@ -2562,7 +2562,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p14-img3.png"
   },
   {
     "id": "signs-true-false-136",
@@ -2581,7 +2581,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p14-img3.png"
   },
   {
     "id": "signs-true-false-137",
@@ -2600,7 +2600,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p14-img4.png"
   },
   {
     "id": "signs-true-false-138",
@@ -2619,7 +2619,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p14-img4.png"
   },
   {
     "id": "signs-true-false-139",
@@ -2638,7 +2638,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p14-img5.png"
   },
   {
     "id": "signs-true-false-140",
@@ -2657,7 +2657,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p14-img5.png"
   },
   {
     "id": "signs-true-false-141",
@@ -2676,7 +2676,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p15-img1.png"
   },
   {
     "id": "signs-true-false-142",
@@ -2695,7 +2695,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p15-img1.png"
   },
   {
     "id": "signs-true-false-143",
@@ -2714,7 +2714,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p15-img2.png"
   },
   {
     "id": "signs-true-false-144",
@@ -2733,7 +2733,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p15-img2.png"
   },
   {
     "id": "signs-true-false-145",
@@ -2752,7 +2752,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p15-img3.png"
   },
   {
     "id": "signs-true-false-146",
@@ -2771,7 +2771,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p15-img3.png"
   },
   {
     "id": "signs-true-false-147",
@@ -2790,7 +2790,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p15-img4.png"
   },
   {
     "id": "signs-true-false-148",
@@ -2809,7 +2809,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p15-img4.png"
   },
   {
     "id": "signs-true-false-149",
@@ -2828,7 +2828,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p15-img5.png"
   },
   {
     "id": "signs-true-false-150",
@@ -2847,7 +2847,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p15-img5.png"
   },
   {
     "id": "signs-true-false-151",
@@ -2866,7 +2866,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p16-img1.png"
   },
   {
     "id": "signs-true-false-152",
@@ -2885,7 +2885,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p16-img1.png"
   },
   {
     "id": "signs-true-false-153",
@@ -2904,7 +2904,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p16-img2.png"
   },
   {
     "id": "signs-true-false-154",
@@ -2923,7 +2923,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p16-img2.png"
   },
   {
     "id": "signs-true-false-155",
@@ -2942,7 +2942,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p16-img3.png"
   },
   {
     "id": "signs-true-false-156",
@@ -2961,7 +2961,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p16-img3.png"
   },
   {
     "id": "signs-true-false-157",
@@ -2980,7 +2980,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p16-img4.png"
   },
   {
     "id": "signs-true-false-158",
@@ -2999,7 +2999,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p16-img4.png"
   },
   {
     "id": "signs-true-false-159",
@@ -3018,7 +3018,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p16-img5.png"
   },
   {
     "id": "signs-true-false-160",
@@ -3037,7 +3037,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p16-img5.png"
   },
   {
     "id": "signs-true-false-161",
@@ -3056,7 +3056,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p17-img1.png"
   },
   {
     "id": "signs-true-false-162",
@@ -3075,7 +3075,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p17-img1.png"
   },
   {
     "id": "signs-true-false-163",
@@ -3094,7 +3094,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p17-img2.png"
   },
   {
     "id": "signs-true-false-164",
@@ -3113,7 +3113,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p17-img2.png"
   },
   {
     "id": "signs-true-false-165",
@@ -3132,7 +3132,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p17-img3.png"
   },
   {
     "id": "signs-true-false-166",
@@ -3151,7 +3151,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p17-img3.png"
   },
   {
     "id": "signs-true-false-167",
@@ -3170,7 +3170,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p17-img4.png"
   },
   {
     "id": "signs-true-false-168",
@@ -3189,7 +3189,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p17-img4.png"
   },
   {
     "id": "signs-true-false-169",
@@ -3208,7 +3208,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p17-img5.png"
   },
   {
     "id": "signs-true-false-170",
@@ -3227,7 +3227,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p17-img5.png"
   },
   {
     "id": "signs-true-false-171",
@@ -3246,7 +3246,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p18-img1.png"
   },
   {
     "id": "signs-true-false-172",
@@ -3265,7 +3265,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p18-img1.png"
   },
   {
     "id": "signs-true-false-173",
@@ -3284,7 +3284,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p18-img2.png"
   },
   {
     "id": "signs-true-false-174",
@@ -3303,7 +3303,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p18-img2.png"
   },
   {
     "id": "signs-true-false-175",
@@ -3322,7 +3322,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p18-img3.png"
   },
   {
     "id": "signs-true-false-176",
@@ -3341,7 +3341,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p18-img3.png"
   },
   {
     "id": "signs-true-false-177",
@@ -3360,7 +3360,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p18-img4.png"
   },
   {
     "id": "signs-true-false-178",
@@ -3379,7 +3379,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p18-img4.png"
   },
   {
     "id": "signs-true-false-179",
@@ -3398,7 +3398,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p18-img5.png"
   },
   {
     "id": "signs-true-false-180",
@@ -3417,7 +3417,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p18-img5.png"
   },
   {
     "id": "signs-true-false-181",
@@ -3436,7 +3436,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p19-img1.png"
   },
   {
     "id": "signs-true-false-182",
@@ -3455,7 +3455,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p19-img1.png"
   },
   {
     "id": "signs-true-false-183",
@@ -3474,7 +3474,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p19-img2.png"
   },
   {
     "id": "signs-true-false-184",
@@ -3493,7 +3493,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p19-img2.png"
   },
   {
     "id": "signs-true-false-185",
@@ -3512,7 +3512,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p19-img3.png"
   },
   {
     "id": "signs-true-false-186",
@@ -3531,7 +3531,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p19-img3.png"
   },
   {
     "id": "signs-true-false-187",
@@ -3550,7 +3550,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p19-img4.png"
   },
   {
     "id": "signs-true-false-188",
@@ -3569,7 +3569,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p19-img4.png"
   },
   {
     "id": "signs-true-false-189",
@@ -3588,7 +3588,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p19-img5.png"
   },
   {
     "id": "signs-true-false-190",
@@ -3607,7 +3607,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p19-img5.png"
   },
   {
     "id": "signs-true-false-191",
@@ -3626,7 +3626,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p20-img1.png"
   },
   {
     "id": "signs-true-false-192",
@@ -3645,7 +3645,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p20-img1.png"
   },
   {
     "id": "signs-true-false-193",
@@ -3664,7 +3664,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p20-img2.png"
   },
   {
     "id": "signs-true-false-194",
@@ -3683,7 +3683,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p20-img2.png"
   },
   {
     "id": "signs-true-false-195",
@@ -3702,7 +3702,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p20-img3.png"
   },
   {
     "id": "signs-true-false-196",
@@ -3721,7 +3721,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p20-img3.png"
   },
   {
     "id": "signs-true-false-197",
@@ -3740,7 +3740,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p20-img4.png"
   },
   {
     "id": "signs-true-false-198",
@@ -3759,7 +3759,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p20-img4.png"
   },
   {
     "id": "signs-true-false-199",
@@ -3778,7 +3778,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p20-img5.png"
   },
   {
     "id": "signs-true-false-200",
@@ -3797,7 +3797,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p20-img5.png"
   },
   {
     "id": "signs-true-false-201",
@@ -3816,7 +3816,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img1.png"
   },
   {
     "id": "signs-true-false-202",
@@ -3835,7 +3835,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p21-img1.png"
   },
   {
     "id": "signs-true-false-203",
@@ -3854,7 +3854,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img2.png"
   },
   {
     "id": "signs-true-false-204",
@@ -3873,7 +3873,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img2.png"
   },
   {
     "id": "signs-true-false-205",
@@ -3892,7 +3892,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img3.png"
   },
   {
     "id": "signs-true-false-206",
@@ -3911,7 +3911,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img3.png"
   },
   {
     "id": "signs-true-false-207",
@@ -3930,7 +3930,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img4.png"
   },
   {
     "id": "signs-true-false-208",
@@ -3949,7 +3949,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img4.png"
   },
   {
     "id": "signs-true-false-209",
@@ -3968,7 +3968,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img5.png"
   },
   {
     "id": "signs-true-false-210",
@@ -3987,7 +3987,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p21-img5.png"
   },
   {
     "id": "signs-true-false-211",
@@ -4006,7 +4006,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p22-img1.png"
   },
   {
     "id": "signs-true-false-212",
@@ -4025,7 +4025,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p22-img1.png"
   },
   {
     "id": "signs-true-false-213",
@@ -4044,7 +4044,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p22-img2.png"
   },
   {
     "id": "signs-true-false-214",
@@ -4063,7 +4063,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p22-img2.png"
   },
   {
     "id": "signs-true-false-215",
@@ -4082,7 +4082,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p22-img3.png"
   },
   {
     "id": "signs-true-false-216",
@@ -4101,7 +4101,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p22-img3.png"
   },
   {
     "id": "signs-true-false-217",
@@ -4120,7 +4120,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p22-img4.png"
   },
   {
     "id": "signs-true-false-218",
@@ -4139,7 +4139,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p22-img4.png"
   },
   {
     "id": "signs-true-false-219",
@@ -4158,7 +4158,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p22-img5.png"
   },
   {
     "id": "signs-true-false-220",
@@ -4177,7 +4177,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p22-img5.png"
   },
   {
     "id": "signs-true-false-221",
@@ -4196,7 +4196,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p23-img1.png"
   },
   {
     "id": "signs-true-false-222",
@@ -4215,7 +4215,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p23-img1.png"
   },
   {
     "id": "signs-true-false-223",
@@ -4234,7 +4234,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p23-img2.png"
   },
   {
     "id": "signs-true-false-224",
@@ -4253,7 +4253,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p23-img2.png"
   },
   {
     "id": "signs-true-false-225",
@@ -4272,7 +4272,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p23-img3.png"
   },
   {
     "id": "signs-true-false-226",
@@ -4291,7 +4291,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p23-img3.png"
   },
   {
     "id": "signs-true-false-227",
@@ -4310,7 +4310,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p23-img4.png"
   },
   {
     "id": "signs-true-false-228",
@@ -4329,7 +4329,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p23-img4.png"
   },
   {
     "id": "signs-true-false-229",
@@ -4348,7 +4348,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p23-img5.png"
   },
   {
     "id": "signs-true-false-230",
@@ -4367,7 +4367,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p23-img5.png"
   },
   {
     "id": "signs-true-false-231",
@@ -4386,7 +4386,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img1.jpeg"
   },
   {
     "id": "signs-true-false-232",
@@ -4405,7 +4405,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p24-img1.jpeg"
   },
   {
     "id": "signs-true-false-233",
@@ -4424,7 +4424,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img2.png"
   },
   {
     "id": "signs-true-false-234",
@@ -4443,7 +4443,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p24-img2.png"
   },
   {
     "id": "signs-true-false-235",
@@ -4462,7 +4462,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img3.png"
   },
   {
     "id": "signs-true-false-236",
@@ -4481,7 +4481,7 @@
       }
     ],
     "answer": "False",
-    "image": null
+    "image": "/images/signs-true-false-p24-img3.png"
   },
   {
     "id": "signs-true-false-237",
@@ -4500,7 +4500,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img4.png"
   },
   {
     "id": "signs-true-false-238",
@@ -4519,7 +4519,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img4.png"
   },
   {
     "id": "signs-true-false-239",
@@ -4538,7 +4538,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img5.png"
   },
   {
     "id": "signs-true-false-240",
@@ -4557,7 +4557,7 @@
       }
     ],
     "answer": "True",
-    "image": null
+    "image": "/images/signs-true-false-p24-img5.png"
   },
   {
     "id": "signs-multiple-choice-001",
@@ -4580,7 +4580,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img1.png"
   },
   {
     "id": "signs-multiple-choice-002",
@@ -4603,7 +4603,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img1.png"
   },
   {
     "id": "signs-multiple-choice-003",
@@ -4626,7 +4626,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img2.png"
   },
   {
     "id": "signs-multiple-choice-004",
@@ -4649,7 +4649,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img2.png"
   },
   {
     "id": "signs-multiple-choice-005",
@@ -4672,7 +4672,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img3.png"
   },
   {
     "id": "signs-multiple-choice-006",
@@ -4695,7 +4695,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img3.png"
   },
   {
     "id": "signs-multiple-choice-007",
@@ -4718,7 +4718,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img4.png"
   },
   {
     "id": "signs-multiple-choice-008",
@@ -4741,7 +4741,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img4.png"
   },
   {
     "id": "signs-multiple-choice-009",
@@ -4764,7 +4764,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img5.png"
   },
   {
     "id": "signs-multiple-choice-010",
@@ -4787,7 +4787,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p1-img5.png"
   },
   {
     "id": "signs-multiple-choice-011",
@@ -4810,7 +4810,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img1.png"
   },
   {
     "id": "signs-multiple-choice-012",
@@ -4833,7 +4833,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img1.png"
   },
   {
     "id": "signs-multiple-choice-013",
@@ -4856,7 +4856,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img2.png"
   },
   {
     "id": "signs-multiple-choice-014",
@@ -4879,7 +4879,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img2.png"
   },
   {
     "id": "signs-multiple-choice-015",
@@ -4902,7 +4902,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img3.png"
   },
   {
     "id": "signs-multiple-choice-016",
@@ -4925,7 +4925,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img3.png"
   },
   {
     "id": "signs-multiple-choice-017",
@@ -4948,7 +4948,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img4.png"
   },
   {
     "id": "signs-multiple-choice-018",
@@ -4971,7 +4971,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img4.png"
   },
   {
     "id": "signs-multiple-choice-019",
@@ -4994,7 +4994,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img5.png"
   },
   {
     "id": "signs-multiple-choice-020",
@@ -5017,7 +5017,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p2-img5.png"
   },
   {
     "id": "signs-multiple-choice-021",
@@ -5040,7 +5040,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img1.png"
   },
   {
     "id": "signs-multiple-choice-022",
@@ -5063,7 +5063,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img1.png"
   },
   {
     "id": "signs-multiple-choice-023",
@@ -5086,7 +5086,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img2.png"
   },
   {
     "id": "signs-multiple-choice-024",
@@ -5109,7 +5109,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img2.png"
   },
   {
     "id": "signs-multiple-choice-025",
@@ -5132,7 +5132,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img3.png"
   },
   {
     "id": "signs-multiple-choice-026",
@@ -5155,7 +5155,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img3.png"
   },
   {
     "id": "signs-multiple-choice-027",
@@ -5178,7 +5178,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img4.png"
   },
   {
     "id": "signs-multiple-choice-028",
@@ -5201,7 +5201,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img4.png"
   },
   {
     "id": "signs-multiple-choice-029",
@@ -5224,7 +5224,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img5.png"
   },
   {
     "id": "signs-multiple-choice-030",
@@ -5247,7 +5247,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p3-img5.png"
   },
   {
     "id": "signs-multiple-choice-031",
@@ -5270,7 +5270,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img1.png"
   },
   {
     "id": "signs-multiple-choice-032",
@@ -5293,7 +5293,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img1.png"
   },
   {
     "id": "signs-multiple-choice-033",
@@ -5316,7 +5316,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img2.png"
   },
   {
     "id": "signs-multiple-choice-034",
@@ -5339,7 +5339,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img2.png"
   },
   {
     "id": "signs-multiple-choice-035",
@@ -5362,7 +5362,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img3.png"
   },
   {
     "id": "signs-multiple-choice-036",
@@ -5385,7 +5385,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img3.png"
   },
   {
     "id": "signs-multiple-choice-037",
@@ -5408,7 +5408,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img4.png"
   },
   {
     "id": "signs-multiple-choice-038",
@@ -5431,7 +5431,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img4.png"
   },
   {
     "id": "signs-multiple-choice-039",
@@ -5454,7 +5454,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img5.png"
   },
   {
     "id": "signs-multiple-choice-040",
@@ -5477,7 +5477,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p4-img5.png"
   },
   {
     "id": "signs-multiple-choice-041",
@@ -5500,7 +5500,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img1.png"
   },
   {
     "id": "signs-multiple-choice-042",
@@ -5523,7 +5523,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img1.png"
   },
   {
     "id": "signs-multiple-choice-043",
@@ -5546,7 +5546,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img2.png"
   },
   {
     "id": "signs-multiple-choice-044",
@@ -5569,7 +5569,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img2.png"
   },
   {
     "id": "signs-multiple-choice-045",
@@ -5592,7 +5592,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img3.png"
   },
   {
     "id": "signs-multiple-choice-046",
@@ -5615,7 +5615,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img3.png"
   },
   {
     "id": "signs-multiple-choice-047",
@@ -5638,7 +5638,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img4.png"
   },
   {
     "id": "signs-multiple-choice-048",
@@ -5661,7 +5661,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img4.png"
   },
   {
     "id": "signs-multiple-choice-049",
@@ -5684,7 +5684,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img5.png"
   },
   {
     "id": "signs-multiple-choice-050",
@@ -5703,7 +5703,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p5-img5.png"
   },
   {
     "id": "signs-multiple-choice-051",
@@ -5726,7 +5726,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img1.png"
   },
   {
     "id": "signs-multiple-choice-052",
@@ -5749,7 +5749,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img1.png"
   },
   {
     "id": "signs-multiple-choice-053",
@@ -5772,7 +5772,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img2.png"
   },
   {
     "id": "signs-multiple-choice-054",
@@ -5795,7 +5795,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img2.png"
   },
   {
     "id": "signs-multiple-choice-055",
@@ -5818,7 +5818,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img3.png"
   },
   {
     "id": "signs-multiple-choice-056",
@@ -5841,7 +5841,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img3.png"
   },
   {
     "id": "signs-multiple-choice-057",
@@ -5864,7 +5864,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img4.png"
   },
   {
     "id": "signs-multiple-choice-058",
@@ -5887,7 +5887,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img4.png"
   },
   {
     "id": "signs-multiple-choice-059",
@@ -5910,7 +5910,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img5.png"
   },
   {
     "id": "signs-multiple-choice-060",
@@ -5933,7 +5933,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p6-img5.png"
   },
   {
     "id": "signs-multiple-choice-061",
@@ -5956,7 +5956,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img1.png"
   },
   {
     "id": "signs-multiple-choice-062",
@@ -5979,7 +5979,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img1.png"
   },
   {
     "id": "signs-multiple-choice-063",
@@ -6002,7 +6002,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img2.png"
   },
   {
     "id": "signs-multiple-choice-064",
@@ -6025,7 +6025,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img2.png"
   },
   {
     "id": "signs-multiple-choice-065",
@@ -6048,7 +6048,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img3.png"
   },
   {
     "id": "signs-multiple-choice-066",
@@ -6071,7 +6071,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img3.png"
   },
   {
     "id": "signs-multiple-choice-067",
@@ -6094,7 +6094,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img4.png"
   },
   {
     "id": "signs-multiple-choice-068",
@@ -6117,7 +6117,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img4.png"
   },
   {
     "id": "signs-multiple-choice-069",
@@ -6140,7 +6140,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img5.png"
   },
   {
     "id": "signs-multiple-choice-070",
@@ -6163,7 +6163,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p7-img5.png"
   },
   {
     "id": "signs-multiple-choice-071",
@@ -6186,7 +6186,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img1.png"
   },
   {
     "id": "signs-multiple-choice-072",
@@ -6209,7 +6209,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img1.png"
   },
   {
     "id": "signs-multiple-choice-073",
@@ -6232,7 +6232,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img2.png"
   },
   {
     "id": "signs-multiple-choice-074",
@@ -6255,7 +6255,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img2.png"
   },
   {
     "id": "signs-multiple-choice-075",
@@ -6278,7 +6278,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img3.png"
   },
   {
     "id": "signs-multiple-choice-076",
@@ -6301,7 +6301,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img3.png"
   },
   {
     "id": "signs-multiple-choice-077",
@@ -6324,7 +6324,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img4.png"
   },
   {
     "id": "signs-multiple-choice-078",
@@ -6347,7 +6347,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img4.png"
   },
   {
     "id": "signs-multiple-choice-079",
@@ -6370,7 +6370,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img5.png"
   },
   {
     "id": "signs-multiple-choice-080",
@@ -6393,7 +6393,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p8-img5.png"
   },
   {
     "id": "signs-multiple-choice-081",
@@ -6416,7 +6416,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img1.png"
   },
   {
     "id": "signs-multiple-choice-082",
@@ -6439,7 +6439,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img1.png"
   },
   {
     "id": "signs-multiple-choice-083",
@@ -6462,7 +6462,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img2.png"
   },
   {
     "id": "signs-multiple-choice-084",
@@ -6485,7 +6485,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img2.png"
   },
   {
     "id": "signs-multiple-choice-085",
@@ -6508,7 +6508,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img3.png"
   },
   {
     "id": "signs-multiple-choice-086",
@@ -6531,7 +6531,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img3.png"
   },
   {
     "id": "signs-multiple-choice-087",
@@ -6554,7 +6554,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img4.png"
   },
   {
     "id": "signs-multiple-choice-088",
@@ -6577,7 +6577,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img4.png"
   },
   {
     "id": "signs-multiple-choice-089",
@@ -6600,7 +6600,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img5.png"
   },
   {
     "id": "signs-multiple-choice-090",
@@ -6623,7 +6623,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p9-img5.png"
   },
   {
     "id": "signs-multiple-choice-091",
@@ -6646,7 +6646,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img1.png"
   },
   {
     "id": "signs-multiple-choice-092",
@@ -6669,7 +6669,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img1.png"
   },
   {
     "id": "signs-multiple-choice-093",
@@ -6692,7 +6692,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img2.png"
   },
   {
     "id": "signs-multiple-choice-094",
@@ -6715,7 +6715,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img2.png"
   },
   {
     "id": "signs-multiple-choice-095",
@@ -6738,7 +6738,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img3.png"
   },
   {
     "id": "signs-multiple-choice-096",
@@ -6761,7 +6761,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img3.png"
   },
   {
     "id": "signs-multiple-choice-097",
@@ -6784,7 +6784,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img4.png"
   },
   {
     "id": "signs-multiple-choice-098",
@@ -6807,7 +6807,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img4.png"
   },
   {
     "id": "signs-multiple-choice-099",
@@ -6826,7 +6826,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img5.png"
   },
   {
     "id": "signs-multiple-choice-100",
@@ -6849,7 +6849,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p10-img5.png"
   },
   {
     "id": "signs-multiple-choice-101",
@@ -6872,7 +6872,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img1.png"
   },
   {
     "id": "signs-multiple-choice-102",
@@ -6895,7 +6895,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img1.png"
   },
   {
     "id": "signs-multiple-choice-103",
@@ -6918,7 +6918,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img2.png"
   },
   {
     "id": "signs-multiple-choice-104",
@@ -6941,7 +6941,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img2.png"
   },
   {
     "id": "signs-multiple-choice-105",
@@ -6964,7 +6964,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img3.png"
   },
   {
     "id": "signs-multiple-choice-106",
@@ -6987,7 +6987,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img3.png"
   },
   {
     "id": "signs-multiple-choice-107",
@@ -7010,7 +7010,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img4.png"
   },
   {
     "id": "signs-multiple-choice-108",
@@ -7033,7 +7033,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img4.png"
   },
   {
     "id": "signs-multiple-choice-109",
@@ -7056,7 +7056,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img5.png"
   },
   {
     "id": "signs-multiple-choice-110",
@@ -7079,7 +7079,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p11-img5.png"
   },
   {
     "id": "signs-multiple-choice-111",
@@ -7102,7 +7102,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img1.png"
   },
   {
     "id": "signs-multiple-choice-112",
@@ -7125,7 +7125,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img1.png"
   },
   {
     "id": "signs-multiple-choice-113",
@@ -7148,7 +7148,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img2.png"
   },
   {
     "id": "signs-multiple-choice-114",
@@ -7171,7 +7171,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img2.png"
   },
   {
     "id": "signs-multiple-choice-115",
@@ -7194,7 +7194,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img3.png"
   },
   {
     "id": "signs-multiple-choice-116",
@@ -7217,7 +7217,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img3.png"
   },
   {
     "id": "signs-multiple-choice-117",
@@ -7240,7 +7240,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img4.png"
   },
   {
     "id": "signs-multiple-choice-118",
@@ -7263,7 +7263,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img4.png"
   },
   {
     "id": "signs-multiple-choice-119",
@@ -7286,7 +7286,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img5.png"
   },
   {
     "id": "signs-multiple-choice-120",
@@ -7309,7 +7309,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p12-img5.png"
   },
   {
     "id": "signs-multiple-choice-121",
@@ -7332,7 +7332,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img1.png"
   },
   {
     "id": "signs-multiple-choice-122",
@@ -7355,7 +7355,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img1.png"
   },
   {
     "id": "signs-multiple-choice-123",
@@ -7378,7 +7378,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img2.png"
   },
   {
     "id": "signs-multiple-choice-124",
@@ -7401,7 +7401,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img2.png"
   },
   {
     "id": "signs-multiple-choice-125",
@@ -7424,7 +7424,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img3.png"
   },
   {
     "id": "signs-multiple-choice-126",
@@ -7447,7 +7447,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img3.png"
   },
   {
     "id": "signs-multiple-choice-127",
@@ -7470,7 +7470,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img4.png"
   },
   {
     "id": "signs-multiple-choice-128",
@@ -7493,7 +7493,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img4.png"
   },
   {
     "id": "signs-multiple-choice-129",
@@ -7516,7 +7516,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img5.png"
   },
   {
     "id": "signs-multiple-choice-130",
@@ -7539,7 +7539,7 @@
       }
     ],
     "answer": "2",
-    "image": null
+    "image": "/images/signs-multiple-choice-p13-img5.png"
   },
   {
     "id": "signs-multiple-choice-131",
@@ -7562,7 +7562,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img1.jpeg"
   },
   {
     "id": "signs-multiple-choice-132",
@@ -7585,7 +7585,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img1.jpeg"
   },
   {
     "id": "signs-multiple-choice-133",
@@ -7608,7 +7608,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img2.png"
   },
   {
     "id": "signs-multiple-choice-134",
@@ -7631,7 +7631,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img2.png"
   },
   {
     "id": "signs-multiple-choice-135",
@@ -7654,7 +7654,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img3.png"
   },
   {
     "id": "signs-multiple-choice-136",
@@ -7677,7 +7677,7 @@
       }
     ],
     "answer": "1",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img3.png"
   },
   {
     "id": "signs-multiple-choice-137",
@@ -7700,7 +7700,7 @@
       }
     ],
     "answer": "3",
-    "image": null
+    "image": "/images/signs-multiple-choice-p14-img4.png"
   },
   {
     "id": "regulations-true-false-001",
