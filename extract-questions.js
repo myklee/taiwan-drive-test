@@ -205,7 +205,7 @@ async function main() {
         const imgNum = Math.floor(((q.number - 1) % 10) / 2) + 1;
         const key = `signs-${q.format}-page${pageNum}-img${imgNum}`;
         if (imageMap[key]) {
-          q.image = imageMap[key];
+          q.image = imageMap[key].replace(/^\//, "");
         }
       }
     }
