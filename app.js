@@ -259,6 +259,7 @@ function renderQuestion() {
       <div id="feedback"></div>
       <div class="controls">
         <button class="btn btn-secondary" id="prev-btn" ${currentQuestionIndex === 0 ? "disabled" : ""}>Previous</button>
+        <button class="btn btn-random" id="random-btn">🎲 Random</button>
         <button class="btn btn-primary" id="next-btn">Next</button>
       </div>
     </div>
@@ -288,6 +289,13 @@ function renderQuestion() {
       currentQuestionIndex++;
       renderQuestion();
     }
+  });
+
+  document.getElementById("random-btn")?.addEventListener("click", () => {
+    const next = Math.floor(Math.random() * filteredQuestions.length);
+    currentQuestionIndex = next;
+    renderQuestion();
+    renderIndex();
   });
 }
 

@@ -202,7 +202,12 @@ async function main() {
     for (const q of allQuestions) {
       if (q.type === "signs") {
         const pageNum = Math.floor((q.number - 1) / 10) + 1;
-        const imgNum = Math.floor(((q.number - 1) % 10) / 2) + 1;
+        // TF: 5 images per page (2 questions per image)
+        // MC: 10 images per page (1 question per image)
+        const imgNum =
+          q.format === "true-false"
+            ? Math.floor(((q.number - 1) % 10) / 2) + 1
+            : ((q.number - 1) % 10) + 1;
         const key = `signs-${q.format}-page${pageNum}-img${imgNum}`;
         if (imageMap[key]) {
           q.image = imageMap[key].replace(/^\//, "");
