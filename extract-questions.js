@@ -34,9 +34,12 @@ function extractEmbeddedOptions(questionText) {
   // Split on (1), (2), (3) markers - handles option text containing parentheses
   const parts = questionText.split(/(?=\(\d\))/);
   const options = [];
-  let cleanQuestion = parts[0].trim();
+  // Check if text starts with (1) — if so, all parts are options, no question text
+  const startsWithOption = /^\(\d\)/.test(questionText.trim());
+  const cleanQuestion = startsWithOption ? "" : parts[0].trim();
+  const startIdx = startsWithOption ? 0 : 1;
 
-  for (let i = 1; i < parts.length; i++) {
+  for (let i = startIdx; i < parts.length; i++) {
     const match = parts[i].match(/^\((\d)\)\s*([\s\S]+)/);
     if (match) {
       // Strip page header artifacts from option text
@@ -136,7 +139,7 @@ async function parseQuestions(text, type, format) {
         }
       }
 
-      if (questionText && answer) {
+      if ((questionText || format === "multiple-choice") && answer) {
         const question = {
           id: `${type}-${format}-${questionNum}`,
           number: parseInt(questionNum),
@@ -158,7 +161,8 @@ async function parseQuestions(text, type, format) {
           if (options.length === 0 && questionText.includes("(1)")) {
             const { cleanQuestion, options: embeddedOptions } =
               extractEmbeddedOptions(questionText);
-            question.question = cleanQuestion;
+            question.question =
+              cleanQuestion || questionText.split("(1)")[0].trim() || "";
             question.options = embeddedOptions;
           } else {
             question.options = options;
