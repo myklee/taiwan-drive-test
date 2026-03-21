@@ -28,8 +28,18 @@ for pdf_info in pdf_files:
     for page_num in range(len(doc)):
         page = doc[page_num]
         
-        # Get images on this page
-        image_list = page.get_images()
+        # Get images on this page, sorted by vertical position (top to bottom)
+        image_list = page.get_images(full=True)
+        
+        # Sort images by their Y position on the page
+        images_with_pos = []
+        for img in image_list:
+            xref = img[0]
+            rects = page.get_image_rects(xref)
+            y_pos = rects[0].y0 if rects else 0
+            images_with_pos.append((y_pos, img))
+        images_with_pos.sort(key=lambda x: x[0])
+        image_list = [img for _, img in images_with_pos]
         
         print(f"  Page {page_num + 1}: Found {len(image_list)} images")
         

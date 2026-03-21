@@ -4386,7 +4386,7 @@
       }
     ],
     "answer": "True",
-    "image": "images/signs-true-false-p24-img1.jpeg"
+    "image": "images/signs-true-false-p24-img1.png"
   },
   {
     "id": "signs-true-false-232",
@@ -4405,7 +4405,7 @@
       }
     ],
     "answer": "False",
-    "image": "images/signs-true-false-p24-img1.jpeg"
+    "image": "images/signs-true-false-p24-img1.png"
   },
   {
     "id": "signs-true-false-233",
@@ -4500,7 +4500,7 @@
       }
     ],
     "answer": "True",
-    "image": "images/signs-true-false-p24-img4.png"
+    "image": "images/signs-true-false-p24-img4.jpeg"
   },
   {
     "id": "signs-true-false-238",
@@ -4519,7 +4519,7 @@
       }
     ],
     "answer": "True",
-    "image": "images/signs-true-false-p24-img4.png"
+    "image": "images/signs-true-false-p24-img4.jpeg"
   },
   {
     "id": "signs-true-false-239",
@@ -4538,7 +4538,7 @@
       }
     ],
     "answer": "True",
-    "image": "images/signs-true-false-p24-img5.png"
+    "image": "images/signs-true-false-p24-img5.jpeg"
   },
   {
     "id": "signs-true-false-240",
@@ -4557,7 +4557,7 @@
       }
     ],
     "answer": "True",
-    "image": "images/signs-true-false-p24-img5.png"
+    "image": "images/signs-true-false-p24-img5.jpeg"
   },
   {
     "id": "signs-multiple-choice-001",
