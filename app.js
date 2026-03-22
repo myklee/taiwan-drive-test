@@ -364,37 +364,24 @@ function renderFilters() {
   const lang = LANGUAGES.find((l) => l.code === activeLanguage);
   const labels = lang?.filters ?? LANGUAGES[0].filters;
   const filterKeys = Object.keys(labels);
-  const activeFilter = (() => {
-    const activeBtn = document.querySelector(".filter-btn.active");
-    return activeBtn?.dataset.filter ?? "all";
-  })();
 
-  const filtersDiv = document.getElementById("filters");
   const filterSelect = document.getElementById("filter-select");
-  if (!filtersDiv || !filterSelect) return;
+  if (!filterSelect) return;
 
-  filtersDiv.innerHTML = filterKeys
-    .map(
-      (key) =>
-        `<button class="filter-btn ${key === activeFilter ? "active" : ""}" data-filter="${key}">${labels[key]}</button>`,
-    )
-    .join("");
+  const activeFilter = filterSelect.value || "all";
 
   filterSelect.innerHTML = filterKeys
     .map((key) => `<option value="${key}">${labels[key]}</option>`)
     .join("");
-  filterSelect.value = activeFilter;
+  filterSelect.value = filterKeys.includes(activeFilter) ? activeFilter : "all";
 
-  filtersDiv.querySelectorAll(".filter-btn").forEach((btn) => {
-    btn.addEventListener("click", () => applyFilter(btn.dataset.filter));
-  });
-  filterSelect.addEventListener("change", (e) => applyFilter(e.target.value));
+  // Remove old listener by replacing the element
+  const newSelect = filterSelect.cloneNode(true);
+  filterSelect.parentNode.replaceChild(newSelect, filterSelect);
+  newSelect.addEventListener("change", (e) => applyFilter(e.target.value));
 }
 
 function applyFilter(filter) {
-  document.querySelectorAll(".filter-btn").forEach((b) => {
-    b.classList.toggle("active", b.dataset.filter === filter);
-  });
   const filterSelect = document.getElementById("filter-select");
   if (filterSelect) filterSelect.value = filter;
 

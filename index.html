@@ -43,25 +43,6 @@
         color: #333;
         margin-bottom: 10px;
       }
-      .filters {
-        display: flex;
-        gap: 10px;
-        flex-wrap: wrap;
-        margin-top: 15px;
-      }
-      .filter-btn {
-        padding: 8px 16px;
-        border: 2px solid #ddd;
-        background: white;
-        border-radius: 6px;
-        cursor: pointer;
-        transition: all 0.2s;
-      }
-      .filter-btn.active {
-        background: #007bff;
-        color: white;
-        border-color: #007bff;
-      }
       .stats {
         display: flex;
         gap: 20px;
@@ -248,29 +229,11 @@
         .stats {
           margin-top: 8px;
         }
-        .filters {
-          display: none;
-        }
-        .filter-select {
-          display: block;
-          width: 100%;
-          margin-top: 10px;
-          padding: 8px 10px;
-          border: 2px solid #ddd;
-          border-radius: 6px;
-          font-size: 14px;
-          background: white;
-          cursor: pointer;
-        }
         .question-card {
           padding: 16px;
         }
         .question-text {
           font-size: 16px;
-        }
-        .filter-btn {
-          padding: 6px 12px;
-          font-size: 14px;
         }
         .btn {
           padding: 10px 18px;
@@ -412,8 +375,11 @@
           <h1>🚗 Taiwan Driving Test Practice</h1>
           <p>Practice with real test questions</p>
           <div id="lang-selector" class="lang-selector"></div>
-          <div id="filters" class="filters"></div>
-          <select class="filter-select" id="filter-select"></select>
+          <select
+            class="header-select"
+            id="filter-select"
+            style="margin-top: 12px; width: 100%"
+          ></select>
           <div class="stats">
             <span>Total: <strong id="total-count">0</strong></span>
           </div>
