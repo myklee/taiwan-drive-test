@@ -171,8 +171,15 @@ function toggleFavorite(questionId) {
     favorites.add(questionId);
   }
   saveFavorites();
-  renderQuestion();
-  renderIndex();
+  // Re-apply filter so starred list stays in sync
+  const filterSelect = document.getElementById("filter-select");
+  const activeFilter = filterSelect?.value ?? "all";
+  if (activeFilter === "starred") {
+    applyFilter("starred");
+  } else {
+    renderQuestion();
+    renderIndex();
+  }
 }
 
 async function loadQuestions(lang = "en") {
@@ -369,11 +376,18 @@ function renderFilters() {
   if (!filterSelect) return;
 
   const activeFilter = filterSelect.value || "all";
+  const starredLabel = lang?.starredLabel ?? "⭐ Starred";
 
-  filterSelect.innerHTML = filterKeys
-    .map((key) => `<option value="${key}">${labels[key]}</option>`)
-    .join("");
-  filterSelect.value = filterKeys.includes(activeFilter) ? activeFilter : "all";
+  filterSelect.innerHTML = [
+    ...filterKeys.map(
+      (key) => `<option value="${key}">${labels[key]}</option>`,
+    ),
+    `<option value="starred">${starredLabel}</option>`,
+  ].join("");
+  filterSelect.value =
+    filterKeys.includes(activeFilter) || activeFilter === "starred"
+      ? activeFilter
+      : "all";
 
   // Remove old listener by replacing the element
   const newSelect = filterSelect.cloneNode(true);
@@ -388,7 +402,9 @@ function applyFilter(filter) {
   filteredQuestions =
     filter === "all"
       ? [...allQuestions]
-      : allQuestions.filter((q) => `${q.type}-${q.format}` === filter);
+      : filter === "starred"
+        ? allQuestions.filter((q) => favorites.has(q.id))
+        : allQuestions.filter((q) => `${q.type}-${q.format}` === filter);
   currentQuestionIndex = 0;
   updateStats();
   renderQuestion();
