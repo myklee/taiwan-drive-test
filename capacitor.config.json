@@ -1,0 +1,13 @@
+{
+  "appId": "com.myklee.taiwandrivetest",
+  "appName": "Taiwan Driving Test",
+  "webDir": "dist",
+  "android": {
+    "buildOptions": {
+      "releaseType": "AAB"
+    }
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}

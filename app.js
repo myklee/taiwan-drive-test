@@ -1,3 +1,24 @@
+import { Capacitor } from "@capacitor/core";
+import { Preferences } from "@capacitor/preferences";
+import { Haptics, ImpactStyle, NotificationType } from "@capacitor/haptics";
+
+const isNative = Capacitor.isNativePlatform();
+
+// Storage: native builds use Capacitor Preferences (UserDefaults / SharedPreferences),
+// which survives storage pressure and app updates. The web build keeps using raw
+// localStorage — the Preferences web shim would prefix keys and orphan the favorites
+// existing site visitors have already saved.
+const storage = {
+  async get(key) {
+    if (isNative) return (await Preferences.get({ key })).value;
+    return localStorage.getItem(key);
+  },
+  async set(key, value) {
+    if (isNative) return Preferences.set({ key, value });
+    localStorage.setItem(key, value);
+  },
+};
+
 const LANGUAGES = [
   {
     code: "en",
@@ -148,9 +169,9 @@ function favKey() {
   return `favorites_${activeLanguage}`;
 }
 
-// Load favorites from localStorage
-function loadFavorites() {
-  const saved = localStorage.getItem(favKey());
+// Load favorites from persistent storage
+async function loadFavorites() {
+  const saved = await storage.get(favKey());
   if (saved) {
     favorites = new Set(JSON.parse(saved));
   } else {
@@ -158,9 +179,9 @@ function loadFavorites() {
   }
 }
 
-// Save favorites to localStorage
+// Save favorites to persistent storage
 function saveFavorites() {
-  localStorage.setItem(favKey(), JSON.stringify([...favorites]));
+  storage.set(favKey(), JSON.stringify([...favorites]));
 }
 
 // Toggle favorite
@@ -170,6 +191,7 @@ function toggleFavorite(questionId) {
   } else {
     favorites.add(questionId);
   }
+  if (isNative) Haptics.impact({ style: ImpactStyle.Light });
   saveFavorites();
   // Re-apply filter so starred list stays in sync
   const filterSelect = document.getElementById("filter-select");
@@ -200,7 +222,7 @@ async function loadQuestions(lang = "en") {
     currentQuestionIndex = 0;
     // Reset filter UI to "all"
     renderFilters();
-    loadFavorites();
+    await loadFavorites();
     updateStats();
     renderQuestion();
     renderIndex();
@@ -322,6 +344,12 @@ function handleAnswer(selected, question) {
     }
   });
 
+  if (isNative) {
+    Haptics.notification({
+      type: isCorrect ? NotificationType.Success : NotificationType.Error,
+    });
+  }
+
   if (isCorrect) {
     feedback.innerHTML = '<div class="feedback correct">✓ Correct!</div>';
   } else {
@@ -332,7 +360,7 @@ function handleAnswer(selected, question) {
 async function switchLanguage(langCode) {
   if (langCode === activeLanguage) return;
   activeLanguage = langCode;
-  localStorage.setItem("active_language", langCode);
+  storage.set("active_language", langCode);
   renderLangSelector();
   renderFilters();
   await loadQuestions(activeLanguage);
@@ -342,21 +370,28 @@ function renderLangSelector() {
   const container = document.getElementById("lang-selector");
   if (!container) return;
 
+  // The PDF links are served by the dev-only `serve-res` Vite middleware, so they
+  // 404 in the native app (and in the deployed site). Native builds ship fully
+  // offline with no remote fetches, so the dropdown is omitted there entirely.
   container.innerHTML = `
     <select id="lang-select" class="header-select">
       ${LANGUAGES.map((lang) => `<option value="${lang.code}" ${lang.code === activeLanguage ? "selected" : ""}>${lang.name}</option>`).join("")}
     </select>
-    <select id="pdf-select" class="header-select">
+    ${
+      isNative
+        ? ""
+        : `<select id="pdf-select" class="header-select">
       <option value="">PDF downloads</option>
       ${(LANGUAGES.find((l) => l.code === activeLanguage)?.pdfs ?? []).map((p) => `<option value="${p.file}">${p.file}</option>`).join("")}
-    </select>
+    </select>`
+    }
   `;
 
   document.getElementById("lang-select").addEventListener("change", (e) => {
     switchLanguage(e.target.value);
   });
 
-  document.getElementById("pdf-select").addEventListener("change", (e) => {
+  document.getElementById("pdf-select")?.addEventListener("change", (e) => {
     const file = e.target.value;
     if (!file) return;
     const a = document.createElement("a");
@@ -412,14 +447,14 @@ function applyFilter(filter) {
 }
 
 // Initialize: restore persisted language or fall back to English
-{
-  const persisted = localStorage.getItem("active_language");
+(async () => {
+  const persisted = await storage.get("active_language");
   const validCodes = LANGUAGES.map((l) => l.code);
   activeLanguage = validCodes.includes(persisted) ? persisted : "en";
   renderLangSelector();
   renderFilters();
-  loadQuestions(activeLanguage);
-}
+  await loadQuestions(activeLanguage);
+})();
 
 // Mobile index toggle
 document.getElementById("index-toggle")?.addEventListener("click", () => {
